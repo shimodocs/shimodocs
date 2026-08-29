@@ -6,6 +6,8 @@
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
+<p><strong>ShimoDocs</strong> 是一套自托管文档协作套件，可在你的私有云中提供实时文档、文字处理、电子表格、演示文稿、表单和多维表格产品。</p>
+
 <p>The better Google Docs in <strong>Private Cloud.</strong></p>
 
 在自己的服务器或私有云中，获得熟悉、流畅的实时文档协作体验。

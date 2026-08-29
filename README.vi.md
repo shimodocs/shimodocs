@@ -6,6 +6,8 @@
 
 <h3>Đám mây của bạn. Tài liệu của bạn. Quyền kiểm soát của bạn.</h3>
 
+<p><strong>ShimoDocs</strong> là bộ công cụ cộng tác tài liệu tự lưu trữ, cung cấp tài liệu, trình soạn thảo văn bản, bảng tính, bản trình bày, biểu mẫu và bảng theo thời gian thực trong đám mây riêng của bạn.</p>
+
 <p>Trải nghiệm Google Docs tốt hơn trong <strong>đám mây riêng.</strong></p>
 
 Trải nghiệm cộng tác tài liệu thời gian thực quen thuộc và liền mạch trên máy chủ hoặc đám mây riêng của bạn.

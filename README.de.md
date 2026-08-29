@@ -6,6 +6,8 @@
 
 <h3>Ihre Cloud. Ihre Dokumente. Ihre Kontrolle.</h3>
 
+<p><strong>ShimoDocs</strong> ist eine selbst gehostete Suite für Dokumentenzusammenarbeit mit Dokumenten, Textverarbeitung, Tabellenkalkulationen, Präsentationen, Formularen und Tabellen in Echtzeit in Ihrer Private Cloud.</p>
+
 <p>Die bessere Google-Docs-Erfahrung in Ihrer <strong>Private Cloud.</strong></p>
 
 Vertraute, reibungslose Zusammenarbeit an Dokumenten in Echtzeit – auf Ihren eigenen Servern oder in Ihrer Private Cloud.

@@ -6,6 +6,8 @@
 
 <h3>Votre cloud. Vos documents. Votre contrôle.</h3>
 
+<p><strong>ShimoDocs</strong> est une suite de collaboration documentaire auto-hébergée qui propose des documents, du traitement de texte, des feuilles de calcul, des présentations, des formulaires et des tableaux en temps réel dans votre cloud privé.</p>
+
 <p>Une meilleure expérience Google Docs dans votre <strong>cloud privé.</strong></p>
 
 Retrouvez une collaboration documentaire en temps réel, familière et fluide, sur vos propres serveurs ou dans votre cloud privé.

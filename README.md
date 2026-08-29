@@ -6,6 +6,8 @@
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
+<p><strong>ShimoDocs</strong> is a self-hosted document collaboration suite for real-time docs, writers, sheets, presentations, forms, and tables in your private cloud.</p>
+
 <p>The better Google Docs in <strong>Private Cloud.</strong></p>
 
 Get a familiar, seamless real-time document collaboration experience on your own servers or private cloud.

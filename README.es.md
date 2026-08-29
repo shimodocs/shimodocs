@@ -6,6 +6,8 @@
 
 <h3>Tu nube. Tus documentos. Tu control.</h3>
 
+<p><strong>ShimoDocs</strong> es una suite de colaboración documental autoalojada que ofrece documentos, procesamiento de textos, hojas de cálculo, presentaciones, formularios y tablas en tiempo real en tu nube privada.</p>
+
 <p>Una alternativa superior a Google Docs en tu <strong>nube privada.</strong></p>
 
 Disfruta de una colaboración documental en tiempo real, familiar y fluida, en tus propios servidores o nube privada.
