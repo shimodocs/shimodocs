@@ -9,7 +9,7 @@
 ---
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <strong>Español</strong> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![Gratis para siempre para 5 usuarios](https://img.shields.io/badge/Gratis_para_siempre-Hasta_5_usuarios-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5 usuarios gratis para siempre](https://img.shields.io/badge/5_usuarios-Gratis_para_siempre-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![Descargas de GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Contáctanos](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -160,14 +160,14 @@ ShimoDocs utiliza un **modo Responses** orientado a agentes, no un simple chat e
 </tr>
 </table>
 
-## Gratis para siempre para equipos de hasta 5 usuarios
+## 5 usuarios gratis para siempre
 
 > [!IMPORTANT]
-> ShimoDocs es **gratis para siempre para equipos de hasta 5 usuarios**. La licencia gratuita incluye los seis productos y la experiencia completa de colaboración en tiempo real, sin tarjeta de crédito. Despliégalo en tus servidores, nube privada o centro de datos para que tus datos permanezcan en tu entorno.
+> ShimoDocs es **gratis para siempre para 5 usuarios**. La licencia gratuita incluye los seis productos y la experiencia completa de colaboración en tiempo real, sin tarjeta de crédito. Despliégalo en tus servidores, nube privada o centro de datos para que tus datos permanezcan en tu entorno.
 
 | Plan gratuito | Detalles |
 | --- | --- |
-| 👥 Tamaño del equipo | Hasta 5 usuarios, gratis para siempre |
+| 👥 Tamaño del equipo | 5 usuarios, gratis para siempre |
 | 🧰 Productos incluidos | Document, Writer, Sheet, Presentation, Form y Table |
 | 🤝 Colaboración | Edición en tiempo real, comentarios, revisión, uso compartido y permisos |
 | 💳 Tarjeta de crédito | No requerida |
@@ -231,7 +231,7 @@ ShimoDocs ofrece la experiencia de colaboración que tu equipo ya conoce, con m�
 
 <details><summary><strong>¿ShimoDocs es realmente gratuito?</strong></summary>
 
-Sí. Los equipos de hasta 5 usuarios pueden escribir a [support.global@shimo.im](mailto:support.global@shimo.im) para solicitar una licencia gratuita, sin tarjeta de crédito. Los equipos de más de 5 usuarios pueden elegir un plan de pago según su tamaño.
+Sí. Un equipo de 5 usuarios puede escribir a [support.global@shimo.im](mailto:support.global@shimo.im) para solicitar una licencia gratuita permanente, sin tarjeta de crédito. Los equipos más grandes pueden elegir un plan de pago según su tamaño.
 
 </details>
 
@@ -263,7 +263,7 @@ ShimoDocs cuenta con más de 12 años de experiencia en colaboración documental
 
 ### ¿Listo para devolver tus documentos a tu propia nube?
 
-**Gratis para hasta 5 usuarios · Sin tarjeta de crédito · Los datos permanecen en tu entorno**
+**5 usuarios gratis para siempre · Sin tarjeta de crédito · Los datos permanecen en tu entorno**
 
 [**Descargar paquete**](https://github.com/shimodocs/shimodocs/releases) · [**Solicitar licencia gratuita**](mailto:support.global@shimo.im) · [**Prueba en línea**](https://shimodocs.com/#online-trial) · [**Contactar con ventas**](https://shimodocs.com/contact)
 

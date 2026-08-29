@@ -10,7 +10,7 @@
 
 <p><a href="./README.md">English</a> · <strong>简体中文</strong> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![最多 5 人永久免费](https://img.shields.io/badge/最多_5_人-永久免费-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5 人永久免费](https://img.shields.io/badge/5_人-永久免费-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release 下载量](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![联系我们](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -161,14 +161,14 @@ ShimoDocs 使用面向任务和结果的 **Responses 模式**，不是普通的 
 </tr>
 </table>
 
-## 最多 5 人，永久免费
+## 5 人永久免费
 
 > [!IMPORTANT]
-> ShimoDocs 对**最多 5 人的团队永久免费**。免费 License 包含全部六个产品和完整的实时协作体验，无需信用卡。你可以将它部署在自己的服务器、私有云或数据中心，让数据始终留在自己的环境中。
+> ShimoDocs 支持 **5 人永久免费使用**。免费 License 包含全部六个产品和完整的实时协作体验，无需信用卡。你可以将它部署在自己的服务器、私有云或数据中心，让数据始终留在自己的环境中。
 
 | 免费版 | 说明 |
 | --- | --- |
-| 👥 团队人数 | 最多 5 位用户，永久免费 |
+| 👥 团队人数 | 5 位用户，永久免费 |
 | 🧰 包含产品 | Document、Writer、Sheet、Presentation、Form 和 Table |
 | 🤝 协作能力 | 实时编辑、评论、审阅、分享和权限管理 |
 | 💳 信用卡 | 无需信用卡 |
@@ -270,7 +270,7 @@ ShimoDocs 拥有超过 12 年的文档协作产品经验，已服务上千家团
 
 ### 准备好把文档带回自己的云了吗？
 
-**最多 5 人免费 · 无需信用卡 · 数据留在你的环境中**
+**5 人永久免费 · 无需信用卡 · 数据留在你的环境中**
 
 [**下载安装包**](https://github.com/shimodocs/shimodocs/releases) · [**申请免费 License**](mailto:support.global@shimo.im) · [**在线试用**](https://shimodocs.com/#online-trial) · [**联系销售**](https://shimodocs.com/contact)
 

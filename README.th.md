@@ -9,7 +9,7 @@
 ---
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <strong>ไทย</strong></p>
 
-[![ฟรีตลอดไปสูงสุด 5 ผู้ใช้](https://img.shields.io/badge/ฟรีตลอดไป-สูงสุด_5_ผู้ใช้-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5 ผู้ใช้ฟรีตลอดไป](https://img.shields.io/badge/5_ผู้ใช้-ฟรีตลอดไป-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![ยอดดาวน์โหลด GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![ติดต่อเรา](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 

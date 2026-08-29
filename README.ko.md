@@ -10,7 +10,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![최대 5명 평생 무료](https://img.shields.io/badge/평생_무료-최대_5명-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5명 평생 무료](https://img.shields.io/badge/5명-평생_무료-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release 다운로드 수](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![문의하기](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -18,12 +18,11 @@
 
 </div>
 
-> [!IMPORTANT]
-> ShimoDocs는 **프라이빗 환경에 배포하는** 문서 협업 플랫폼입니다. [GitHub Releases](https://github.com/shimodocs/shimodocs/releases)에서 설치 패키지를 다운로드하여 자체 인프라에 배포한 뒤, [support.global@shimo.im](mailto:support.global@shimo.im)로 이메일을 보내 최대 5인 무료 라이선스를 신청하세요. 아직 배포할 준비가 되지 않았다면 [온라인 체험](https://shimodocs.com/#online-trial)을 이용할 수 있습니다.
+## ShimoDocs란?
 
-## 협업을 위해 만들고, 통제권을 위해 설계했습니다.
+ShimoDocs는 협업 문서, 전문 워드 프로세싱, 스프레드시트, 프레젠테이션, 양식, 구조화된 테이블을 프라이빗 클라우드에 통합하는 셀프 호스팅 문서 협업 제품군입니다. Google Docs와 같은 익숙한 실시간 협업 경험을 제공하면서 비즈니스 데이터, 사용자 접근, 배포 환경을 조직이 직접 통제할 수 있습니다.
 
-ShimoDocs는 Google Docs와 같은 실시간 협업 경험에 프라이빗 배포, 기업용 권한 관리, 비즈니스 데이터 통제 기능을 결합합니다. 첨부 파일을 주고받거나 여러 버전을 관리하지 않고도 하나의 워크스페이스에서 콘텐츠를 작성, 편집, 댓글, 검토, 공유할 수 있습니다.
+첨부 파일을 주고받거나 여러 버전을 관리하거나 민감한 콘텐츠를 퍼블릭 클라우드 서비스에 맡기지 않고도 하나의 워크스페이스에서 작성, 편집, 댓글, 검토, 공유할 수 있습니다.
 
 <table><tr><td width="50%" valign="top">
 
@@ -51,30 +50,106 @@ SSO, LDAP, Active Directory를 연결하고 오픈 API로 기존 도구, 워크�
 
 </td></tr></table>
 
-## 실제 협업 화면
+## ShimoDocs 제품군 살펴보기
 
-<p align="center">
-  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
-</p>
+서로 연결된 여섯 제품이 일상 협업, 장문 작성, 데이터 분석, 프레젠테이션, 정보 수집, 구조화된 업무 흐름을 지원합니다.
 
-<p align="center"><img src="./assets/readme/document-collaboration.png" alt="ShimoDocs 실시간 편집 및 댓글" width="92%" /></p>
-<p align="center"><sub>실시간 편집, 댓글, 공유 컨텍스트를 통해 모든 사용자가 항상 최신 버전에서 작업합니다.</sub></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><img src="./assets/readme/secure-sharing.png" alt="ShimoDocs 보기, 댓글, 편집 권한" width="92%" /></p>
-<p align="center"><sub>뷰어, 댓글 작성자, 편집자 역할을 사용하여 문서별 접근 권한을 정밀하게 제어합니다.</sub></p>
+### Document
 
-## 하나의 플랫폼, 여섯 가지 핵심 도구
+<img src="./assets/ShimodocsSuite/Doc.PNG" alt="실시간 협업, 멘션, 댓글을 지원하는 ShimoDocs Document" width="100%" />
 
-| | 도구 | 주요 사용 사례 |
-| :---: | --- | --- |
-| <img src="./assets/readme/doc.svg" width="40" alt="Document" /> | **Document** | 회의록, 프로젝트 계획, 팀 지식 및 일상 협업 |
-| <img src="./assets/readme/modoc.svg" width="40" alt="Writer" /> | **Writer** | 보고서, 계약서, 정책 및 복잡한 서식의 문서 |
-| <img src="./assets/readme/sheet.svg" width="40" alt="Sheet" /> | **Sheet** | 데이터 정리, 계산, 분석, 계획 및 추적 |
-| <img src="./assets/readme/presentation.svg" width="40" alt="Presentation" /> | **Presentation** | 프로젝트 보고, 제안서 및 팀 프레젠테이션 |
-| <img src="./assets/readme/form.svg" width="40" alt="Form" /> | **Form** | 정보 수집, 설문, 등록 및 피드백 |
-| <img src="./assets/readme/table.svg" width="40" alt="Table" /> | **Table** | 구조화된 정보 관리 및 유연한 비즈니스 워크플로 |
+회의 노트, 프로젝트 계획, 팀 지식, 풍부한 콘텐츠를 유연한 협업 캔버스에 정리합니다. 실시간 공동 편집, 팀원 멘션, 후속 작업 지정, 본문 옆 토론을 지원합니다.
 
-조직이 승인한 AI 서비스를 연결하여 초안 작성, 요약, 재작성, 번역에 활용할 수도 있으며, AI 사용 방식은 조직의 정책에 따라 관리할 수 있습니다.
+</td>
+<td width="50%" valign="top">
+
+### Writer
+
+<img src="./assets/ShimodocsSuite/Writer.PNG" alt="전문 서식, 검토 모드, 댓글을 지원하는 ShimoDocs Writer" width="100%" />
+
+보고서, 계약서, 정책, 제안서 등 장문의 비즈니스 문서를 작성합니다. 전문 페이지 서식, 변경 검토, 구조화된 콘텐츠 관리를 활용하면서 문서 형식을 유지할 수 있습니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sheet
+
+<img src="./assets/ShimodocsSuite/Sheet.PNG" alt="수식, 프로젝트 추적, 실시간 협업을 지원하는 ShimoDocs Sheet" width="100%" />
+
+데이터 정리, 결과 계산, 프로젝트 추적, 정보 분석을 함께 수행합니다. 수식, 서식, 정렬, 필터, 차트, 댓글, 다중 사용자 실시간 편집을 지원합니다.
+
+</td>
+<td width="50%" valign="top">
+
+### Presentation
+
+<img src="./assets/ShimodocsSuite/Presentation.PNG" alt="테마, 레이아웃, 발표 도구를 지원하는 ShimoDocs Presentation" width="100%" />
+
+테마, 레이아웃, 미디어, 애니메이션, 발표자 도구, 공동 편집으로 완성도 높은 슬라이드를 만들고 다른 팀 콘텐츠와 같은 워크스페이스에서 관리합니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Form
+
+<img src="./assets/ShimodocsSuite/Form.JPG" alt="유연한 질문 유형과 논리 규칙을 지원하는 ShimoDocs Form" width="100%" />
+
+유연한 질문 유형, 논리 규칙, 양식 설정, 맞춤 결과 페이지로 설문, 등록, 신청, 피드백 양식과 내부 프로세스를 만듭니다.
+
+</td>
+<td width="50%" valign="top">
+
+### Table
+
+<img src="./assets/ShimodocsSuite/Table.PNG" alt="다양한 보기와 구조화된 업무 필드를 지원하는 ShimoDocs Table" width="100%" />
+
+테이블, Kanban, Gantt, 갤러리, 캘린더, 목록 보기와 필터, 그룹, 유연한 필드, 댓글로 구조화된 정보와 비즈니스 프로세스를 관리합니다.
+
+</td>
+</tr>
+</table>
+
+여섯 제품은 하나의 워크스페이스에서 함께 작동하며 모두 동일한 비공개 구성 AI Agent 경험을 제공합니다.
+
+## 모든 제품에 내장된 AI Agent
+
+ShimoDocs의 모든 제품에는 AI Agent 사이드바가 내장되어 있습니다. AI가 현재 문서, 스프레드시트, 프레젠테이션, 양식 또는 테이블 안에서 작업하므로 현재 맥락을 잃는 별도의 도구로 이동할 필요가 없습니다.
+
+조직은 승인된 모든 AI Agent, 모델, 도구, 지식 소스를 비공개로 구성하고 접근 권한과 데이터 경계를 직접 관리할 수 있습니다. 하나의 퍼블릭 AI 제공업체에 종속되지 않고 자체 보안, 규정 준수, 배포 요구사항에 맞는 AI 서비스를 선택할 수 있습니다.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 전체 제품군 지원
+
+Document, Writer, Sheet, Presentation, Form, Table 모두 동일한 AI Agent 사이드바를 제공합니다.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 비공개 구성
+
+조직이 승인한 AI Agent, 모델, 도구, 지식을 자체 접근 정책과 데이터 통제로 연결합니다.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ 채팅이 아닌 Responses
+
+ShimoDocs는 단순한 Copilot 스타일 채팅창이 아니라 에이전트형 **Responses 모드**를 사용합니다. Agent는 현재 콘텐츠를 이해하고 여러 단계의 요청을 처리하며 구성된 도구와 맥락을 활용해 완성된 구조화 결과를 업무 흐름 안에 제공합니다.
+
+</td>
+</tr>
+</table>
 
 ## 4단계 프라이빗 배포
 

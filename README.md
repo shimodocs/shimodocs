@@ -8,7 +8,7 @@
 
 <p><strong>English</strong> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![Free forever for 5 users](https://img.shields.io/badge/Free_forever-Up_to_5_users-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5 users free forever](https://img.shields.io/badge/5_users-Free_forever-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release Downloads](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Contact Us](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -159,14 +159,14 @@ ShimoDocs uses an agentic **Responses mode**, not a basic Copilot-style chat box
 </tr>
 </table>
 
-## Free forever for teams of up to 5
+## 5 users free forever
 
 > [!IMPORTANT]
-> ShimoDocs is **free forever for teams of up to 5 users**. The free license includes all six products and the complete real-time collaboration experience, with no credit card required. Deploy it on your own servers, private cloud, or data center so your data stays in your environment.
+> ShimoDocs is **free forever for 5 users**. The free license includes all six products and the complete real-time collaboration experience, with no credit card required. Deploy it on your own servers, private cloud, or data center so your data stays in your environment.
 
 | Free plan | Details |
 | --- | --- |
-| 👥 Team size | Up to 5 users, free forever |
+| 👥 Team size | 5 users, free forever |
 | 🧰 Included products | Document, Writer, Sheet, Presentation, Form, and Table |
 | 🤝 Collaboration | Real-time editing, comments, review, sharing, and permissions |
 | 💳 Credit card | Not required |
@@ -233,7 +233,7 @@ ShimoDocs gives teams the collaboration experience they already know, with more 
 <details>
 <summary><strong>Is ShimoDocs really free?</strong></summary>
 
-Yes. Teams of up to 5 users can email [support.global@shimo.im](mailto:support.global@shimo.im) to request a free license, with no credit card required. Teams with more than 5 users can choose a paid plan based on team size.
+Yes. A 5-user team can email [support.global@shimo.im](mailto:support.global@shimo.im) to request a free-forever license, with no credit card required. Larger teams can choose a paid plan based on team size.
 
 </details>
 
@@ -268,7 +268,7 @@ ShimoDocs brings more than 12 years of document collaboration experience and has
 
 ### Ready to bring your documents back to your own cloud?
 
-**Free for up to 5 users · No credit card · Data stays in your environment**
+**5 users free forever · No credit card · Data stays in your environment**
 
 [**Download Package**](https://github.com/shimodocs/shimodocs/releases) · [**Request a Free License**](mailto:support.global@shimo.im) · [**Online Trial**](https://shimodocs.com/#online-trial) · [**Contact Sales**](https://shimodocs.com/contact)
 

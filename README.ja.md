@@ -10,7 +10,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <strong>日本語</strong> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![5ユーザーまで永久無料](https://img.shields.io/badge/永久無料-5ユーザーまで-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5ユーザー永久無料](https://img.shields.io/badge/5ユーザー-永久無料-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release ダウンロード数](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![お問い合わせ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -151,14 +151,14 @@ ShimoDocs は単純な Copilot 型チャットではなく、エージェント�
 </tr>
 </table>
 
-## 5ユーザーまで永久無料
+## 5ユーザー永久無料
 
 > [!IMPORTANT]
-> ShimoDocs は**5ユーザーまで永久無料**です。無料ライセンスには6製品すべてと完全なリアルタイム共同編集機能が含まれ、クレジットカードは不要です。自社サーバー、プライベートクラウド、データセンターに導入して、データを自社環境に保持できます。
+> ShimoDocs は**5ユーザー永久無料**です。無料ライセンスには6製品すべてと完全なリアルタイム共同編集機能が含まれ、クレジットカードは不要です。自社サーバー、プライベートクラウド、データセンターに導入して、データを自社環境に保持できます。
 
 | 無料プラン | 内容 |
 | --- | --- |
-| 👥 チーム人数 | 最大5ユーザー、永久無料 |
+| 👥 チーム人数 | 5ユーザー、永久無料 |
 | 🧰 対象製品 | Document、Writer、Sheet、Presentation、Form、Table |
 | 🤝 コラボレーション | リアルタイム編集、コメント、レビュー、共有、権限管理 |
 | 💳 クレジットカード | 不要 |

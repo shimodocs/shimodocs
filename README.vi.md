@@ -10,7 +10,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <strong>Tiếng Việt</strong> · <a href="./README.th.md">ไทย</a></p>
 
-[![Miễn phí vĩnh viễn cho 5 người dùng](https://img.shields.io/badge/Miễn_phí_vĩnh_viễn-Tối_đa_5_người_dùng-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5 người dùng miễn phí vĩnh viễn](https://img.shields.io/badge/5_người_dùng-Miễn_phí_vĩnh_viễn-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![Lượt tải GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Liên hệ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 

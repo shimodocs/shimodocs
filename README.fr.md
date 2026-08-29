@@ -10,7 +10,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <strong>Français</strong> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![Gratuit à vie pour 5 utilisateurs](https://img.shields.io/badge/Gratuit_à_vie-Jusqu’à_5_utilisateurs-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5 utilisateurs gratuits à vie](https://img.shields.io/badge/5_utilisateurs-Gratuits_à_vie-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![Téléchargements GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Nous contacter](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -152,14 +152,14 @@ ShimoDocs utilise un **mode Responses** agentique, et non une simple fenêtre de
 </tr>
 </table>
 
-## Gratuit à vie pour les équipes jusqu’à 5 utilisateurs
+## 5 utilisateurs gratuits à vie
 
 > [!IMPORTANT]
-> ShimoDocs est **gratuit à vie pour les équipes jusqu’à 5 utilisateurs**. La licence gratuite comprend les six produits et toute l’expérience de collaboration en temps réel, sans carte bancaire. Déployez-le sur vos serveurs, dans votre cloud privé ou votre centre de données afin que vos données restent dans votre environnement.
+> ShimoDocs est **gratuit à vie pour 5 utilisateurs**. La licence gratuite comprend les six produits et toute l’expérience de collaboration en temps réel, sans carte bancaire. Déployez-le sur vos serveurs, dans votre cloud privé ou votre centre de données afin que vos données restent dans votre environnement.
 
 | Offre gratuite | Détails |
 | --- | --- |
-| 👥 Taille de l’équipe | Jusqu’à 5 utilisateurs, gratuit à vie |
+| 👥 Taille de l’équipe | 5 utilisateurs, gratuits à vie |
 | 🧰 Produits inclus | Document, Writer, Sheet, Presentation, Form et Table |
 | 🤝 Collaboration | Modification en temps réel, commentaires, révision, partage et autorisations |
 | 💳 Carte bancaire | Non requise |
@@ -223,7 +223,7 @@ ShimoDocs offre aux équipes une collaboration familière avec plus de contrôle
 
 <details><summary><strong>ShimoDocs est-il vraiment gratuit ?</strong></summary>
 
-Oui. Les équipes jusqu’à 5 utilisateurs peuvent écrire à [support.global@shimo.im](mailto:support.global@shimo.im) pour demander une licence gratuite, sans carte bancaire. Au-delà de 5 utilisateurs, un abonnement payant peut être choisi selon la taille de l’équipe.
+Oui. Une équipe de 5 utilisateurs peut écrire à [support.global@shimo.im](mailto:support.global@shimo.im) pour demander une licence gratuite à vie, sans carte bancaire. Les équipes plus grandes peuvent choisir un abonnement payant selon leur taille.
 
 </details>
 
@@ -255,7 +255,7 @@ ShimoDocs s’appuie sur plus de 12 ans d’expérience dans la collaboration do
 
 ### Prêt à ramener vos documents dans votre propre cloud ?
 
-**Gratuit jusqu’à 5 utilisateurs · Sans carte bancaire · Vos données restent dans votre environnement**
+**5 utilisateurs gratuits à vie · Sans carte bancaire · Vos données restent dans votre environnement**
 
 [**Télécharger le paquet**](https://github.com/shimodocs/shimodocs/releases) · [**Demander une licence gratuite**](mailto:support.global@shimo.im) · [**Essai en ligne**](https://shimodocs.com/#online-trial) · [**Contacter l’équipe commerciale**](https://shimodocs.com/contact)
 
