@@ -8,8 +8,6 @@
 
 <p>ประสบการณ์ Google Docs ที่ดีกว่าใน <strong>ไพรเวตคลาวด์</strong></p>
 
-<img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="100%" />
-
 สัมผัสการทำงานร่วมกันบนเอกสารแบบเรียลไทม์ที่คุ้นเคยและลื่นไหล บนเซิร์ฟเวอร์หรือไพรเวตคลาวด์ของคุณเอง
 
 [![ฟรีสำหรับ 5 ผู้ใช้](https://img.shields.io/badge/ไลเซนส์ฟรี-สูงสุด_5_ผู้ใช้-165DFF?style=for-the-badge)](mailto:many@shimo.im)
@@ -56,6 +54,10 @@ ShimoDocs ผสานประสบการณ์ทำงานร่วม�
 </td></tr></table>
 
 ## ดูการทำงานร่วมกันจริง
+
+<p align="center">
+  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
+</p>
 
 <p align="center"><img src="./assets/readme/document-collaboration.png" alt="การแก้ไขและแสดงความคิดเห็นแบบเรียลไทม์ใน ShimoDocs" width="92%" /></p>
 <p align="center"><sub>การแก้ไขแบบเรียลไทม์ ความคิดเห็น และบริบทร่วม ช่วยให้ทุกคนทำงานบนเวอร์ชันล่าสุดเสมอ</sub></p>

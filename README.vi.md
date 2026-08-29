@@ -8,8 +8,6 @@
 
 <p>Trải nghiệm Google Docs tốt hơn trong <strong>đám mây riêng.</strong></p>
 
-<img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="100%" />
-
 Trải nghiệm cộng tác tài liệu thời gian thực quen thuộc và liền mạch trên máy chủ hoặc đám mây riêng của bạn.
 
 [![Miễn phí cho 5 người dùng](https://img.shields.io/badge/Giấy_phép_miễn_phí-Tối_đa_5_người_dùng-165DFF?style=for-the-badge)](mailto:many@shimo.im)
@@ -56,6 +54,10 @@ Kết nối SSO, LDAP, Active Directory và tích hợp công cụ, quy trình c
 </td></tr></table>
 
 ## Cộng tác trong thực tế
+
+<p align="center">
+  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
+</p>
 
 <p align="center"><img src="./assets/readme/document-collaboration.png" alt="Chỉnh sửa và bình luận thời gian thực trong ShimoDocs" width="92%" /></p>
 <p align="center"><sub>Chỉnh sửa thời gian thực, bình luận và ngữ cảnh chung giúp mọi người luôn làm việc trên phiên bản mới nhất.</sub></p>

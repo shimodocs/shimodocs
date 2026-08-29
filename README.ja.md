@@ -8,8 +8,6 @@
 
 <p><strong>プライベートクラウド</strong>で使える、より優れた Google Docs。</p>
 
-<img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="100%" />
-
 自社サーバーやプライベートクラウドで、使い慣れたスムーズなリアルタイム文書コラボレーションを実現します。
 
 [![5ユーザーまで無料](https://img.shields.io/badge/無料ライセンス-5ユーザーまで-165DFF?style=for-the-badge)](mailto:many@shimo.im)
@@ -56,6 +54,10 @@ SSO、LDAP、Active Directory と連携し、オープン API で既存のツー
 </td></tr></table>
 
 ## 実際のコラボレーション画面
+
+<p align="center">
+  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
+</p>
 
 <p align="center"><img src="./assets/readme/document-collaboration.png" alt="ShimoDocs のリアルタイム編集とコメント" width="92%" /></p>
 <p align="center"><sub>リアルタイム編集、コメント、共有コンテキストにより、全員が常に最新版で作業できます。</sub></p>

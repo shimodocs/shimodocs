@@ -8,8 +8,6 @@
 
 <p><strong>프라이빗 클라우드</strong>에서 만나는 더 나은 Google Docs.</p>
 
-<img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="100%" />
-
 자체 서버 또는 프라이빗 클라우드에서 익숙하고 매끄러운 실시간 문서 협업을 경험하세요.
 
 [![5명까지 무료](https://img.shields.io/badge/무료_라이선스-최대_5명-165DFF?style=for-the-badge)](mailto:many@shimo.im)
@@ -56,6 +54,10 @@ SSO, LDAP, Active Directory를 연결하고 오픈 API로 기존 도구, 워크�
 </td></tr></table>
 
 ## 실제 협업 화면
+
+<p align="center">
+  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
+</p>
 
 <p align="center"><img src="./assets/readme/document-collaboration.png" alt="ShimoDocs 실시간 편집 및 댓글" width="92%" /></p>
 <p align="center"><sub>실시간 편집, 댓글, 공유 컨텍스트를 통해 모든 사용자가 항상 최신 버전에서 작업합니다.</sub></p>

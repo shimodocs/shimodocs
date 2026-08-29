@@ -8,8 +8,6 @@
 
 <p>Una alternativa superior a Google Docs en tu <strong>nube privada.</strong></p>
 
-<img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="100%" />
-
 Disfruta de una colaboración documental en tiempo real, familiar y fluida, en tus propios servidores o nube privada.
 
 [![Gratis para 5 usuarios](https://img.shields.io/badge/Licencia_gratuita-Hasta_5_usuarios-165DFF?style=for-the-badge)](mailto:many@shimo.im)
@@ -65,6 +63,10 @@ Conecta SSO, LDAP y Active Directory, e integra herramientas, flujos de trabajo 
 </table>
 
 ## La colaboración en acción
+
+<p align="center">
+  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
+</p>
 
 <p align="center"><img src="./assets/readme/document-collaboration.png" alt="Edición y comentarios en tiempo real en ShimoDocs" width="92%" /></p>
 <p align="center"><sub>La edición en tiempo real, los comentarios y el contexto compartido mantienen a todos trabajando sobre la última versión.</sub></p>

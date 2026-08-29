@@ -65,6 +65,10 @@ ShimoDocs 将类似 Google Docs 的实时协作体验，与私有部署、企业
 ## 看见真正的协作
 
 <p align="center">
+  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
+</p>
+
+<p align="center">
   <img src="./assets/readme/document-collaboration.png" alt="ShimoDocs 多人实时编辑与评论" width="92%" />
 </p>
 <p align="center"><sub>多人实时编辑、评论与共享上下文，让所有人始终在同一个最新版本上工作。</sub></p>

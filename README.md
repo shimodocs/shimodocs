@@ -8,8 +8,6 @@
 
 <p>The better Google Docs in <strong>Private Cloud.</strong></p>
 
-<img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="100%" />
-
 Get a familiar, seamless real-time document collaboration experience on your own servers or private cloud.
 
 [![Free for 5 users](https://img.shields.io/badge/Free_License-Up_to_5_users-165DFF?style=for-the-badge)](mailto:many@shimo.im)
@@ -65,6 +63,10 @@ Connect SSO, LDAP, and Active Directory, and integrate existing tools, workflows
 </table>
 
 ## See collaboration in action
+
+<p align="center">
+  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
+</p>
 
 <p align="center">
   <img src="./assets/readme/document-collaboration.png" alt="Real-time editing and comments in ShimoDocs" width="92%" />

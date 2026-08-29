@@ -8,8 +8,6 @@
 
 <p>Die bessere Google-Docs-Erfahrung in Ihrer <strong>Private Cloud.</strong></p>
 
-<img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="100%" />
-
 Vertraute, reibungslose Zusammenarbeit an Dokumenten in Echtzeit – auf Ihren eigenen Servern oder in Ihrer Private Cloud.
 
 [![Kostenlos für 5 Nutzer](https://img.shields.io/badge/Kostenlose_Lizenz-Bis_zu_5_Nutzer-165DFF?style=for-the-badge)](mailto:many@shimo.im)
@@ -56,6 +54,10 @@ Binden Sie SSO, LDAP und Active Directory an und integrieren Sie vorhandene Werk
 </td></tr></table>
 
 ## Zusammenarbeit in Aktion
+
+<p align="center">
+  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
+</p>
 
 <p align="center"><img src="./assets/readme/document-collaboration.png" alt="Echtzeit-Bearbeitung und Kommentare in ShimoDocs" width="92%" /></p>
 <p align="center"><sub>Echtzeit-Bearbeitung, Kommentare und gemeinsamer Kontext sorgen dafür, dass alle mit der neuesten Version arbeiten.</sub></p>
