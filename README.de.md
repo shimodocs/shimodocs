@@ -1,26 +1,23 @@
 <div align="center">
 
-<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <strong>Deutsch</strong> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
-
 <h1>ShimoDocs</h1>
 
 <h3>Ihre Cloud. Ihre Dokumente. Ihre Kontrolle.</h3>
 
-<p><strong>ShimoDocs</strong> ist eine selbst gehostete Suite für Dokumentenzusammenarbeit mit Dokumenten, Textverarbeitung, Tabellenkalkulationen, Präsentationen, Formularen und Tabellen in Echtzeit in Ihrer Private Cloud.</p>
+<p>Eine selbst gehostete Echtzeit-Suite für Dokumente, Tabellen, Präsentationen, Formulare und mehr.</p>
 
-<p>Die bessere Google-Docs-Erfahrung in Ihrer <strong>Private Cloud.</strong></p>
+---
 
-Vertraute, reibungslose Zusammenarbeit an Dokumenten in Echtzeit – auf Ihren eigenen Servern oder in Ihrer Private Cloud.
+<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <strong>Deutsch</strong> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![Kostenlos für 5 Nutzer](https://img.shields.io/badge/Kostenlose_Lizenz-Bis_zu_5_Nutzer-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![Private Bereitstellung](https://img.shields.io/badge/Bereitstellung-Private_Cloud-172033?style=for-the-badge)](https://shimodocs.com/)
-[![Keine Kreditkarte](https://img.shields.io/badge/Keine-Kreditkarte-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
 
-[**Paket herunterladen**](https://github.com/shimodocs/shimodocs/releases) · [**Kostenlose 5-Nutzer-Lizenz anfordern**](mailto:support.global@shimo.im) · [**Online testen**](https://shimodocs.com/#online-trial) · [Website](https://shimodocs.com/)
+[![GitHub-Release-Downloads](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![Kontakt](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+
+[**Herunterladen**](https://github.com/shimodocs/shimodocs/releases) · [**Online testen**](https://shimodocs.com/#online-trial) · [Website](https://shimodocs.com/)
 
 </div>
 
----
 
 > [!IMPORTANT]
 > ShimoDocs ist eine Plattform für Dokumentenzusammenarbeit zur **privaten Bereitstellung**. Laden Sie das Installationspaket von [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) herunter, stellen Sie es in Ihrer eigenen Infrastruktur bereit und schreiben Sie an [support.global@shimo.im](mailto:support.global@shimo.im), um eine kostenlose Lizenz für bis zu 5 Nutzer anzufordern. Noch nicht bereit für die Bereitstellung? Starten Sie mit einem [Online-Test](https://shimodocs.com/#online-trial).

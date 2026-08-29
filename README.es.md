@@ -1,26 +1,21 @@
 <div align="center">
 
-<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <strong>Español</strong> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
-
 <h1>ShimoDocs</h1>
 
 <h3>Tu nube. Tus documentos. Tu control.</h3>
 
-<p><strong>ShimoDocs</strong> es una suite de colaboración documental autoalojada que ofrece documentos, procesamiento de textos, hojas de cálculo, presentaciones, formularios y tablas en tiempo real en tu nube privada.</p>
+<p>Una suite autoalojada de colaboración en tiempo real para documentos, hojas de cálculo, presentaciones, formularios y más.</p>
 
-<p>Una alternativa superior a Google Docs en tu <strong>nube privada.</strong></p>
+---
+<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <strong>Español</strong> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-Disfruta de una colaboración documental en tiempo real, familiar y fluida, en tus propios servidores o nube privada.
+[![Descargas de GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![Contáctanos](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-[![Gratis para 5 usuarios](https://img.shields.io/badge/Licencia_gratuita-Hasta_5_usuarios-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![Despliegue privado](https://img.shields.io/badge/Despliegue-Nube_privada-172033?style=for-the-badge)](https://shimodocs.com/)
-[![Sin tarjeta](https://img.shields.io/badge/Sin-Tarjeta_de_crédito-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
-
-[**Descargar paquete**](https://github.com/shimodocs/shimodocs/releases) · [**Solicitar licencia gratuita para 5 usuarios**](mailto:support.global@shimo.im) · [**Prueba en línea**](https://shimodocs.com/#online-trial) · [Sitio web](https://shimodocs.com/)
+[**Descargar**](https://github.com/shimodocs/shimodocs/releases) · [**Prueba en línea**](https://shimodocs.com/#online-trial) · [Sitio web](https://shimodocs.com/)
 
 </div>
 
----
 
 > [!IMPORTANT]
 > ShimoDocs es una plataforma de colaboración documental de **despliegue privado**. Descarga el instalador desde [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), despliégalo en tu propia infraestructura y escribe a [support.global@shimo.im](mailto:support.global@shimo.im) para solicitar una licencia gratuita de hasta 5 usuarios. ¿Aún no quieres desplegarlo? Empieza con una [prueba en línea](https://shimodocs.com/#online-trial).

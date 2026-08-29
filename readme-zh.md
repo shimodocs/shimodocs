@@ -6,17 +6,12 @@
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
-<p><strong>ShimoDocs</strong> 是一套自托管文档协作套件，可在你的私有云中提供实时文档、文字处理、电子表格、演示文稿、表单和多维表格产品。</p>
+<p>面向私有云的自托管实时协作套件，覆盖文档、表格、演示文稿、表单等场景。</p>
 
-<p>The better Google Docs in <strong>Private Cloud.</strong></p>
+[![GitHub Release 下载量](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![联系我们](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-在自己的服务器或私有云中，获得熟悉、流畅的实时文档协作体验。
-
-[![Free for 5 users](https://img.shields.io/badge/免费_License-最多_5_位用户-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![Private deployment](https://img.shields.io/badge/部署方式-私有部署-172033?style=for-the-badge)](https://shimodocs.com/)
-[![No credit card](https://img.shields.io/badge/无需-信用卡-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
-
-[**下载安装包**](https://github.com/shimodocs/shimodocs/releases) · [**申请 5 人免费 License**](mailto:support.global@shimo.im) · [**在线试用**](https://shimodocs.com/#online-trial) · [官网](https://shimodocs.com/)
+[**下载**](https://github.com/shimodocs/shimodocs/releases) · [**在线试用**](https://shimodocs.com/#online-trial) · [官网](https://shimodocs.com/)
 
 </div>
 

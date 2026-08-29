@@ -6,17 +6,12 @@
 
 <h3>당신의 클라우드. 당신의 문서. 당신의 통제권.</h3>
 
-<p><strong>ShimoDocs</strong>는 프라이빗 클라우드에서 실시간 문서, 워드 프로세싱, 스프레드시트, 프레젠테이션, 양식, 테이블을 제공하는 셀프 호스팅 문서 협업 제품군입니다.</p>
+<p>문서, 스프레드시트, 프레젠테이션, 양식 등을 위한 셀프 호스팅 실시간 협업 제품군입니다.</p>
 
-<p><strong>프라이빗 클라우드</strong>에서 만나는 더 나은 Google Docs.</p>
+[![GitHub Release 다운로드 수](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![문의하기](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-자체 서버 또는 프라이빗 클라우드에서 익숙하고 매끄러운 실시간 문서 협업을 경험하세요.
-
-[![5명까지 무료](https://img.shields.io/badge/무료_라이선스-최대_5명-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![프라이빗 배포](https://img.shields.io/badge/배포-프라이빗_클라우드-172033?style=for-the-badge)](https://shimodocs.com/)
-[![카드 불필요](https://img.shields.io/badge/신용카드-불필요-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
-
-[**설치 패키지 다운로드**](https://github.com/shimodocs/shimodocs/releases) · [**5인 무료 라이선스 신청**](mailto:support.global@shimo.im) · [**온라인 체험**](https://shimodocs.com/#online-trial) · [웹사이트](https://shimodocs.com/)
+[**다운로드**](https://github.com/shimodocs/shimodocs/releases) · [**온라인 체험**](https://shimodocs.com/#online-trial) · [웹사이트](https://shimodocs.com/)
 
 </div>
 

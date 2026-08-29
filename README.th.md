@@ -1,26 +1,21 @@
 <div align="center">
 
-<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <strong>ไทย</strong></p>
-
 <h1>ShimoDocs</h1>
 
 <h3>คลาวด์ของคุณ เอกสารของคุณ การควบคุมของคุณ</h3>
 
-<p><strong>ShimoDocs</strong> คือชุดเครื่องมือทำงานร่วมกันบนเอกสารแบบโฮสต์ด้วยตนเอง ซึ่งมีเอกสาร โปรแกรมประมวลผลคำ สเปรดชีต งานนำเสนอ แบบฟอร์ม และตารางแบบเรียลไทม์ในไพรเวตคลาวด์ของคุณ</p>
+<p>ชุดเครื่องมือทำงานร่วมกันแบบเรียลไทม์ที่โฮสต์ด้วยตนเอง สำหรับเอกสาร สเปรดชีต งานนำเสนอ แบบฟอร์ม และอื่น ๆ</p>
 
-<p>ประสบการณ์ Google Docs ที่ดีกว่าใน <strong>ไพรเวตคลาวด์</strong></p>
+---
+<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <strong>ไทย</strong></p>
 
-สัมผัสการทำงานร่วมกันบนเอกสารแบบเรียลไทม์ที่คุ้นเคยและลื่นไหล บนเซิร์ฟเวอร์หรือไพรเวตคลาวด์ของคุณเอง
+[![ยอดดาวน์โหลด GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![ติดต่อเรา](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-[![ฟรีสำหรับ 5 ผู้ใช้](https://img.shields.io/badge/ไลเซนส์ฟรี-สูงสุด_5_ผู้ใช้-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![ติดตั้งแบบส่วนตัว](https://img.shields.io/badge/การติดตั้ง-ไพรเวตคลาวด์-172033?style=for-the-badge)](https://shimodocs.com/)
-[![ไม่ต้องใช้บัตร](https://img.shields.io/badge/ไม่ต้องใช้-บัตรเครดิต-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
-
-[**ดาวน์โหลดแพ็กเกจติดตั้ง**](https://github.com/shimodocs/shimodocs/releases) · [**ขอไลเซนส์ฟรีสำหรับ 5 ผู้ใช้**](mailto:support.global@shimo.im) · [**ทดลองใช้ออนไลน์**](https://shimodocs.com/#online-trial) · [เว็บไซต์](https://shimodocs.com/)
+[**ดาวน์โหลด**](https://github.com/shimodocs/shimodocs/releases) · [**ทดลองใช้ออนไลน์**](https://shimodocs.com/#online-trial) · [เว็บไซต์](https://shimodocs.com/)
 
 </div>
 
----
 
 > [!IMPORTANT]
 > ShimoDocs เป็นแพลตฟอร์มทำงานร่วมกันบนเอกสารที่ **ติดตั้งในสภาพแวดล้อมส่วนตัว** ดาวน์โหลดแพ็กเกจติดตั้งจาก [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) ติดตั้งบนโครงสร้างพื้นฐานของคุณ และส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีสำหรับผู้ใช้สูงสุด 5 คน หากยังไม่พร้อมติดตั้ง สามารถเริ่มด้วย [การทดลองใช้ออนไลน์](https://shimodocs.com/#online-trial)

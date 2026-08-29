@@ -6,17 +6,12 @@
 
 <h3>Votre cloud. Vos documents. Votre contrôle.</h3>
 
-<p><strong>ShimoDocs</strong> est une suite de collaboration documentaire auto-hébergée qui propose des documents, du traitement de texte, des feuilles de calcul, des présentations, des formulaires et des tableaux en temps réel dans votre cloud privé.</p>
+<p>Une suite collaborative auto-hébergée en temps réel pour les documents, feuilles de calcul, présentations, formulaires et plus encore.</p>
 
-<p>Une meilleure expérience Google Docs dans votre <strong>cloud privé.</strong></p>
+[![Téléchargements GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![Nous contacter](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-Retrouvez une collaboration documentaire en temps réel, familière et fluide, sur vos propres serveurs ou dans votre cloud privé.
-
-[![Gratuit pour 5 utilisateurs](https://img.shields.io/badge/Licence_gratuite-Jusqu'à_5_utilisateurs-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![Déploiement privé](https://img.shields.io/badge/Déploiement-Cloud_privé-172033?style=for-the-badge)](https://shimodocs.com/)
-[![Sans carte bancaire](https://img.shields.io/badge/Sans-Carte_bancaire-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
-
-[**Télécharger le paquet**](https://github.com/shimodocs/shimodocs/releases) · [**Demander une licence gratuite pour 5 utilisateurs**](mailto:support.global@shimo.im) · [**Essai en ligne**](https://shimodocs.com/#online-trial) · [Site web](https://shimodocs.com/)
+[**Télécharger**](https://github.com/shimodocs/shimodocs/releases) · [**Essai en ligne**](https://shimodocs.com/#online-trial) · [Site web](https://shimodocs.com/)
 
 </div>
 

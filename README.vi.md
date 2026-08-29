@@ -6,17 +6,12 @@
 
 <h3>Đám mây của bạn. Tài liệu của bạn. Quyền kiểm soát của bạn.</h3>
 
-<p><strong>ShimoDocs</strong> là bộ công cụ cộng tác tài liệu tự lưu trữ, cung cấp tài liệu, trình soạn thảo văn bản, bảng tính, bản trình bày, biểu mẫu và bảng theo thời gian thực trong đám mây riêng của bạn.</p>
+<p>Bộ công cụ cộng tác thời gian thực tự lưu trữ cho tài liệu, bảng tính, bản trình bày, biểu mẫu và hơn thế nữa.</p>
 
-<p>Trải nghiệm Google Docs tốt hơn trong <strong>đám mây riêng.</strong></p>
+[![Lượt tải GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![Liên hệ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-Trải nghiệm cộng tác tài liệu thời gian thực quen thuộc và liền mạch trên máy chủ hoặc đám mây riêng của bạn.
-
-[![Miễn phí cho 5 người dùng](https://img.shields.io/badge/Giấy_phép_miễn_phí-Tối_đa_5_người_dùng-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![Triển khai riêng](https://img.shields.io/badge/Triển_khai-Đám_mây_riêng-172033?style=for-the-badge)](https://shimodocs.com/)
-[![Không cần thẻ](https://img.shields.io/badge/Không_cần-Thẻ_tín_dụng-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
-
-[**Tải gói cài đặt**](https://github.com/shimodocs/shimodocs/releases) · [**Yêu cầu giấy phép miễn phí cho 5 người dùng**](mailto:support.global@shimo.im) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [Trang web](https://shimodocs.com/)
+[**Tải xuống**](https://github.com/shimodocs/shimodocs/releases) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [Trang web](https://shimodocs.com/)
 
 </div>
 

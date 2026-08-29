@@ -6,17 +6,12 @@
 
 <h3>あなたのクラウド。あなたのドキュメント。あなたのコントロール。</h3>
 
-<p><strong>ShimoDocs</strong> は、プライベートクラウドでリアルタイムのドキュメント、文書作成、スプレッドシート、プレゼンテーション、フォーム、テーブルを提供するセルフホスト型文書コラボレーションスイートです。</p>
+<p>ドキュメント、スプレッドシート、プレゼンテーション、フォームなどに対応するセルフホスト型リアルタイム共同編集スイート。</p>
 
-<p><strong>プライベートクラウド</strong>で使える、より優れた Google Docs。</p>
+[![GitHub Release ダウンロード数](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![お問い合わせ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-自社サーバーやプライベートクラウドで、使い慣れたスムーズなリアルタイム文書コラボレーションを実現します。
-
-[![5ユーザーまで無料](https://img.shields.io/badge/無料ライセンス-5ユーザーまで-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![プライベート導入](https://img.shields.io/badge/導入方式-プライベートクラウド-172033?style=for-the-badge)](https://shimodocs.com/)
-[![カード不要](https://img.shields.io/badge/クレジットカード-不要-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
-
-[**インストールパッケージをダウンロード**](https://github.com/shimodocs/shimodocs/releases) · [**5ユーザー無料ライセンスを申請**](mailto:support.global@shimo.im) · [**オンライン試用**](https://shimodocs.com/#online-trial) · [公式サイト](https://shimodocs.com/)
+[**ダウンロード**](https://github.com/shimodocs/shimodocs/releases) · [**オンライン試用**](https://shimodocs.com/#online-trial) · [公式サイト](https://shimodocs.com/)
 
 </div>
 

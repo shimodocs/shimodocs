@@ -1,33 +1,28 @@
 <div align="center">
 
-<p><strong>English</strong> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
-
 <h1>ShimoDocs</h1>
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
-<p><strong>ShimoDocs</strong> is a self-hosted document collaboration suite for real-time docs, writers, sheets, presentations, forms, and tables in your private cloud.</p>
-
-<p>The better Google Docs in <strong>Private Cloud.</strong></p>
-
-Get a familiar, seamless real-time document collaboration experience on your own servers or private cloud.
-
-[![Free for 5 users](https://img.shields.io/badge/Free_License-Up_to_5_users-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
-[![Private deployment](https://img.shields.io/badge/Deployment-Private_Cloud-172033?style=for-the-badge)](https://shimodocs.com/)
-[![No credit card](https://img.shields.io/badge/No-Credit_Card-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
-
-[**Download Package**](https://github.com/shimodocs/shimodocs/releases) · [**Request a Free 5-User License**](mailto:support.global@shimo.im) · [**Online Trial**](https://shimodocs.com/#online-trial) · [Website](https://shimodocs.com/)
-
-</div>
+<p>A self-hosted, real-time collaboration suite for documents, sheets, presentations, forms, and more.</p>
 
 ---
 
-> [!IMPORTANT]
-> ShimoDocs is a **privately deployed** document collaboration platform. Download the installer from [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), deploy it on your own infrastructure, and email [support.global@shimo.im](mailto:support.global@shimo.im) to request a free license for up to 5 users. Not ready to deploy? Start with an [online trial](https://shimodocs.com/#online-trial).
+<p><strong>English</strong> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-## Built for collaboration. Designed for control.
+[![GitHub Release Downloads](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
+[![Contact Us](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-ShimoDocs combines a Google Docs-like real-time collaboration experience with private deployment, enterprise permissions, and greater control over business data. Teams can create, edit, comment, review, and share content in one workspace—without passing attachments around or maintaining multiple file versions.
+[**Download**](https://github.com/shimodocs/shimodocs/releases) · [**Online Trial**](https://shimodocs.com/#online-trial) · [Website](https://shimodocs.com/)
+
+</div>
+
+
+## What is ShimoDocs?
+
+ShimoDocs is a self-hosted document collaboration suite that brings documents, professional writing, spreadsheets, presentations, forms, and structured tables together in your private cloud. It gives teams a familiar Google Docs-like real-time collaboration experience while keeping business data, user access, and deployment under their own control.
+
+Create, edit, comment, review, and share in one workspace—without passing attachments around, maintaining multiple file versions, or sending sensitive content to a public cloud service.
 
 <table>
 <tr>
@@ -64,34 +59,98 @@ Connect SSO, LDAP, and Active Directory, and integrate existing tools, workflows
 </tr>
 </table>
 
-## See collaboration in action
+## Meet the ShimoDocs Suite
 
-<p align="center">
-  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
-</p>
+Six connected products cover everyday collaboration, long-form content, data analysis, presentations, data collection, and structured workflows.
 
-<p align="center">
-  <img src="./assets/readme/document-collaboration.png" alt="Real-time editing and comments in ShimoDocs" width="92%" />
-</p>
-<p align="center"><sub>Real-time editing, comments, and shared context keep everyone working on the latest version.</sub></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="./assets/readme/secure-sharing.png" alt="Viewer, commenter, and editor permissions in ShimoDocs" width="92%" />
-</p>
-<p align="center"><sub>Control access to every document with viewer, commenter, and editor roles.</sub></p>
+### Document
 
-## One platform. Six essential tools.
+<img src="./assets/ShimodocsSuite/Doc.PNG" alt="ShimoDocs Document with real-time collaboration, mentions, and comments" width="100%" />
 
-| | Tool | Typical use cases |
-| :---: | --- | --- |
-| <img src="./assets/readme/doc.svg" width="40" alt="Document" /> | **Document** | Meeting notes, project plans, team knowledge, and everyday collaboration |
-| <img src="./assets/readme/modoc.svg" width="40" alt="Writer" /> | **Writer** | Reports, contracts, policies, and richly formatted documents |
-| <img src="./assets/readme/sheet.svg" width="40" alt="Sheet" /> | **Sheet** | Data organization, calculations, analysis, planning, and tracking |
-| <img src="./assets/readme/presentation.svg" width="40" alt="Presentation" /> | **Presentation** | Project updates, proposals, and team presentations |
-| <img src="./assets/readme/form.svg" width="40" alt="Form" /> | **Form** | Data collection, surveys, registration, and feedback |
-| <img src="./assets/readme/table.svg" width="40" alt="Table" /> | **Table** | Structured information management and flexible business workflows |
+Capture meeting notes, project plans, team knowledge, and rich content in a flexible collaborative canvas. Edit together in real time, mention teammates, assign follow-up work, and keep discussions beside the content.
 
-You can also connect the AI services approved by your organization for drafting, summarizing, rewriting, and translation—while keeping control over how AI is used.
+</td>
+<td width="50%" valign="top">
+
+### Writer
+
+<img src="./assets/ShimodocsSuite/Writer.PNG" alt="ShimoDocs Writer with professional formatting, review modes, and comments" width="100%" />
+
+Create polished reports, contracts, policies, proposals, and other long-form business documents. Use professional page formatting, review changes, manage structured content, and collaborate without losing document fidelity.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sheet
+
+<img src="./assets/ShimodocsSuite/Sheet.PNG" alt="ShimoDocs Sheet with formulas, project tracking, and real-time collaboration" width="100%" />
+
+Organize data, calculate results, track projects, and analyze information together. Sheet supports familiar formulas, formatting, sorting, filtering, charts, comments, and real-time multi-user editing.
+
+</td>
+<td width="50%" valign="top">
+
+### Presentation
+
+<img src="./assets/ShimodocsSuite/Presentation.PNG" alt="ShimoDocs Presentation with themes, layouts, and presenter controls" width="100%" />
+
+Build compelling slide decks with themes, layouts, media, animations, speaker tools, and collaborative editing. Keep presentations in the same workspace as the rest of your team's content.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Form
+
+<img src="./assets/ShimodocsSuite/Form.JPG" alt="ShimoDocs Form builder with flexible question types and logic rules" width="100%" />
+
+Create surveys, registrations, applications, feedback forms, and internal workflows with flexible question types, logic rules, form settings, and custom result pages.
+
+</td>
+<td width="50%" valign="top">
+
+### Table
+
+<img src="./assets/ShimodocsSuite/Table.PNG" alt="ShimoDocs Table with multiple views and structured workflow fields" width="100%" />
+
+Manage structured information and business workflows with table, Kanban, Gantt, gallery, calendar, and list views, plus filters, groups, flexible fields, and comments.
+
+</td>
+</tr>
+</table>
+
+All six products work together in one workspace. You can also connect AI services approved by your organization for drafting, summarizing, rewriting, and translation while keeping control over how AI is used.
+
+## Free forever for teams of up to 5
+
+> [!IMPORTANT]
+> ShimoDocs is **free forever for teams of up to 5 users**. The free license includes all six products and the complete real-time collaboration experience, with no credit card required. Deploy it on your own servers, private cloud, or data center so your data stays in your environment.
+
+| Free plan | Details |
+| --- | --- |
+| 👥 Team size | Up to 5 users, free forever |
+| 🧰 Included products | Document, Writer, Sheet, Presentation, Form, and Table |
+| 🤝 Collaboration | Real-time editing, comments, review, sharing, and permissions |
+| 💳 Credit card | Not required |
+| 📦 Installer | Download from GitHub Releases |
+| 🔑 License | Request free by emailing `support.global@shimo.im` |
+| 🏠 Deployment | Your own servers, private cloud, or data center |
+
+<div align="center">
+
+[![Download](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
+[![Get license](https://img.shields.io/badge/Get_Free_5--User_License-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+
+</div>
+
+> Server, cloud resource, and hosting costs are managed by the customer and are not included with the ShimoDocs license.
 
 ## Private deployment in four steps
 
@@ -100,31 +159,9 @@ You can also connect the AI services approved by your organization for drafting,
 </p>
 
 1. Download the latest installer from [GitHub Releases](https://github.com/shimodocs/shimodocs/releases).
-2. Follow the instructions included with the release to deploy ShimoDocs on your own servers, private cloud, or data center.
-3. Email [support.global@shimo.im](mailto:support.global@shimo.im) to request a free 5-user license.
+2. Deploy ShimoDocs on your own servers, private cloud, or data center by following the instructions included with the release.
+3. Email [support.global@shimo.im](mailto:support.global@shimo.im) to request your free-forever 5-user license.
 4. Activate the license, create a workspace, and invite your team.
-
-> Server, cloud resource, and hosting costs are managed by the customer and are not included with the ShimoDocs license.
-
-<div align="center">
-
-[![Download](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Get license](https://img.shields.io/badge/Get_Free_License-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
-
-</div>
-
-## Free for teams of up to 5
-
-| Free plan | Details |
-| --- | --- |
-| 👥 Team size | Up to 5 users |
-| 🧰 Product capabilities | Full collaboration experience included |
-| 💳 Credit card | Not required |
-| 📦 Installer | Download from GitHub Releases |
-| 🔑 License | Request free by emailing `support.global@shimo.im` |
-| 🏠 Deployment | Your own servers, private cloud, or data center |
-
-Small teams can get everyone working in one shared space first, then decide when to upgrade as the team grows.
 
 ## ShimoDocs vs Google Docs
 
