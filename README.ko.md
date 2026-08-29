@@ -2,7 +2,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" align="absmiddle" /> ShimoDocs</h1>
 
 <h3>당신의 클라우드. 당신의 문서. 당신의 통제권.</h3>
 

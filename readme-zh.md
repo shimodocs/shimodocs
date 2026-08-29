@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="absmiddle" /> ShimoDocs</h1>
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
@@ -59,41 +59,9 @@ ShimoDocs 是一套自托管文档协作套件，将协作文档、专业文字�
 </tr>
 </table>
 
-## 每个产品都内置 AI Agent
-
-ShimoDocs 的每个产品都内置 AI Agent 侧边栏。AI 就在正在使用的协作文档、电子表格、演示文稿、表单或结构化数据表中工作，无需跳转到一个不了解当前内容的独立工具。
-
-组织可以私有化配置任意获准使用的 AI Agent、模型、工具和知识源，同时自行管理访问权限和数据边界。团队可以选择满足自身安全、合规和部署要求的 AI 服务，而不必被锁定在某一家公共 AI 服务商中。
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 覆盖全部套件
-
-Document、Writer、Sheet、Presentation、Form 和 Table 都提供一致的 AI Agent 侧边栏。
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 私有化配置
-
-接入组织认可的 AI Agent、模型、工具和知识库，并使用自己的访问策略与数据控制方案。
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Responses，而非聊天
-
-ShimoDocs 使用面向任务和结果的 **Responses 模式**，不是普通的 Copilot 式聊天框。Agent 能结合当前内容处理多步骤请求，调用已配置的工具和上下文，并直接在工作流中交付完整、结构化的结果。
-
-</td>
-</tr>
-</table>
-
 ## 认识 ShimoDocs 六大套件
 
-六个相互连接的产品，覆盖日常协作、长文档编排、数据分析、演示展示、信息收集和结构化业务流程。每个产品都包含上述内置 AI Agent 侧边栏。
+六个相互连接的产品，覆盖日常协作、长文档编排、数据分析、演示展示、信息收集和结构化业务流程。
 
 <table>
 <tr>
@@ -159,6 +127,38 @@ ShimoDocs 使用面向任务和结果的 **Responses 模式**，不是普通的 
 </table>
 
 六个产品在同一个工作空间中无缝协作，并始终提供一致的私有化 AI Agent 体验。
+
+## 每个产品都内置 AI Agent
+
+ShimoDocs 的每个产品都内置 AI Agent 侧边栏。AI 就在正在使用的协作文档、电子表格、演示文稿、表单或结构化数据表中工作，无需跳转到一个不了解当前内容的独立工具。
+
+组织可以私有化配置任意获准使用的 AI Agent、模型、工具和知识源，同时自行管理访问权限和数据边界。团队可以选择满足自身安全、合规和部署要求的 AI 服务，而不必被锁定在某一家公共 AI 服务商中。
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 覆盖全部套件
+
+Document、Writer、Sheet、Presentation、Form 和 Table 都提供一致的 AI Agent 侧边栏。
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 私有化配置
+
+接入组织认可的 AI Agent、模型、工具和知识库，并使用自己的访问策略与数据控制方案。
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Responses，而非聊天
+
+ShimoDocs 使用面向任务和结果的 **Responses 模式**，不是普通的 Copilot 式聊天框。Agent 能结合当前内容处理多步骤请求，调用已配置的工具和上下文，并直接在工作流中交付完整、结构化的结果。
+
+</td>
+</tr>
+</table>
 
 ## 最多 5 人，永久免费
 

@@ -2,7 +2,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <strong>Tiếng Việt</strong> · <a href="./README.th.md">ไทย</a></p>
 
-<h1><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" align="absmiddle" /> ShimoDocs</h1>
 
 <h3>Đám mây của bạn. Tài liệu của bạn. Quyền kiểm soát của bạn.</h3>
 

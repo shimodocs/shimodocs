@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="absmiddle" /> ShimoDocs</h1>
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
