@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" /> ShimoDocs</h1>
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
-<p>A self-hosted, real-time collaboration suite for documents, sheets, presentations, forms, and more.</p>
+<p>A self-hosted, real-time collaboration suite with privately configured AI Agents built into every product.</p>
 
 <p><strong>English</strong> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
@@ -124,7 +124,39 @@ Manage structured information and business workflows with table, Kanban, Gantt, 
 </tr>
 </table>
 
-All six products work together in one workspace. You can also connect AI services approved by your organization for drafting, summarizing, rewriting, and translation while keeping control over how AI is used.
+All six products work together in one workspace, with the same privately configured AI Agent experience available throughout.
+
+## AI Agents, built into every product
+
+Every ShimoDocs product includes a built-in AI Agent sidebar, so AI is available inside the document, spreadsheet, presentation, form, or table where the work is already happening—not in a separate tool that loses the current context.
+
+Your organization can privately configure any approved AI Agent, model, tools, and knowledge sources while controlling access and data boundaries. Teams can use the AI services that fit their own security, compliance, and deployment requirements instead of being locked into one public AI provider.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 In every suite
+
+The same AI Agent sidebar is available across Document, Writer, Sheet, Presentation, Form, and Table.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Privately configured
+
+Connect the AI Agents, models, tools, and knowledge approved by your organization, with your own access policies and data controls.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Responses, not chat
+
+ShimoDocs uses an agentic **Responses mode**, not a basic Copilot-style chat box. The Agent works with the current content, handles multi-step requests, uses configured tools and context, and returns finished, structured results inside the workflow.
+
+</td>
+</tr>
+</table>
 
 ## Free forever for teams of up to 5
 

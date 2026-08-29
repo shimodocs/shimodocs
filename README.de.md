@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs-Logo" width="48" /> ShimoDocs</h1>
 
 <h3>Ihre Cloud. Ihre Dokumente. Ihre Kontrolle.</h3>
 
-<p>Eine selbst gehostete Echtzeit-Suite für Dokumente, Tabellen, Präsentationen, Formulare und mehr.</p>
+<p>Eine selbst gehostete Echtzeit-Suite mit privat konfigurierbaren AI Agents in jedem Produkt.</p>
 
 ---
 
@@ -19,12 +19,11 @@
 </div>
 
 
-> [!IMPORTANT]
-> ShimoDocs ist eine Plattform für Dokumentenzusammenarbeit zur **privaten Bereitstellung**. Laden Sie das Installationspaket von [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) herunter, stellen Sie es in Ihrer eigenen Infrastruktur bereit und schreiben Sie an [support.global@shimo.im](mailto:support.global@shimo.im), um eine kostenlose Lizenz für bis zu 5 Nutzer anzufordern. Noch nicht bereit für die Bereitstellung? Starten Sie mit einem [Online-Test](https://shimodocs.com/#online-trial).
+## Was ist ShimoDocs?
 
-## Für Zusammenarbeit entwickelt. Für Kontrolle konzipiert.
+ShimoDocs ist eine selbst gehostete Suite für Dokumentenzusammenarbeit, die kollaborative Dokumente, professionelle Textverarbeitung, Tabellenkalkulationen, Präsentationen, Formulare und strukturierte Tabellen in Ihrer Private Cloud vereint. Teams erhalten eine vertraute Echtzeit-Zusammenarbeit ähnlich wie bei Google Docs, während Geschäftsdaten, Nutzerzugriffe und Bereitstellung unter eigener Kontrolle bleiben.
 
-ShimoDocs verbindet eine Google-Docs-ähnliche Zusammenarbeit in Echtzeit mit privater Bereitstellung, Unternehmensberechtigungen und mehr Kontrolle über Geschäftsdaten. Teams erstellen, bearbeiten, kommentieren, prüfen und teilen Inhalte in einem Arbeitsbereich – ohne Anhänge hin- und herzuschicken oder mehrere Dateiversionen zu verwalten.
+Erstellen, bearbeiten, kommentieren, prüfen und teilen Sie Inhalte in einem Arbeitsbereich – ohne Anhänge zu versenden, mehrere Dateiversionen zu verwalten oder sensible Inhalte einem Public-Cloud-Dienst anzuvertrauen.
 
 <table><tr><td width="50%" valign="top">
 
@@ -52,30 +51,130 @@ Binden Sie SSO, LDAP und Active Directory an und integrieren Sie vorhandene Werk
 
 </td></tr></table>
 
-## Zusammenarbeit in Aktion
+## AI Agents in jedem Produkt integriert
 
-<p align="center">
-  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
-</p>
+Jedes ShimoDocs-Produkt enthält eine integrierte AI-Agent-Seitenleiste. Die KI arbeitet direkt im Dokument, in der Tabelle, Präsentation, im Formular oder in der strukturierten Datentabelle – nicht in einem separaten Werkzeug, das den aktuellen Kontext verliert.
 
-<p align="center"><img src="./assets/readme/document-collaboration.png" alt="Echtzeit-Bearbeitung und Kommentare in ShimoDocs" width="92%" /></p>
-<p align="center"><sub>Echtzeit-Bearbeitung, Kommentare und gemeinsamer Kontext sorgen dafür, dass alle mit der neuesten Version arbeiten.</sub></p>
+Ihre Organisation kann beliebige freigegebene AI Agents, Modelle, Werkzeuge und Wissensquellen privat konfigurieren und dabei Zugriffe und Datengrenzen selbst steuern. So nutzen Teams die KI-Dienste, die ihren Sicherheits-, Compliance- und Bereitstellungsanforderungen entsprechen, ohne an einen einzelnen Public-AI-Anbieter gebunden zu sein.
 
-<p align="center"><img src="./assets/readme/secure-sharing.png" alt="Berechtigungen für Betrachter, Kommentatoren und Bearbeiter in ShimoDocs" width="92%" /></p>
-<p align="center"><sub>Steuern Sie den Zugriff auf jedes Dokument mit Rollen für Betrachter, Kommentatoren und Bearbeiter.</sub></p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Eine Plattform. Sechs zentrale Werkzeuge.
+### 🤖 In der gesamten Suite
 
-| | Werkzeug | Typische Einsatzbereiche |
-| :---: | --- | --- |
-| <img src="./assets/readme/doc.svg" width="40" alt="Document" /> | **Document** | Besprechungsnotizen, Projektpläne, Teamwissen und tägliche Zusammenarbeit |
-| <img src="./assets/readme/modoc.svg" width="40" alt="Writer" /> | **Writer** | Berichte, Verträge, Richtlinien und umfangreich formatierte Dokumente |
-| <img src="./assets/readme/sheet.svg" width="40" alt="Sheet" /> | **Sheet** | Datenorganisation, Berechnungen, Analysen, Planung und Nachverfolgung |
-| <img src="./assets/readme/presentation.svg" width="40" alt="Presentation" /> | **Presentation** | Projektberichte, Angebote und Teampräsentationen |
-| <img src="./assets/readme/form.svg" width="40" alt="Form" /> | **Form** | Datenerfassung, Umfragen, Anmeldungen und Feedback |
-| <img src="./assets/readme/table.svg" width="40" alt="Table" /> | **Table** | Strukturierte Informationsverwaltung und flexible Geschäftsabläufe |
+Dieselbe AI-Agent-Seitenleiste steht in Document, Writer, Sheet, Presentation, Form und Table zur Verfügung.
 
-Zusätzlich können Sie die von Ihrer Organisation freigegebenen KI-Dienste zum Entwerfen, Zusammenfassen, Umschreiben und Übersetzen anbinden – bei voller Kontrolle über deren Nutzung.
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Privat konfiguriert
+
+Binden Sie freigegebene AI Agents, Modelle, Werkzeuge und Wissensquellen mit eigenen Zugriffsrichtlinien und Datenkontrollen an.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Responses statt Chat
+
+ShimoDocs verwendet einen agentischen **Responses-Modus** und keine einfache Copilot-Chatbox. Der Agent arbeitet mit dem aktuellen Inhalt, verarbeitet mehrstufige Aufgaben, nutzt konfigurierte Werkzeuge und Kontext und liefert fertige, strukturierte Ergebnisse direkt im Arbeitsablauf.
+
+</td>
+</tr>
+</table>
+
+## Lernen Sie die ShimoDocs Suite kennen
+
+Sechs miteinander verbundene Produkte decken tägliche Zusammenarbeit, lange Dokumente, Datenanalyse, Präsentationen, Datenerfassung und strukturierte Arbeitsabläufe ab. Jedes Produkt enthält die oben beschriebene AI-Agent-Seitenleiste.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Document
+
+<img src="./assets/ShimodocsSuite/Doc.PNG" alt="ShimoDocs Document mit Echtzeit-Zusammenarbeit, Erwähnungen und Kommentaren" width="100%" />
+
+Erfassen Sie Besprechungsnotizen, Projektpläne, Teamwissen und umfangreiche Inhalte auf einer flexiblen kollaborativen Arbeitsfläche. Bearbeiten Sie gemeinsam in Echtzeit, erwähnen Sie Teammitglieder und halten Sie Diskussionen direkt am Inhalt fest.
+
+</td>
+<td width="50%" valign="top">
+
+### Writer
+
+<img src="./assets/ShimodocsSuite/Writer.PNG" alt="ShimoDocs Writer mit professioneller Formatierung, Prüfung und Kommentaren" width="100%" />
+
+Erstellen Sie Berichte, Verträge, Richtlinien, Angebote und andere umfangreiche Geschäftsdokumente. Nutzen Sie professionelle Seitenformatierung, Änderungsprüfung und strukturierte Inhalte bei zuverlässiger Dokumenttreue.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sheet
+
+<img src="./assets/ShimodocsSuite/Sheet.PNG" alt="ShimoDocs Sheet mit Formeln, Projektverfolgung und Echtzeit-Zusammenarbeit" width="100%" />
+
+Organisieren Sie Daten, berechnen Sie Ergebnisse, verfolgen Sie Projekte und analysieren Sie Informationen gemeinsam. Sheet bietet Formeln, Formatierung, Sortierung, Filter, Diagramme, Kommentare und Echtzeitbearbeitung.
+
+</td>
+<td width="50%" valign="top">
+
+### Presentation
+
+<img src="./assets/ShimodocsSuite/Presentation.PNG" alt="ShimoDocs Presentation mit Designs, Layouts und Präsentationssteuerung" width="100%" />
+
+Erstellen Sie überzeugende Präsentationen mit Designs, Layouts, Medien, Animationen, Referentenwerkzeugen und gemeinsamer Bearbeitung – im selben Arbeitsbereich wie die übrigen Teaminhalte.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Form
+
+<img src="./assets/ShimodocsSuite/Form.JPG" alt="ShimoDocs Form mit flexiblen Fragetypen und Logikregeln" width="100%" />
+
+Erstellen Sie Umfragen, Anmeldungen, Bewerbungen, Feedbackformulare und interne Abläufe mit flexiblen Fragetypen, Logikregeln, Einstellungen und individuellen Ergebnisseiten.
+
+</td>
+<td width="50%" valign="top">
+
+### Table
+
+<img src="./assets/ShimodocsSuite/Table.PNG" alt="ShimoDocs Table mit mehreren Ansichten und strukturierten Workflow-Feldern" width="100%" />
+
+Verwalten Sie strukturierte Informationen und Geschäftsabläufe mit Tabellen-, Kanban-, Gantt-, Galerie-, Kalender- und Listenansichten sowie Filtern, Gruppen, flexiblen Feldern und Kommentaren.
+
+</td>
+</tr>
+</table>
+
+Alle sechs Produkte arbeiten in einem gemeinsamen Arbeitsbereich mit derselben privat konfigurierten AI-Agent-Erfahrung zusammen.
+
+## Dauerhaft kostenlos für Teams mit bis zu 5 Nutzern
+
+> [!IMPORTANT]
+> ShimoDocs ist für **Teams mit bis zu 5 Nutzern dauerhaft kostenlos**. Die kostenlose Lizenz umfasst alle sechs Produkte und die vollständige Echtzeit-Zusammenarbeit – ohne Kreditkarte. Stellen Sie ShimoDocs auf eigenen Servern, in Ihrer Private Cloud oder im Rechenzentrum bereit, damit Ihre Daten in Ihrer Umgebung bleiben.
+
+| Kostenloser Plan | Details |
+| --- | --- |
+| 👥 Teamgröße | Bis zu 5 Nutzer, dauerhaft kostenlos |
+| 🧰 Enthaltene Produkte | Document, Writer, Sheet, Presentation, Form und Table |
+| 🤝 Zusammenarbeit | Echtzeitbearbeitung, Kommentare, Prüfung, Freigabe und Berechtigungen |
+| 💳 Kreditkarte | Nicht erforderlich |
+| 📦 Installationspaket | Download über GitHub Releases |
+| 🔑 Lizenz | Kostenlos per E-Mail an `support.global@shimo.im` anfordern |
+| 🏠 Bereitstellung | Eigene Server, Private Cloud oder Rechenzentrum |
+
+<div align="center">
+
+[![Herunterladen](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
+[![Lizenz anfordern](https://img.shields.io/badge/Kostenlose_5--Nutzer--Lizenz-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+
+</div>
+
+> Kosten für Server, Cloud-Ressourcen und Hosting trägt der Kunde; sie sind nicht in der ShimoDocs-Lizenz enthalten.
 
 ## Private Bereitstellung in vier Schritten
 
@@ -83,30 +182,8 @@ Zusätzlich können Sie die von Ihrer Organisation freigegebenen KI-Dienste zum 
 
 1. Laden Sie das aktuelle Installationspaket von [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) herunter.
 2. Folgen Sie den Hinweisen des Releases, um ShimoDocs auf eigenen Servern, in Ihrer Private Cloud oder im Rechenzentrum bereitzustellen.
-3. Schreiben Sie an [support.global@shimo.im](mailto:support.global@shimo.im), um eine kostenlose 5-Nutzer-Lizenz anzufordern.
+3. Schreiben Sie an [support.global@shimo.im](mailto:support.global@shimo.im), um Ihre dauerhaft kostenlose 5-Nutzer-Lizenz anzufordern.
 4. Aktivieren Sie die Lizenz, erstellen Sie einen Arbeitsbereich und laden Sie Ihr Team ein.
-
-> Kosten für Server, Cloud-Ressourcen und Hosting trägt der Kunde; sie sind nicht in der ShimoDocs-Lizenz enthalten.
-
-<div align="center">
-
-[![Herunterladen](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Lizenz anfordern](https://img.shields.io/badge/Kostenlose_Lizenz-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
-
-</div>
-
-## Kostenlos für Teams mit bis zu 5 Nutzern
-
-| Kostenloser Plan | Details |
-| --- | --- |
-| 👥 Teamgröße | Bis zu 5 Nutzer |
-| 🧰 Funktionsumfang | Vollständige Zusammenarbeit enthalten |
-| 💳 Kreditkarte | Nicht erforderlich |
-| 📦 Installationspaket | Download über GitHub Releases |
-| 🔑 Lizenz | Kostenlos per E-Mail an `support.global@shimo.im` anfordern |
-| 🏠 Bereitstellung | Eigene Server, Private Cloud oder Rechenzentrum |
-
-Kleine Teams können zunächst alle in einem gemeinsamen Arbeitsbereich zusammenbringen und später entscheiden, wann ein Upgrade sinnvoll ist.
 
 ## ShimoDocs im Vergleich zu Google Docs
 
