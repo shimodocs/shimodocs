@@ -94,7 +94,7 @@ SSO, LDAP, Active Directory를 연결하고 오픈 API로 기존 도구, 워크�
 <div align="center">
 
 [![다운로드](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![라이선스 신청](https://img.shields.io/badge/무료_라이선스-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+[![라이선스 신청](https://img.shields.io/badge/무료_라이선스-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 

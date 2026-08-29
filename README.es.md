@@ -103,7 +103,7 @@ También puedes conectar los servicios de IA aprobados por tu organización para
 <div align="center">
 
 [![Descargar](https://img.shields.io/badge/Descargar-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Obtener licencia](https://img.shields.io/badge/Licencia_gratuita-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+[![Obtener licencia](https://img.shields.io/badge/Licencia_gratuita-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 

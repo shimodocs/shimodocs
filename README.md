@@ -109,7 +109,7 @@ You can also connect the AI services approved by your organization for drafting,
 <div align="center">
 
 [![Download](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Get license](https://img.shields.io/badge/Get_Free_License-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+[![Get license](https://img.shields.io/badge/Get_Free_License-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 

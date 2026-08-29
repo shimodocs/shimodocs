@@ -94,7 +94,7 @@ Vous pouvez aussi connecter les services d’IA approuvés par votre organisatio
 <div align="center">
 
 [![Télécharger](https://img.shields.io/badge/Télécharger-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Obtenir une licence](https://img.shields.io/badge/Licence_gratuite-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+[![Obtenir une licence](https://img.shields.io/badge/Licence_gratuite-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 

@@ -94,7 +94,7 @@ Bạn cũng có thể kết nối các dịch vụ AI được tổ chức phê 
 <div align="center">
 
 [![Tải xuống](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Nhận giấy phép](https://img.shields.io/badge/Giấy_phép_miễn_phí-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+[![Nhận giấy phép](https://img.shields.io/badge/Giấy_phép_miễn_phí-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 

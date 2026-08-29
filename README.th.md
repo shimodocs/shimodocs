@@ -94,7 +94,7 @@ ShimoDocs ผสานประสบการณ์ทำงานร่วม�
 <div align="center">
 
 [![ดาวน์โหลด](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![ขอไลเซนส์](https://img.shields.io/badge/ไลเซนส์ฟรี-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+[![ขอไลเซนส์](https://img.shields.io/badge/ไลเซนส์ฟรี-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 
