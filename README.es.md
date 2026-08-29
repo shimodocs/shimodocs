@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1><img src="./assets/readme/logo.svg" alt="Logotipo de ShimoDocs" width="48" align="absmiddle" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="Logotipo de ShimoDocs" width="48" align="middle" /> ShimoDocs</h1>
 
 <h3>Tu nube. Tus documentos. Tu control.</h3>
 
-<p>Una suite autoalojada de colaboración en tiempo real con agentes de IA configurables de forma privada en cada producto.</p>
+<p>ShimoDocs es una suite autoalojada de colaboración documental para documentos, escritura, hojas de cálculo, presentaciones, formularios y tablas en tiempo real en tu nube privada, con AI Agents configurables de forma privada e integrados en cada producto.</p>
 
 ---
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <strong>Español</strong> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
@@ -58,41 +58,9 @@ Conecta SSO, LDAP y Active Directory, e integra herramientas, flujos de trabajo 
 </tr>
 </table>
 
-## Agentes de IA integrados en cada producto
-
-Cada producto de ShimoDocs incluye una barra lateral de AI Agent. La IA trabaja dentro del documento, la hoja de cálculo, la presentación, el formulario o la tabla donde ya se realiza el trabajo, no en una herramienta separada que pierde el contexto actual.
-
-Tu organización puede configurar de forma privada cualquier AI Agent, modelo, herramienta y fuente de conocimiento aprobados, controlando el acceso y los límites de los datos. Los equipos pueden utilizar los servicios de IA que cumplen sus requisitos de seguridad, conformidad y despliegue sin quedar vinculados a un único proveedor público.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 En toda la suite
-
-La misma barra lateral de AI Agent está disponible en Document, Writer, Sheet, Presentation, Form y Table.
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 Configuración privada
-
-Conecta los AI Agents, modelos, herramientas y conocimientos aprobados por tu organización con tus propias políticas de acceso y controles de datos.
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Responses, no solo chat
-
-ShimoDocs utiliza un **modo Responses** orientado a agentes, no un simple chat estilo Copilot. El Agent trabaja con el contenido actual, gestiona solicitudes de varios pasos, utiliza herramientas y contexto configurados, y entrega resultados terminados y estructurados dentro del flujo de trabajo.
-
-</td>
-</tr>
-</table>
-
 ## Conoce la suite ShimoDocs
 
-Seis productos conectados cubren la colaboración diaria, los documentos extensos, el análisis de datos, las presentaciones, la recopilación de información y los flujos de trabajo estructurados. Todos incluyen la barra lateral de AI Agent descrita anteriormente.
+Seis productos conectados cubren la colaboración diaria, los documentos extensos, el análisis de datos, las presentaciones, la recopilación de información y los flujos de trabajo estructurados.
 
 <table>
 <tr>
@@ -158,6 +126,38 @@ Gestiona información estructurada y procesos empresariales con vistas de tabla,
 </table>
 
 Los seis productos trabajan juntos en un único espacio con la misma experiencia de AI Agent configurada de forma privada.
+
+## Agentes de IA integrados en cada producto
+
+Cada producto de ShimoDocs incluye una barra lateral de AI Agent. La IA trabaja dentro del documento, la hoja de cálculo, la presentación, el formulario o la tabla donde ya se realiza el trabajo, no en una herramienta separada que pierde el contexto actual.
+
+Tu organización puede configurar de forma privada cualquier AI Agent, modelo, herramienta y fuente de conocimiento aprobados, controlando el acceso y los límites de los datos. Los equipos pueden utilizar los servicios de IA que cumplen sus requisitos de seguridad, conformidad y despliegue sin quedar vinculados a un único proveedor público.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 En toda la suite
+
+La misma barra lateral de AI Agent está disponible en Document, Writer, Sheet, Presentation, Form y Table.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Configuración privada
+
+Conecta los AI Agents, modelos, herramientas y conocimientos aprobados por tu organización con tus propias políticas de acceso y controles de datos.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Responses, no solo chat
+
+ShimoDocs utiliza un **modo Responses** orientado a agentes, no un simple chat estilo Copilot. El Agent trabaja con el contenido actual, gestiona solicitudes de varios pasos, utiliza herramientas y contexto configurados, y entrega resultados terminados y estructurados dentro del flujo de trabajo.
+
+</td>
+</tr>
+</table>
 
 ## Gratis para siempre para equipos de hasta 5 usuarios
 

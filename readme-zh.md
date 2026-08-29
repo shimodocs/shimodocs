@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="absmiddle" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="middle" /> ShimoDocs</h1>
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
-<p>面向私有云的自托管实时协作套件，每个产品都内置可私有化配置的 AI Agent。</p>
+<p>ShimoDocs 是面向私有云的自托管文档协作套件，覆盖实时文档、文字处理、电子表格、演示文稿、表单和多维表格，每个产品都内置可私有化配置的 AI Agent。</p>
 
 ---
 

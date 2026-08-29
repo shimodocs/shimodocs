@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="absmiddle" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="middle" /> ShimoDocs</h1>
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
-<p>A self-hosted, real-time collaboration suite with privately configured AI Agents built into every product.</p>
+<p>ShimoDocs is a self-hosted document collaboration suite for real-time docs, writers, sheets, presentations, forms, and tables in your private cloud, with privately configurable AI Agents built into every product.</p>
 
 <p><strong>English</strong> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 

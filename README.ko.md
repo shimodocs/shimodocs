@@ -2,11 +2,11 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" align="absmiddle" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" align="middle" /> ShimoDocs</h1>
 
 <h3>당신의 클라우드. 당신의 문서. 당신의 통제권.</h3>
 
-<p>문서, 스프레드시트, 프레젠테이션, 양식 등을 위한 셀프 호스팅 실시간 협업 제품군입니다.</p>
+<p>ShimoDocs는 프라이빗 클라우드에서 문서, 워드 프로세싱, 스프레드시트, 프레젠테이션, 양식, 테이블을 제공하며 모든 제품에 비공개로 구성 가능한 AI Agent가 내장된 셀프 호스팅 문서 협업 제품군입니다.</p>
 
 [![GitHub Release 다운로드 수](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![문의하기](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)

@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1><img src="./assets/readme/logo.svg" alt="โลโก้ ShimoDocs" width="48" align="absmiddle" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="โลโก้ ShimoDocs" width="48" align="middle" /> ShimoDocs</h1>
 
 <h3>คลาวด์ของคุณ เอกสารของคุณ การควบคุมของคุณ</h3>
 
-<p>ชุดเครื่องมือทำงานร่วมกันแบบเรียลไทม์ที่โฮสต์ด้วยตนเอง สำหรับเอกสาร สเปรดชีต งานนำเสนอ แบบฟอร์ม และอื่น ๆ</p>
+<p>ShimoDocs คือชุดเครื่องมือทำงานร่วมกันบนเอกสารแบบโฮสต์ด้วยตนเองสำหรับเอกสาร โปรแกรมประมวลผลคำ สเปรดชีต งานนำเสนอ แบบฟอร์ม และตารางในไพรเวตคลาวด์ พร้อม AI Agent ที่กำหนดค่าแบบส่วนตัวได้ในทุกผลิตภัณฑ์</p>
 
 ---
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <strong>ไทย</strong></p>

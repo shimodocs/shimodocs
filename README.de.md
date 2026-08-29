@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs-Logo" width="48" align="absmiddle" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs-Logo" width="48" align="middle" /> ShimoDocs</h1>
 
 <h3>Ihre Cloud. Ihre Dokumente. Ihre Kontrolle.</h3>
 
-<p>Eine selbst gehostete Echtzeit-Suite mit privat konfigurierbaren AI Agents in jedem Produkt.</p>
+<p>ShimoDocs ist eine selbst gehostete Suite für Dokumentenzusammenarbeit mit Dokumenten, Textverarbeitung, Tabellen, Präsentationen, Formularen und strukturierten Tabellen in Ihrer Private Cloud sowie privat konfigurierbaren AI Agents in jedem Produkt.</p>
 
 ---
 
@@ -51,41 +51,9 @@ Binden Sie SSO, LDAP und Active Directory an und integrieren Sie vorhandene Werk
 
 </td></tr></table>
 
-## AI Agents in jedem Produkt integriert
-
-Jedes ShimoDocs-Produkt enthält eine integrierte AI-Agent-Seitenleiste. Die KI arbeitet direkt im Dokument, in der Tabelle, Präsentation, im Formular oder in der strukturierten Datentabelle – nicht in einem separaten Werkzeug, das den aktuellen Kontext verliert.
-
-Ihre Organisation kann beliebige freigegebene AI Agents, Modelle, Werkzeuge und Wissensquellen privat konfigurieren und dabei Zugriffe und Datengrenzen selbst steuern. So nutzen Teams die KI-Dienste, die ihren Sicherheits-, Compliance- und Bereitstellungsanforderungen entsprechen, ohne an einen einzelnen Public-AI-Anbieter gebunden zu sein.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 In der gesamten Suite
-
-Dieselbe AI-Agent-Seitenleiste steht in Document, Writer, Sheet, Presentation, Form und Table zur Verfügung.
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 Privat konfiguriert
-
-Binden Sie freigegebene AI Agents, Modelle, Werkzeuge und Wissensquellen mit eigenen Zugriffsrichtlinien und Datenkontrollen an.
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Responses statt Chat
-
-ShimoDocs verwendet einen agentischen **Responses-Modus** und keine einfache Copilot-Chatbox. Der Agent arbeitet mit dem aktuellen Inhalt, verarbeitet mehrstufige Aufgaben, nutzt konfigurierte Werkzeuge und Kontext und liefert fertige, strukturierte Ergebnisse direkt im Arbeitsablauf.
-
-</td>
-</tr>
-</table>
-
 ## Lernen Sie die ShimoDocs Suite kennen
 
-Sechs miteinander verbundene Produkte decken tägliche Zusammenarbeit, lange Dokumente, Datenanalyse, Präsentationen, Datenerfassung und strukturierte Arbeitsabläufe ab. Jedes Produkt enthält die oben beschriebene AI-Agent-Seitenleiste.
+Sechs miteinander verbundene Produkte decken tägliche Zusammenarbeit, lange Dokumente, Datenanalyse, Präsentationen, Datenerfassung und strukturierte Arbeitsabläufe ab.
 
 <table>
 <tr>
@@ -151,6 +119,38 @@ Verwalten Sie strukturierte Informationen und Geschäftsabläufe mit Tabellen-, 
 </table>
 
 Alle sechs Produkte arbeiten in einem gemeinsamen Arbeitsbereich mit derselben privat konfigurierten AI-Agent-Erfahrung zusammen.
+
+## AI Agents in jedem Produkt integriert
+
+Jedes ShimoDocs-Produkt enthält eine integrierte AI-Agent-Seitenleiste. Die KI arbeitet direkt im Dokument, in der Tabelle, Präsentation, im Formular oder in der strukturierten Datentabelle – nicht in einem separaten Werkzeug, das den aktuellen Kontext verliert.
+
+Ihre Organisation kann beliebige freigegebene AI Agents, Modelle, Werkzeuge und Wissensquellen privat konfigurieren und dabei Zugriffe und Datengrenzen selbst steuern. So nutzen Teams die KI-Dienste, die ihren Sicherheits-, Compliance- und Bereitstellungsanforderungen entsprechen, ohne an einen einzelnen Public-AI-Anbieter gebunden zu sein.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 In der gesamten Suite
+
+Dieselbe AI-Agent-Seitenleiste steht in Document, Writer, Sheet, Presentation, Form und Table zur Verfügung.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Privat konfiguriert
+
+Binden Sie freigegebene AI Agents, Modelle, Werkzeuge und Wissensquellen mit eigenen Zugriffsrichtlinien und Datenkontrollen an.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Responses statt Chat
+
+ShimoDocs verwendet einen agentischen **Responses-Modus** und keine einfache Copilot-Chatbox. Der Agent arbeitet mit dem aktuellen Inhalt, verarbeitet mehrstufige Aufgaben, nutzt konfigurierte Werkzeuge und Kontext und liefert fertige, strukturierte Ergebnisse direkt im Arbeitsablauf.
+
+</td>
+</tr>
+</table>
 
 ## Dauerhaft kostenlos für Teams mit bis zu 5 Nutzern
 

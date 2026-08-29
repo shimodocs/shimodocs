@@ -2,11 +2,11 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <strong>Tiếng Việt</strong> · <a href="./README.th.md">ไทย</a></p>
 
-<h1><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" align="absmiddle" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" align="middle" /> ShimoDocs</h1>
 
 <h3>Đám mây của bạn. Tài liệu của bạn. Quyền kiểm soát của bạn.</h3>
 
-<p>Bộ công cụ cộng tác thời gian thực tự lưu trữ cho tài liệu, bảng tính, bản trình bày, biểu mẫu và hơn thế nữa.</p>
+<p>ShimoDocs là bộ công cụ cộng tác tài liệu tự lưu trữ cho tài liệu, trình soạn thảo, bảng tính, bản trình bày, biểu mẫu và bảng trong đám mây riêng, với AI Agent có thể cấu hình riêng được tích hợp trong mọi sản phẩm.</p>
 
 [![Lượt tải GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Liên hệ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)

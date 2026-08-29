@@ -2,11 +2,11 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <strong>日本語</strong> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs ロゴ" width="48" align="absmiddle" /> ShimoDocs</h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs ロゴ" width="48" align="middle" /> ShimoDocs</h1>
 
 <h3>あなたのクラウド。あなたのドキュメント。あなたのコントロール。</h3>
 
-<p>ドキュメント、スプレッドシート、プレゼンテーション、フォームなどに対応するセルフホスト型リアルタイム共同編集スイート。</p>
+<p>ShimoDocs は、プライベートクラウドでドキュメント、文書作成、スプレッドシート、プレゼンテーション、フォーム、テーブルを提供し、すべての製品にプライベート設定可能な AI Agent を内蔵したセルフホスト型文書コラボレーションスイートです。</p>
 
 [![GitHub Release ダウンロード数](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![お問い合わせ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
