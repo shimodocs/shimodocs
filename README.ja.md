@@ -12,18 +12,18 @@
 
 自社サーバーやプライベートクラウドで、使い慣れたスムーズなリアルタイム文書コラボレーションを実現します。
 
-[![5ユーザーまで無料](https://img.shields.io/badge/無料ライセンス-5ユーザーまで-165DFF?style=for-the-badge)](mailto:many@shimo.im)
+[![5ユーザーまで無料](https://img.shields.io/badge/無料ライセンス-5ユーザーまで-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
 [![プライベート導入](https://img.shields.io/badge/導入方式-プライベートクラウド-172033?style=for-the-badge)](https://shimodocs.com/)
 [![カード不要](https://img.shields.io/badge/クレジットカード-不要-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
 
-[**インストールパッケージをダウンロード**](https://github.com/shimodocs/shimodocs/releases) · [**5ユーザー無料ライセンスを申請**](mailto:many@shimo.im) · [**オンライン試用**](https://shimodocs.com/#online-trial) · [公式サイト](https://shimodocs.com/)
+[**インストールパッケージをダウンロード**](https://github.com/shimodocs/shimodocs/releases) · [**5ユーザー無料ライセンスを申請**](mailto:support.global@shimo.im) · [**オンライン試用**](https://shimodocs.com/#online-trial) · [公式サイト](https://shimodocs.com/)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ShimoDocs は**プライベート環境に導入する**文書コラボレーションプラットフォームです。[GitHub Releases](https://github.com/shimodocs/shimodocs/releases) からインストールパッケージをダウンロードして自社インフラに導入し、[many@shimo.im](mailto:many@shimo.im) へメールを送って最大5ユーザーの無料ライセンスを申請してください。まだ導入しない場合は、[オンライン試用](https://shimodocs.com/#online-trial)からお試しいただけます。
+> ShimoDocs は**プライベート環境に導入する**文書コラボレーションプラットフォームです。[GitHub Releases](https://github.com/shimodocs/shimodocs/releases) からインストールパッケージをダウンロードして自社インフラに導入し、[support.global@shimo.im](mailto:support.global@shimo.im) へメールを送って最大5ユーザーの無料ライセンスを申請してください。まだ導入しない場合は、[オンライン試用](https://shimodocs.com/#online-trial)からお試しいただけます。
 
 ## コラボレーションのために。データ管理のために。
 
@@ -86,7 +86,7 @@ SSO、LDAP、Active Directory と連携し、オープン API で既存のツー
 
 1. [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) から最新のインストールパッケージをダウンロードします。
 2. Release に含まれる手順に従い、自社サーバー、プライベートクラウド、またはデータセンターに導入します。
-3. [many@shimo.im](mailto:many@shimo.im) へメールを送り、5ユーザー無料ライセンスを申請します。
+3. [support.global@shimo.im](mailto:support.global@shimo.im) へメールを送り、5ユーザー無料ライセンスを申請します。
 4. ライセンスを有効化し、ワークスペースを作成してチームを招待します。
 
 > サーバー、クラウドリソース、ホスティングの費用は利用者側の負担となり、ShimoDocs ライセンスには含まれません。
@@ -94,7 +94,7 @@ SSO、LDAP、Active Directory と連携し、オープン API で既存のツー
 <div align="center">
 
 [![ダウンロード](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![ライセンス申請](https://img.shields.io/badge/無料ライセンス-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:many@shimo.im)
+[![ライセンス申請](https://img.shields.io/badge/無料ライセンス-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 
@@ -106,7 +106,7 @@ SSO、LDAP、Active Directory と連携し、オープン API で既存のツー
 | 🧰 製品機能 | 完全なコラボレーション機能を利用可能 |
 | 💳 クレジットカード | 不要 |
 | 📦 インストールパッケージ | GitHub Releases からダウンロード |
-| 🔑 ライセンス | `many@shimo.im` へメールして無料申請 |
+| 🔑 ライセンス | `support.global@shimo.im` へメールして無料申請 |
 | 🏠 導入先 | 自社サーバー、プライベートクラウド、データセンター |
 
 小規模チームはまず全員で1つの共有スペースを使い、チームの成長に合わせてアップグレードを検討できます。
@@ -149,7 +149,7 @@ ShimoDocs は、使い慣れたコラボレーション体験に加え、導入�
 
 <details><summary><strong>ShimoDocs は本当に無料ですか？</strong></summary>
 
-はい。5ユーザーまでのチームは [many@shimo.im](mailto:many@shimo.im) へメールを送り、クレジットカードなしで無料ライセンスを申請できます。6ユーザー以上のチームは人数に応じた有料プランを選択できます。
+はい。5ユーザーまでのチームは [support.global@shimo.im](mailto:support.global@shimo.im) へメールを送り、クレジットカードなしで無料ライセンスを申請できます。6ユーザー以上のチームは人数に応じた有料プランを選択できます。
 
 </details>
 
@@ -183,10 +183,10 @@ ShimoDocs は12年以上にわたる文書コラボレーションの経験を�
 
 **5ユーザーまで無料 · クレジットカード不要 · データは自社環境に保持**
 
-[**パッケージをダウンロード**](https://github.com/shimodocs/shimodocs/releases) · [**無料ライセンスを申請**](mailto:many@shimo.im) · [**オンライン試用**](https://shimodocs.com/#online-trial) · [**営業へ問い合わせ**](https://shimodocs.com/contact)
+[**パッケージをダウンロード**](https://github.com/shimodocs/shimodocs/releases) · [**無料ライセンスを申請**](mailto:support.global@shimo.im) · [**オンライン試用**](https://shimodocs.com/#online-trial) · [**営業へ問い合わせ**](https://shimodocs.com/contact)
 
 [公式サイト](https://shimodocs.com/) · [料金](https://shimodocs.com/pricing) · [比較](https://shimodocs.com/comparison) · [プライバシーポリシー](https://shimodocs.com/legal-page/privacy-policy) · [利用規約](https://shimodocs.com/legal-page/terms-conditions)
 
-ライセンス申請：[many@shimo.im](mailto:many@shimo.im) · サポート：[support.global@shimo.im](mailto:support.global@shimo.im)
+ライセンス申請：[support.global@shimo.im](mailto:support.global@shimo.im) · サポート：[support.global@shimo.im](mailto:support.global@shimo.im)
 
 </div>

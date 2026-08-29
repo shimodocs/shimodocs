@@ -12,18 +12,18 @@
 
 在自己的服务器或私有云中，获得熟悉、流畅的实时文档协作体验。
 
-[![Free for 5 users](https://img.shields.io/badge/免费_License-最多_5_位用户-165DFF?style=for-the-badge)](mailto:many@shimo.im)
+[![Free for 5 users](https://img.shields.io/badge/免费_License-最多_5_位用户-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
 [![Private deployment](https://img.shields.io/badge/部署方式-私有部署-172033?style=for-the-badge)](https://shimodocs.com/)
 [![No credit card](https://img.shields.io/badge/无需-信用卡-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
 
-[**下载安装包**](https://github.com/shimodocs/shimodocs/releases) · [**申请 5 人免费 License**](mailto:many@shimo.im) · [**在线试用**](https://shimodocs.com/#online-trial) · [官网](https://shimodocs.com/)
+[**下载安装包**](https://github.com/shimodocs/shimodocs/releases) · [**申请 5 人免费 License**](mailto:support.global@shimo.im) · [**在线试用**](https://shimodocs.com/#online-trial) · [官网](https://shimodocs.com/)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ShimoDocs 是一套**私有部署**的文档协作平台。请从 [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) 下载安装包，部署到自己的基础设施，并发送邮件至 [many@shimo.im](mailto:many@shimo.im) 申请最多 5 位用户的免费 License。暂时不想部署？可以先申请 [在线试用](https://shimodocs.com/#online-trial)。
+> ShimoDocs 是一套**私有部署**的文档协作平台。请从 [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) 下载安装包，部署到自己的基础设施，并发送邮件至 [support.global@shimo.im](mailto:support.global@shimo.im) 申请最多 5 位用户的免费 License。暂时不想部署？可以先申请 [在线试用](https://shimodocs.com/#online-trial)。
 
 ## 为协作而生，为数据控制而设计
 
@@ -101,13 +101,13 @@ ShimoDocs 将类似 Google Docs 的实时协作体验，与私有部署、企业
 
 1. 前往 [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) 下载最新安装包。
 2. 按照 Release 中随安装包提供的说明，部署到自己的服务器、私有云或数据中心。
-3. 发送邮件至 [many@shimo.im](mailto:many@shimo.im)，申请 5 人免费 License。
+3. 发送邮件至 [support.global@shimo.im](mailto:support.global@shimo.im)，申请 5 人免费 License。
 4. 激活 License，创建工作空间并邀请成员开始协作。
 
 <div align="center">
 
 [![Download](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Get license](https://img.shields.io/badge/Get_Free_License-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:many@shimo.im)
+[![Get license](https://img.shields.io/badge/Get_Free_License-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 
@@ -119,7 +119,7 @@ ShimoDocs 将类似 Google Docs 的实时协作体验，与私有部署、企业
 | 🧰 产品能力 | 包含完整协作功能 |
 | 💳 信用卡 | 无需信用卡 |
 | 📦 安装包 | 从 GitHub Releases 下载 |
-| 🔑 License | 联系 `many@shimo.im` 免费申请 |
+| 🔑 License | 联系 `support.global@shimo.im` 免费申请 |
 | 🏠 部署位置 | 自己的服务器、私有云或数据中心 |
 
 小团队可以先把整个团队真正放进同一个协作空间，再根据未来的团队规模决定何时升级。
@@ -163,7 +163,7 @@ ShimoDocs gives teams the collaboration experience they already know, with more 
 <details>
 <summary><strong>ShimoDocs 真的可以免费使用吗？</strong></summary>
 
-可以。团队人数不超过 5 人时，可以发送邮件至 [many@shimo.im](mailto:many@shimo.im) 申请免费 License，无需信用卡。超过 5 人后，可以根据实际人数选择付费方案。
+可以。团队人数不超过 5 人时，可以发送邮件至 [support.global@shimo.im](mailto:support.global@shimo.im) 申请免费 License，无需信用卡。超过 5 人后，可以根据实际人数选择付费方案。
 
 </details>
 
@@ -200,12 +200,12 @@ ShimoDocs 拥有超过 12 年的文档协作产品经验，已服务上千家团
 
 **最多 5 人免费 · 无需信用卡 · 数据留在你的环境中**
 
-[**下载安装包**](https://github.com/shimodocs/shimodocs/releases) · [**申请免费 License**](mailto:many@shimo.im) · [**在线试用**](https://shimodocs.com/#online-trial) · [**联系销售**](https://shimodocs.com/contact)
+[**下载安装包**](https://github.com/shimodocs/shimodocs/releases) · [**申请免费 License**](mailto:support.global@shimo.im) · [**在线试用**](https://shimodocs.com/#online-trial) · [**联系销售**](https://shimodocs.com/contact)
 
 <br />
 
 [官网](https://shimodocs.com/) · [产品定价](https://shimodocs.com/pricing) · [产品对比](https://shimodocs.com/comparison) · [隐私政策](https://shimodocs.com/legal-page/privacy-policy) · [使用条款](https://shimodocs.com/legal-page/terms-conditions)
 
-License 申请：[many@shimo.im](mailto:many@shimo.im) · 技术支持：[support.global@shimo.im](mailto:support.global@shimo.im)
+License 申请：[support.global@shimo.im](mailto:support.global@shimo.im) · 技术支持：[support.global@shimo.im](mailto:support.global@shimo.im)
 
 </div>

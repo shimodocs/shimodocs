@@ -12,18 +12,18 @@
 
 Disfruta de una colaboración documental en tiempo real, familiar y fluida, en tus propios servidores o nube privada.
 
-[![Gratis para 5 usuarios](https://img.shields.io/badge/Licencia_gratuita-Hasta_5_usuarios-165DFF?style=for-the-badge)](mailto:many@shimo.im)
+[![Gratis para 5 usuarios](https://img.shields.io/badge/Licencia_gratuita-Hasta_5_usuarios-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
 [![Despliegue privado](https://img.shields.io/badge/Despliegue-Nube_privada-172033?style=for-the-badge)](https://shimodocs.com/)
 [![Sin tarjeta](https://img.shields.io/badge/Sin-Tarjeta_de_crédito-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
 
-[**Descargar paquete**](https://github.com/shimodocs/shimodocs/releases) · [**Solicitar licencia gratuita para 5 usuarios**](mailto:many@shimo.im) · [**Prueba en línea**](https://shimodocs.com/#online-trial) · [Sitio web](https://shimodocs.com/)
+[**Descargar paquete**](https://github.com/shimodocs/shimodocs/releases) · [**Solicitar licencia gratuita para 5 usuarios**](mailto:support.global@shimo.im) · [**Prueba en línea**](https://shimodocs.com/#online-trial) · [Sitio web](https://shimodocs.com/)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ShimoDocs es una plataforma de colaboración documental de **despliegue privado**. Descarga el instalador desde [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), despliégalo en tu propia infraestructura y escribe a [many@shimo.im](mailto:many@shimo.im) para solicitar una licencia gratuita de hasta 5 usuarios. ¿Aún no quieres desplegarlo? Empieza con una [prueba en línea](https://shimodocs.com/#online-trial).
+> ShimoDocs es una plataforma de colaboración documental de **despliegue privado**. Descarga el instalador desde [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), despliégalo en tu propia infraestructura y escribe a [support.global@shimo.im](mailto:support.global@shimo.im) para solicitar una licencia gratuita de hasta 5 usuarios. ¿Aún no quieres desplegarlo? Empieza con una [prueba en línea](https://shimodocs.com/#online-trial).
 
 ## Creado para colaborar. Diseñado para mantener el control.
 
@@ -95,7 +95,7 @@ También puedes conectar los servicios de IA aprobados por tu organización para
 
 1. Descarga el instalador más reciente desde [GitHub Releases](https://github.com/shimodocs/shimodocs/releases).
 2. Sigue las instrucciones de la versión para desplegar ShimoDocs en tus servidores, nube privada o centro de datos.
-3. Escribe a [many@shimo.im](mailto:many@shimo.im) para solicitar una licencia gratuita para 5 usuarios.
+3. Escribe a [support.global@shimo.im](mailto:support.global@shimo.im) para solicitar una licencia gratuita para 5 usuarios.
 4. Activa la licencia, crea un espacio de trabajo e invita a tu equipo.
 
 > Los costes del servidor, los recursos en la nube y el alojamiento son responsabilidad del cliente y no están incluidos en la licencia de ShimoDocs.
@@ -103,7 +103,7 @@ También puedes conectar los servicios de IA aprobados por tu organización para
 <div align="center">
 
 [![Descargar](https://img.shields.io/badge/Descargar-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Obtener licencia](https://img.shields.io/badge/Licencia_gratuita-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:many@shimo.im)
+[![Obtener licencia](https://img.shields.io/badge/Licencia_gratuita-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 
@@ -115,7 +115,7 @@ También puedes conectar los servicios de IA aprobados por tu organización para
 | 🧰 Funcionalidades | Experiencia de colaboración completa incluida |
 | 💳 Tarjeta de crédito | No requerida |
 | 📦 Instalador | Descarga desde GitHub Releases |
-| 🔑 Licencia | Solicítala gratis escribiendo a `many@shimo.im` |
+| 🔑 Licencia | Solicítala gratis escribiendo a `support.global@shimo.im` |
 | 🏠 Despliegue | Tus servidores, nube privada o centro de datos |
 
 Los equipos pequeños pueden empezar a trabajar en un único espacio compartido y decidir cuándo actualizar a medida que crecen.
@@ -158,7 +158,7 @@ ShimoDocs ofrece la experiencia de colaboración que tu equipo ya conoce, con m�
 
 <details><summary><strong>¿ShimoDocs es realmente gratuito?</strong></summary>
 
-Sí. Los equipos de hasta 5 usuarios pueden escribir a [many@shimo.im](mailto:many@shimo.im) para solicitar una licencia gratuita, sin tarjeta de crédito. Los equipos de más de 5 usuarios pueden elegir un plan de pago según su tamaño.
+Sí. Los equipos de hasta 5 usuarios pueden escribir a [support.global@shimo.im](mailto:support.global@shimo.im) para solicitar una licencia gratuita, sin tarjeta de crédito. Los equipos de más de 5 usuarios pueden elegir un plan de pago según su tamaño.
 
 </details>
 
@@ -192,10 +192,10 @@ ShimoDocs cuenta con más de 12 años de experiencia en colaboración documental
 
 **Gratis para hasta 5 usuarios · Sin tarjeta de crédito · Los datos permanecen en tu entorno**
 
-[**Descargar paquete**](https://github.com/shimodocs/shimodocs/releases) · [**Solicitar licencia gratuita**](mailto:many@shimo.im) · [**Prueba en línea**](https://shimodocs.com/#online-trial) · [**Contactar con ventas**](https://shimodocs.com/contact)
+[**Descargar paquete**](https://github.com/shimodocs/shimodocs/releases) · [**Solicitar licencia gratuita**](mailto:support.global@shimo.im) · [**Prueba en línea**](https://shimodocs.com/#online-trial) · [**Contactar con ventas**](https://shimodocs.com/contact)
 
 [Sitio web](https://shimodocs.com/) · [Precios](https://shimodocs.com/pricing) · [Comparación](https://shimodocs.com/comparison) · [Privacidad](https://shimodocs.com/legal-page/privacy-policy) · [Condiciones](https://shimodocs.com/legal-page/terms-conditions)
 
-Licencias: [many@shimo.im](mailto:many@shimo.im) · Soporte: [support.global@shimo.im](mailto:support.global@shimo.im)
+Licencias: [support.global@shimo.im](mailto:support.global@shimo.im) · Soporte: [support.global@shimo.im](mailto:support.global@shimo.im)
 
 </div>

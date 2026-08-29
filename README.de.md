@@ -12,18 +12,18 @@
 
 Vertraute, reibungslose Zusammenarbeit an Dokumenten in Echtzeit – auf Ihren eigenen Servern oder in Ihrer Private Cloud.
 
-[![Kostenlos für 5 Nutzer](https://img.shields.io/badge/Kostenlose_Lizenz-Bis_zu_5_Nutzer-165DFF?style=for-the-badge)](mailto:many@shimo.im)
+[![Kostenlos für 5 Nutzer](https://img.shields.io/badge/Kostenlose_Lizenz-Bis_zu_5_Nutzer-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
 [![Private Bereitstellung](https://img.shields.io/badge/Bereitstellung-Private_Cloud-172033?style=for-the-badge)](https://shimodocs.com/)
 [![Keine Kreditkarte](https://img.shields.io/badge/Keine-Kreditkarte-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
 
-[**Paket herunterladen**](https://github.com/shimodocs/shimodocs/releases) · [**Kostenlose 5-Nutzer-Lizenz anfordern**](mailto:many@shimo.im) · [**Online testen**](https://shimodocs.com/#online-trial) · [Website](https://shimodocs.com/)
+[**Paket herunterladen**](https://github.com/shimodocs/shimodocs/releases) · [**Kostenlose 5-Nutzer-Lizenz anfordern**](mailto:support.global@shimo.im) · [**Online testen**](https://shimodocs.com/#online-trial) · [Website](https://shimodocs.com/)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ShimoDocs ist eine Plattform für Dokumentenzusammenarbeit zur **privaten Bereitstellung**. Laden Sie das Installationspaket von [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) herunter, stellen Sie es in Ihrer eigenen Infrastruktur bereit und schreiben Sie an [many@shimo.im](mailto:many@shimo.im), um eine kostenlose Lizenz für bis zu 5 Nutzer anzufordern. Noch nicht bereit für die Bereitstellung? Starten Sie mit einem [Online-Test](https://shimodocs.com/#online-trial).
+> ShimoDocs ist eine Plattform für Dokumentenzusammenarbeit zur **privaten Bereitstellung**. Laden Sie das Installationspaket von [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) herunter, stellen Sie es in Ihrer eigenen Infrastruktur bereit und schreiben Sie an [support.global@shimo.im](mailto:support.global@shimo.im), um eine kostenlose Lizenz für bis zu 5 Nutzer anzufordern. Noch nicht bereit für die Bereitstellung? Starten Sie mit einem [Online-Test](https://shimodocs.com/#online-trial).
 
 ## Für Zusammenarbeit entwickelt. Für Kontrolle konzipiert.
 
@@ -86,7 +86,7 @@ Zusätzlich können Sie die von Ihrer Organisation freigegebenen KI-Dienste zum 
 
 1. Laden Sie das aktuelle Installationspaket von [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) herunter.
 2. Folgen Sie den Hinweisen des Releases, um ShimoDocs auf eigenen Servern, in Ihrer Private Cloud oder im Rechenzentrum bereitzustellen.
-3. Schreiben Sie an [many@shimo.im](mailto:many@shimo.im), um eine kostenlose 5-Nutzer-Lizenz anzufordern.
+3. Schreiben Sie an [support.global@shimo.im](mailto:support.global@shimo.im), um eine kostenlose 5-Nutzer-Lizenz anzufordern.
 4. Aktivieren Sie die Lizenz, erstellen Sie einen Arbeitsbereich und laden Sie Ihr Team ein.
 
 > Kosten für Server, Cloud-Ressourcen und Hosting trägt der Kunde; sie sind nicht in der ShimoDocs-Lizenz enthalten.
@@ -94,7 +94,7 @@ Zusätzlich können Sie die von Ihrer Organisation freigegebenen KI-Dienste zum 
 <div align="center">
 
 [![Herunterladen](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Lizenz anfordern](https://img.shields.io/badge/Kostenlose_Lizenz-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:many@shimo.im)
+[![Lizenz anfordern](https://img.shields.io/badge/Kostenlose_Lizenz-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 
@@ -106,7 +106,7 @@ Zusätzlich können Sie die von Ihrer Organisation freigegebenen KI-Dienste zum 
 | 🧰 Funktionsumfang | Vollständige Zusammenarbeit enthalten |
 | 💳 Kreditkarte | Nicht erforderlich |
 | 📦 Installationspaket | Download über GitHub Releases |
-| 🔑 Lizenz | Kostenlos per E-Mail an `many@shimo.im` anfordern |
+| 🔑 Lizenz | Kostenlos per E-Mail an `support.global@shimo.im` anfordern |
 | 🏠 Bereitstellung | Eigene Server, Private Cloud oder Rechenzentrum |
 
 Kleine Teams können zunächst alle in einem gemeinsamen Arbeitsbereich zusammenbringen und später entscheiden, wann ein Upgrade sinnvoll ist.
@@ -149,7 +149,7 @@ ShimoDocs bietet Teams die vertraute Zusammenarbeit mit mehr Kontrolle über Ber
 
 <details><summary><strong>Ist ShimoDocs wirklich kostenlos?</strong></summary>
 
-Ja. Teams mit bis zu 5 Nutzern können per E-Mail an [many@shimo.im](mailto:many@shimo.im) eine kostenlose Lizenz anfordern – ohne Kreditkarte. Größere Teams können einen kostenpflichtigen Plan passend zur Teamgröße wählen.
+Ja. Teams mit bis zu 5 Nutzern können per E-Mail an [support.global@shimo.im](mailto:support.global@shimo.im) eine kostenlose Lizenz anfordern – ohne Kreditkarte. Größere Teams können einen kostenpflichtigen Plan passend zur Teamgröße wählen.
 
 </details>
 
@@ -183,10 +183,10 @@ ShimoDocs verfügt über mehr als 12 Jahre Erfahrung in der Dokumentenzusammenar
 
 **Kostenlos für bis zu 5 Nutzer · Keine Kreditkarte · Daten bleiben in Ihrer Umgebung**
 
-[**Paket herunterladen**](https://github.com/shimodocs/shimodocs/releases) · [**Kostenlose Lizenz anfordern**](mailto:many@shimo.im) · [**Online testen**](https://shimodocs.com/#online-trial) · [**Vertrieb kontaktieren**](https://shimodocs.com/contact)
+[**Paket herunterladen**](https://github.com/shimodocs/shimodocs/releases) · [**Kostenlose Lizenz anfordern**](mailto:support.global@shimo.im) · [**Online testen**](https://shimodocs.com/#online-trial) · [**Vertrieb kontaktieren**](https://shimodocs.com/contact)
 
 [Website](https://shimodocs.com/) · [Preise](https://shimodocs.com/pricing) · [Vergleich](https://shimodocs.com/comparison) · [Datenschutz](https://shimodocs.com/legal-page/privacy-policy) · [Bedingungen](https://shimodocs.com/legal-page/terms-conditions)
 
-Lizenzanfragen: [many@shimo.im](mailto:many@shimo.im) · Support: [support.global@shimo.im](mailto:support.global@shimo.im)
+Lizenzanfragen: [support.global@shimo.im](mailto:support.global@shimo.im) · Support: [support.global@shimo.im](mailto:support.global@shimo.im)
 
 </div>

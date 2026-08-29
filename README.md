@@ -12,18 +12,18 @@
 
 Get a familiar, seamless real-time document collaboration experience on your own servers or private cloud.
 
-[![Free for 5 users](https://img.shields.io/badge/Free_License-Up_to_5_users-165DFF?style=for-the-badge)](mailto:many@shimo.im)
+[![Free for 5 users](https://img.shields.io/badge/Free_License-Up_to_5_users-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
 [![Private deployment](https://img.shields.io/badge/Deployment-Private_Cloud-172033?style=for-the-badge)](https://shimodocs.com/)
 [![No credit card](https://img.shields.io/badge/No-Credit_Card-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
 
-[**Download Package**](https://github.com/shimodocs/shimodocs/releases) · [**Request a Free 5-User License**](mailto:many@shimo.im) · [**Online Trial**](https://shimodocs.com/#online-trial) · [Website](https://shimodocs.com/)
+[**Download Package**](https://github.com/shimodocs/shimodocs/releases) · [**Request a Free 5-User License**](mailto:support.global@shimo.im) · [**Online Trial**](https://shimodocs.com/#online-trial) · [Website](https://shimodocs.com/)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ShimoDocs is a **privately deployed** document collaboration platform. Download the installer from [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), deploy it on your own infrastructure, and email [many@shimo.im](mailto:many@shimo.im) to request a free license for up to 5 users. Not ready to deploy? Start with an [online trial](https://shimodocs.com/#online-trial).
+> ShimoDocs is a **privately deployed** document collaboration platform. Download the installer from [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), deploy it on your own infrastructure, and email [support.global@shimo.im](mailto:support.global@shimo.im) to request a free license for up to 5 users. Not ready to deploy? Start with an [online trial](https://shimodocs.com/#online-trial).
 
 ## Built for collaboration. Designed for control.
 
@@ -101,7 +101,7 @@ You can also connect the AI services approved by your organization for drafting,
 
 1. Download the latest installer from [GitHub Releases](https://github.com/shimodocs/shimodocs/releases).
 2. Follow the instructions included with the release to deploy ShimoDocs on your own servers, private cloud, or data center.
-3. Email [many@shimo.im](mailto:many@shimo.im) to request a free 5-user license.
+3. Email [support.global@shimo.im](mailto:support.global@shimo.im) to request a free 5-user license.
 4. Activate the license, create a workspace, and invite your team.
 
 > Server, cloud resource, and hosting costs are managed by the customer and are not included with the ShimoDocs license.
@@ -109,7 +109,7 @@ You can also connect the AI services approved by your organization for drafting,
 <div align="center">
 
 [![Download](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Get license](https://img.shields.io/badge/Get_Free_License-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:many@shimo.im)
+[![Get license](https://img.shields.io/badge/Get_Free_License-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 
@@ -121,7 +121,7 @@ You can also connect the AI services approved by your organization for drafting,
 | 🧰 Product capabilities | Full collaboration experience included |
 | 💳 Credit card | Not required |
 | 📦 Installer | Download from GitHub Releases |
-| 🔑 License | Request free by emailing `many@shimo.im` |
+| 🔑 License | Request free by emailing `support.global@shimo.im` |
 | 🏠 Deployment | Your own servers, private cloud, or data center |
 
 Small teams can get everyone working in one shared space first, then decide when to upgrade as the team grows.
@@ -165,7 +165,7 @@ ShimoDocs gives teams the collaboration experience they already know, with more 
 <details>
 <summary><strong>Is ShimoDocs really free?</strong></summary>
 
-Yes. Teams of up to 5 users can email [many@shimo.im](mailto:many@shimo.im) to request a free license, with no credit card required. Teams with more than 5 users can choose a paid plan based on team size.
+Yes. Teams of up to 5 users can email [support.global@shimo.im](mailto:support.global@shimo.im) to request a free license, with no credit card required. Teams with more than 5 users can choose a paid plan based on team size.
 
 </details>
 
@@ -202,12 +202,12 @@ ShimoDocs brings more than 12 years of document collaboration experience and has
 
 **Free for up to 5 users · No credit card · Data stays in your environment**
 
-[**Download Package**](https://github.com/shimodocs/shimodocs/releases) · [**Request a Free License**](mailto:many@shimo.im) · [**Online Trial**](https://shimodocs.com/#online-trial) · [**Contact Sales**](https://shimodocs.com/contact)
+[**Download Package**](https://github.com/shimodocs/shimodocs/releases) · [**Request a Free License**](mailto:support.global@shimo.im) · [**Online Trial**](https://shimodocs.com/#online-trial) · [**Contact Sales**](https://shimodocs.com/contact)
 
 <br />
 
 [Website](https://shimodocs.com/) · [Pricing](https://shimodocs.com/pricing) · [Comparison](https://shimodocs.com/comparison) · [Privacy Policy](https://shimodocs.com/legal-page/privacy-policy) · [Terms](https://shimodocs.com/legal-page/terms-conditions)
 
-License requests: [many@shimo.im](mailto:many@shimo.im) · Support: [support.global@shimo.im](mailto:support.global@shimo.im)
+License requests: [support.global@shimo.im](mailto:support.global@shimo.im) · Support: [support.global@shimo.im](mailto:support.global@shimo.im)
 
 </div>

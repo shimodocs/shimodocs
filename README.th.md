@@ -12,18 +12,18 @@
 
 สัมผัสการทำงานร่วมกันบนเอกสารแบบเรียลไทม์ที่คุ้นเคยและลื่นไหล บนเซิร์ฟเวอร์หรือไพรเวตคลาวด์ของคุณเอง
 
-[![ฟรีสำหรับ 5 ผู้ใช้](https://img.shields.io/badge/ไลเซนส์ฟรี-สูงสุด_5_ผู้ใช้-165DFF?style=for-the-badge)](mailto:many@shimo.im)
+[![ฟรีสำหรับ 5 ผู้ใช้](https://img.shields.io/badge/ไลเซนส์ฟรี-สูงสุด_5_ผู้ใช้-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
 [![ติดตั้งแบบส่วนตัว](https://img.shields.io/badge/การติดตั้ง-ไพรเวตคลาวด์-172033?style=for-the-badge)](https://shimodocs.com/)
 [![ไม่ต้องใช้บัตร](https://img.shields.io/badge/ไม่ต้องใช้-บัตรเครดิต-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
 
-[**ดาวน์โหลดแพ็กเกจติดตั้ง**](https://github.com/shimodocs/shimodocs/releases) · [**ขอไลเซนส์ฟรีสำหรับ 5 ผู้ใช้**](mailto:many@shimo.im) · [**ทดลองใช้ออนไลน์**](https://shimodocs.com/#online-trial) · [เว็บไซต์](https://shimodocs.com/)
+[**ดาวน์โหลดแพ็กเกจติดตั้ง**](https://github.com/shimodocs/shimodocs/releases) · [**ขอไลเซนส์ฟรีสำหรับ 5 ผู้ใช้**](mailto:support.global@shimo.im) · [**ทดลองใช้ออนไลน์**](https://shimodocs.com/#online-trial) · [เว็บไซต์](https://shimodocs.com/)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ShimoDocs เป็นแพลตฟอร์มทำงานร่วมกันบนเอกสารที่ **ติดตั้งในสภาพแวดล้อมส่วนตัว** ดาวน์โหลดแพ็กเกจติดตั้งจาก [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) ติดตั้งบนโครงสร้างพื้นฐานของคุณ และส่งอีเมลไปที่ [many@shimo.im](mailto:many@shimo.im) เพื่อขอไลเซนส์ฟรีสำหรับผู้ใช้สูงสุด 5 คน หากยังไม่พร้อมติดตั้ง สามารถเริ่มด้วย [การทดลองใช้ออนไลน์](https://shimodocs.com/#online-trial)
+> ShimoDocs เป็นแพลตฟอร์มทำงานร่วมกันบนเอกสารที่ **ติดตั้งในสภาพแวดล้อมส่วนตัว** ดาวน์โหลดแพ็กเกจติดตั้งจาก [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) ติดตั้งบนโครงสร้างพื้นฐานของคุณ และส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีสำหรับผู้ใช้สูงสุด 5 คน หากยังไม่พร้อมติดตั้ง สามารถเริ่มด้วย [การทดลองใช้ออนไลน์](https://shimodocs.com/#online-trial)
 
 ## สร้างมาเพื่อการทำงานร่วมกัน ออกแบบมาเพื่อการควบคุม
 
@@ -86,7 +86,7 @@ ShimoDocs ผสานประสบการณ์ทำงานร่วม�
 
 1. ดาวน์โหลดแพ็กเกจติดตั้งล่าสุดจาก [GitHub Releases](https://github.com/shimodocs/shimodocs/releases)
 2. ทำตามคำแนะนำใน Release เพื่อติดตั้งบนเซิร์ฟเวอร์ ไพรเวตคลาวด์ หรือศูนย์ข้อมูลของคุณ
-3. ส่งอีเมลไปที่ [many@shimo.im](mailto:many@shimo.im) เพื่อขอไลเซนส์ฟรีสำหรับ 5 ผู้ใช้
+3. ส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีสำหรับ 5 ผู้ใช้
 4. เปิดใช้งานไลเซนส์ สร้างพื้นที่ทำงาน และเชิญทีมของคุณ
 
 > ค่าใช้จ่ายของเซิร์ฟเวอร์ ทรัพยากรคลาวด์ และโฮสติ้งเป็นความรับผิดชอบของลูกค้า และไม่รวมอยู่ในไลเซนส์ ShimoDocs
@@ -94,7 +94,7 @@ ShimoDocs ผสานประสบการณ์ทำงานร่วม�
 <div align="center">
 
 [![ดาวน์โหลด](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![ขอไลเซนส์](https://img.shields.io/badge/ไลเซนส์ฟรี-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:many@shimo.im)
+[![ขอไลเซนส์](https://img.shields.io/badge/ไลเซนส์ฟรี-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 
@@ -106,7 +106,7 @@ ShimoDocs ผสานประสบการณ์ทำงานร่วม�
 | 🧰 ความสามารถ | รวมประสบการณ์ทำงานร่วมกันอย่างครบถ้วน |
 | 💳 บัตรเครดิต | ไม่จำเป็น |
 | 📦 แพ็กเกจติดตั้ง | ดาวน์โหลดจาก GitHub Releases |
-| 🔑 ไลเซนส์ | ขอฟรีทางอีเมล `many@shimo.im` |
+| 🔑 ไลเซนส์ | ขอฟรีทางอีเมล `support.global@shimo.im` |
 | 🏠 สถานที่ติดตั้ง | เซิร์ฟเวอร์ ไพรเวตคลาวด์ หรือศูนย์ข้อมูลของคุณ |
 
 ทีมขนาดเล็กสามารถเริ่มทำงานร่วมกันในพื้นที่เดียวก่อน แล้วจึงตัดสินใจอัปเกรดเมื่อทีมเติบโต
@@ -149,7 +149,7 @@ ShimoDocs มอบประสบการณ์ทำงานร่วมก�
 
 <details><summary><strong>ShimoDocs ฟรีจริงหรือไม่</strong></summary>
 
-ฟรี ทีมสูงสุด 5 ผู้ใช้สามารถส่งอีเมลไปที่ [many@shimo.im](mailto:many@shimo.im) เพื่อขอไลเซนส์ฟรีโดยไม่ต้องใช้บัตรเครดิต ทีมที่มีผู้ใช้มากกว่า 5 คนสามารถเลือกแผนแบบชำระเงินตามขนาดทีม
+ฟรี ทีมสูงสุด 5 ผู้ใช้สามารถส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีโดยไม่ต้องใช้บัตรเครดิต ทีมที่มีผู้ใช้มากกว่า 5 คนสามารถเลือกแผนแบบชำระเงินตามขนาดทีม
 
 </details>
 
@@ -183,10 +183,10 @@ ShimoDocs มีประสบการณ์ด้านการทำงา�
 
 **ฟรีสูงสุด 5 ผู้ใช้ · ไม่ต้องใช้บัตรเครดิต · ข้อมูลอยู่ในสภาพแวดล้อมของคุณ**
 
-[**ดาวน์โหลดแพ็กเกจ**](https://github.com/shimodocs/shimodocs/releases) · [**ขอไลเซนส์ฟรี**](mailto:many@shimo.im) · [**ทดลองใช้ออนไลน์**](https://shimodocs.com/#online-trial) · [**ติดต่อฝ่ายขาย**](https://shimodocs.com/contact)
+[**ดาวน์โหลดแพ็กเกจ**](https://github.com/shimodocs/shimodocs/releases) · [**ขอไลเซนส์ฟรี**](mailto:support.global@shimo.im) · [**ทดลองใช้ออนไลน์**](https://shimodocs.com/#online-trial) · [**ติดต่อฝ่ายขาย**](https://shimodocs.com/contact)
 
 [เว็บไซต์](https://shimodocs.com/) · [ราคา](https://shimodocs.com/pricing) · [เปรียบเทียบ](https://shimodocs.com/comparison) · [นโยบายความเป็นส่วนตัว](https://shimodocs.com/legal-page/privacy-policy) · [ข้อกำหนด](https://shimodocs.com/legal-page/terms-conditions)
 
-ขอไลเซนส์: [many@shimo.im](mailto:many@shimo.im) · ฝ่ายสนับสนุน: [support.global@shimo.im](mailto:support.global@shimo.im)
+ขอไลเซนส์: [support.global@shimo.im](mailto:support.global@shimo.im) · ฝ่ายสนับสนุน: [support.global@shimo.im](mailto:support.global@shimo.im)
 
 </div>

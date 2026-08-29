@@ -12,18 +12,18 @@
 
 Trải nghiệm cộng tác tài liệu thời gian thực quen thuộc và liền mạch trên máy chủ hoặc đám mây riêng của bạn.
 
-[![Miễn phí cho 5 người dùng](https://img.shields.io/badge/Giấy_phép_miễn_phí-Tối_đa_5_người_dùng-165DFF?style=for-the-badge)](mailto:many@shimo.im)
+[![Miễn phí cho 5 người dùng](https://img.shields.io/badge/Giấy_phép_miễn_phí-Tối_đa_5_người_dùng-165DFF?style=for-the-badge)](mailto:support.global@shimo.im)
 [![Triển khai riêng](https://img.shields.io/badge/Triển_khai-Đám_mây_riêng-172033?style=for-the-badge)](https://shimodocs.com/)
 [![Không cần thẻ](https://img.shields.io/badge/Không_cần-Thẻ_tín_dụng-18A56A?style=for-the-badge)](https://shimodocs.com/pricing)
 
-[**Tải gói cài đặt**](https://github.com/shimodocs/shimodocs/releases) · [**Yêu cầu giấy phép miễn phí cho 5 người dùng**](mailto:many@shimo.im) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [Trang web](https://shimodocs.com/)
+[**Tải gói cài đặt**](https://github.com/shimodocs/shimodocs/releases) · [**Yêu cầu giấy phép miễn phí cho 5 người dùng**](mailto:support.global@shimo.im) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [Trang web](https://shimodocs.com/)
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> ShimoDocs là nền tảng cộng tác tài liệu được **triển khai riêng**. Tải gói cài đặt từ [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), triển khai trên hạ tầng của bạn và gửi email đến [many@shimo.im](mailto:many@shimo.im) để yêu cầu giấy phép miễn phí cho tối đa 5 người dùng. Chưa sẵn sàng triển khai? Hãy bắt đầu với [bản dùng thử trực tuyến](https://shimodocs.com/#online-trial).
+> ShimoDocs là nền tảng cộng tác tài liệu được **triển khai riêng**. Tải gói cài đặt từ [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), triển khai trên hạ tầng của bạn và gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí cho tối đa 5 người dùng. Chưa sẵn sàng triển khai? Hãy bắt đầu với [bản dùng thử trực tuyến](https://shimodocs.com/#online-trial).
 
 ## Được xây dựng để cộng tác. Được thiết kế để kiểm soát.
 
@@ -86,7 +86,7 @@ Bạn cũng có thể kết nối các dịch vụ AI được tổ chức phê 
 
 1. Tải gói cài đặt mới nhất từ [GitHub Releases](https://github.com/shimodocs/shimodocs/releases).
 2. Làm theo hướng dẫn trong bản phát hành để triển khai trên máy chủ, đám mây riêng hoặc trung tâm dữ liệu của bạn.
-3. Gửi email đến [many@shimo.im](mailto:many@shimo.im) để yêu cầu giấy phép miễn phí cho 5 người dùng.
+3. Gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí cho 5 người dùng.
 4. Kích hoạt giấy phép, tạo không gian làm việc và mời nhóm của bạn.
 
 > Chi phí máy chủ, tài nguyên đám mây và lưu trữ do khách hàng chi trả và không nằm trong giấy phép ShimoDocs.
@@ -94,7 +94,7 @@ Bạn cũng có thể kết nối các dịch vụ AI được tổ chức phê 
 <div align="center">
 
 [![Tải xuống](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Nhận giấy phép](https://img.shields.io/badge/Giấy_phép_miễn_phí-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:many@shimo.im)
+[![Nhận giấy phép](https://img.shields.io/badge/Giấy_phép_miễn_phí-many%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 </div>
 
@@ -106,7 +106,7 @@ Bạn cũng có thể kết nối các dịch vụ AI được tổ chức phê 
 | 🧰 Tính năng | Bao gồm đầy đủ trải nghiệm cộng tác |
 | 💳 Thẻ tín dụng | Không yêu cầu |
 | 📦 Gói cài đặt | Tải từ GitHub Releases |
-| 🔑 Giấy phép | Yêu cầu miễn phí qua `many@shimo.im` |
+| 🔑 Giấy phép | Yêu cầu miễn phí qua `support.global@shimo.im` |
 | 🏠 Nơi triển khai | Máy chủ, đám mây riêng hoặc trung tâm dữ liệu của bạn |
 
 Nhóm nhỏ có thể đưa mọi người vào một không gian chung trước, sau đó quyết định thời điểm nâng cấp khi nhóm phát triển.
@@ -149,7 +149,7 @@ ShimoDocs mang đến trải nghiệm cộng tác quen thuộc với nhiều quy
 
 <details><summary><strong>ShimoDocs có thực sự miễn phí không?</strong></summary>
 
-Có. Nhóm tối đa 5 người dùng có thể gửi email đến [many@shimo.im](mailto:many@shimo.im) để yêu cầu giấy phép miễn phí mà không cần thẻ tín dụng. Nhóm trên 5 người dùng có thể chọn gói trả phí theo quy mô.
+Có. Nhóm tối đa 5 người dùng có thể gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí mà không cần thẻ tín dụng. Nhóm trên 5 người dùng có thể chọn gói trả phí theo quy mô.
 
 </details>
 
@@ -183,10 +183,10 @@ ShimoDocs có hơn 12 năm kinh nghiệm về cộng tác tài liệu và đã p
 
 **Miễn phí cho tối đa 5 người dùng · Không cần thẻ tín dụng · Dữ liệu ở lại trong môi trường của bạn**
 
-[**Tải gói cài đặt**](https://github.com/shimodocs/shimodocs/releases) · [**Yêu cầu giấy phép miễn phí**](mailto:many@shimo.im) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [**Liên hệ kinh doanh**](https://shimodocs.com/contact)
+[**Tải gói cài đặt**](https://github.com/shimodocs/shimodocs/releases) · [**Yêu cầu giấy phép miễn phí**](mailto:support.global@shimo.im) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [**Liên hệ kinh doanh**](https://shimodocs.com/contact)
 
 [Trang web](https://shimodocs.com/) · [Bảng giá](https://shimodocs.com/pricing) · [So sánh](https://shimodocs.com/comparison) · [Quyền riêng tư](https://shimodocs.com/legal-page/privacy-policy) · [Điều khoản](https://shimodocs.com/legal-page/terms-conditions)
 
-Yêu cầu giấy phép: [many@shimo.im](mailto:many@shimo.im) · Hỗ trợ: [support.global@shimo.im](mailto:support.global@shimo.im)
+Yêu cầu giấy phép: [support.global@shimo.im](mailto:support.global@shimo.im) · Hỗ trợ: [support.global@shimo.im](mailto:support.global@shimo.im)
 
 </div>
