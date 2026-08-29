@@ -1,13 +1,16 @@
 <div align="center">
 
-<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <strong>日本語</strong> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
-
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs ロゴ" width="48" align="middle" /> ShimoDocs</h1>
+<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="ShimoDocs ロゴ" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
 
 <h3>あなたのクラウド。あなたのドキュメント。あなたのコントロール。</h3>
 
 <p>ShimoDocs は、プライベートクラウドでドキュメント、文書作成、スプレッドシート、プレゼンテーション、フォーム、テーブルを提供し、すべての製品にプライベート設定可能な AI Agent を内蔵したセルフホスト型文書コラボレーションスイートです。</p>
 
+---
+
+<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <strong>日本語</strong> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
+
+[![5ユーザーまで永久無料](https://img.shields.io/badge/永久無料-5ユーザーまで-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release ダウンロード数](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![お問い合わせ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -15,14 +18,11 @@
 
 </div>
 
----
+## ShimoDocs とは？
 
-> [!IMPORTANT]
-> ShimoDocs は**プライベート環境に導入する**文書コラボレーションプラットフォームです。[GitHub Releases](https://github.com/shimodocs/shimodocs/releases) からインストールパッケージをダウンロードして自社インフラに導入し、[support.global@shimo.im](mailto:support.global@shimo.im) へメールを送って最大5ユーザーの無料ライセンスを申請してください。まだ導入しない場合は、[オンライン試用](https://shimodocs.com/#online-trial)からお試しいただけます。
+ShimoDocs は、共同編集ドキュメント、プロフェッショナルな文書作成、スプレッドシート、プレゼンテーション、フォーム、構造化テーブルをプライベートクラウドに統合するセルフホスト型文書コラボレーションスイートです。Google Docs のような使い慣れたリアルタイム共同編集を提供しながら、業務データ、ユーザーアクセス、導入環境を組織自身で管理できます。
 
-## コラボレーションのために。データ管理のために。
-
-ShimoDocs は、Google Docs のようなリアルタイムコラボレーションと、プライベート導入、企業向け権限管理、ビジネスデータのコントロールを組み合わせたプラットフォームです。添付ファイルを送り合ったり複数のファイル版を管理したりすることなく、1つのワークスペースで作成、編集、コメント、レビュー、共有を行えます。
+添付ファイルを送り合ったり複数の版を管理したり、機密コンテンツをパブリッククラウドへ預けたりすることなく、1つのワークスペースで作成、編集、コメント、レビュー、共有を行えます。
 
 <table><tr><td width="50%" valign="top">
 
@@ -50,30 +50,130 @@ SSO、LDAP、Active Directory と連携し、オープン API で既存のツー
 
 </td></tr></table>
 
-## 実際のコラボレーション画面
+## ShimoDocs の6製品
 
-<p align="center">
-  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
-</p>
+連携する6つの製品が、日常の共同作業、長文作成、データ分析、プレゼンテーション、情報収集、構造化された業務フローをカバーします。
 
-<p align="center"><img src="./assets/readme/document-collaboration.png" alt="ShimoDocs のリアルタイム編集とコメント" width="92%" /></p>
-<p align="center"><sub>リアルタイム編集、コメント、共有コンテキストにより、全員が常に最新版で作業できます。</sub></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><img src="./assets/readme/secure-sharing.png" alt="ShimoDocs の閲覧者、コメント投稿者、編集者権限" width="92%" /></p>
-<p align="center"><sub>閲覧者、コメント投稿者、編集者のロールで、文書ごとのアクセスを正確に管理できます。</sub></p>
+### Document
 
-## 1つのプラットフォーム、6つの主要ツール
+<img src="./assets/ShimodocsSuite/Doc.PNG" alt="リアルタイム共同編集、メンション、コメントに対応する ShimoDocs Document" width="100%" />
 
-| | ツール | 主な用途 |
-| :---: | --- | --- |
-| <img src="./assets/readme/doc.svg" width="40" alt="Document" /> | **Document** | 会議メモ、プロジェクト計画、チームナレッジ、日常の共同作業 |
-| <img src="./assets/readme/modoc.svg" width="40" alt="Writer" /> | **Writer** | レポート、契約書、規程、複雑なレイアウトの文書 |
-| <img src="./assets/readme/sheet.svg" width="40" alt="Sheet" /> | **Sheet** | データ整理、計算、分析、計画、進捗管理 |
-| <img src="./assets/readme/presentation.svg" width="40" alt="Presentation" /> | **Presentation** | プロジェクト報告、提案、チームプレゼンテーション |
-| <img src="./assets/readme/form.svg" width="40" alt="Form" /> | **Form** | 情報収集、アンケート、申し込み、フィードバック |
-| <img src="./assets/readme/table.svg" width="40" alt="Table" /> | **Table** | 構造化情報の管理と柔軟な業務ワークフロー |
+会議メモ、プロジェクト計画、チームナレッジ、リッチコンテンツを柔軟な共同編集キャンバスにまとめます。リアルタイム編集、メンション、タスクの割り当て、本文に沿った議論が可能です。
 
-組織が承認した AI サービスを接続し、下書き、要約、書き換え、翻訳を行うこともできます。AI の利用方法は自社のポリシーに沿って管理できます。
+</td>
+<td width="50%" valign="top">
+
+### Writer
+
+<img src="./assets/ShimodocsSuite/Writer.PNG" alt="プロフェッショナルな書式、レビュー、コメントに対応する ShimoDocs Writer" width="100%" />
+
+レポート、契約書、規程、提案書などの長文ビジネス文書を作成します。プロフェッショナルなページ書式、変更履歴のレビュー、構造化コンテンツ管理を利用できます。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sheet
+
+<img src="./assets/ShimodocsSuite/Sheet.PNG" alt="数式、プロジェクト管理、リアルタイム共同編集に対応する ShimoDocs Sheet" width="100%" />
+
+データ整理、計算、プロジェクト追跡、情報分析を共同で行えます。数式、書式、並べ替え、フィルター、グラフ、コメント、複数人でのリアルタイム編集に対応します。
+
+</td>
+<td width="50%" valign="top">
+
+### Presentation
+
+<img src="./assets/ShimodocsSuite/Presentation.PNG" alt="テーマ、レイアウト、発表者ツールに対応する ShimoDocs Presentation" width="100%" />
+
+テーマ、レイアウト、メディア、アニメーション、発表者ツール、共同編集を使って魅力的なスライドを作成し、他のチームコンテンツと同じワークスペースで管理できます。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Form
+
+<img src="./assets/ShimodocsSuite/Form.JPG" alt="柔軟な質問形式とロジックルールに対応する ShimoDocs Form" width="100%" />
+
+柔軟な質問形式、ロジックルール、フォーム設定、カスタム結果ページを使って、アンケート、申し込み、申請、フィードバック、社内フローを作成できます。
+
+</td>
+<td width="50%" valign="top">
+
+### Table
+
+<img src="./assets/ShimodocsSuite/Table.PNG" alt="複数ビューと構造化ワークフローに対応する ShimoDocs Table" width="100%" />
+
+テーブル、Kanban、Gantt、ギャラリー、カレンダー、リストの各ビューと、フィルター、グループ、柔軟なフィールド、コメントで構造化情報と業務フローを管理します。
+
+</td>
+</tr>
+</table>
+
+6つの製品は1つのワークスペースで連携し、すべてで同じプライベート設定の AI Agent を利用できます。
+
+## すべての製品に AI Agent を搭載
+
+ShimoDocs の全製品には AI Agent サイドバーが組み込まれています。AI は現在の文書、スプレッドシート、プレゼンテーション、フォーム、テーブルの中で動作するため、コンテキストを失う別ツールへ移動する必要がありません。
+
+組織は、承認した任意の AI Agent、モデル、ツール、ナレッジソースをプライベートに設定し、アクセス権とデータ境界を管理できます。単一のパブリック AI プロバイダーに固定されず、自社のセキュリティ、コンプライアンス、導入要件に合う AI サービスを選択できます。
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 全製品で利用可能
+
+Document、Writer、Sheet、Presentation、Form、Table のすべてで同じ AI Agent サイドバーを利用できます。
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 プライベート設定
+
+承認済みの AI Agent、モデル、ツール、ナレッジを、自社のアクセスルールとデータ管理方針で接続できます。
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Chat ではなく Responses
+
+ShimoDocs は単純な Copilot 型チャットではなく、エージェント型の **Responses モード**を使用します。Agent は現在の内容を理解し、複数ステップの依頼を処理し、設定済みのツールとコンテキストを利用して、完成した構造化結果をワークフロー内に返します。
+
+</td>
+</tr>
+</table>
+
+## 5ユーザーまで永久無料
+
+> [!IMPORTANT]
+> ShimoDocs は**5ユーザーまで永久無料**です。無料ライセンスには6製品すべてと完全なリアルタイム共同編集機能が含まれ、クレジットカードは不要です。自社サーバー、プライベートクラウド、データセンターに導入して、データを自社環境に保持できます。
+
+| 無料プラン | 内容 |
+| --- | --- |
+| 👥 チーム人数 | 最大5ユーザー、永久無料 |
+| 🧰 対象製品 | Document、Writer、Sheet、Presentation、Form、Table |
+| 🤝 コラボレーション | リアルタイム編集、コメント、レビュー、共有、権限管理 |
+| 💳 クレジットカード | 不要 |
+| 📦 インストールパッケージ | GitHub Releases からダウンロード |
+| 🔑 ライセンス | `support.global@shimo.im` へメールして無料申請 |
+| 🏠 導入先 | 自社サーバー、プライベートクラウド、データセンター |
+
+<div align="center">
+
+[![ダウンロード](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
+[![ライセンス申請](https://img.shields.io/badge/5ユーザー無料ライセンス-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+
+</div>
+
+> サーバー、クラウドリソース、ホスティングの費用は利用者側の負担となり、ShimoDocs ライセンスには含まれません。
 
 ## 4ステップでプライベート導入
 
@@ -81,30 +181,8 @@ SSO、LDAP、Active Directory と連携し、オープン API で既存のツー
 
 1. [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) から最新のインストールパッケージをダウンロードします。
 2. Release に含まれる手順に従い、自社サーバー、プライベートクラウド、またはデータセンターに導入します。
-3. [support.global@shimo.im](mailto:support.global@shimo.im) へメールを送り、5ユーザー無料ライセンスを申請します。
+3. [support.global@shimo.im](mailto:support.global@shimo.im) へメールを送り、5ユーザー永久無料ライセンスを申請します。
 4. ライセンスを有効化し、ワークスペースを作成してチームを招待します。
-
-> サーバー、クラウドリソース、ホスティングの費用は利用者側の負担となり、ShimoDocs ライセンスには含まれません。
-
-<div align="center">
-
-[![ダウンロード](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![ライセンス申請](https://img.shields.io/badge/無料ライセンス-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
-
-</div>
-
-## 5ユーザーまで無料
-
-| 無料プラン | 内容 |
-| --- | --- |
-| 👥 チーム人数 | 最大5ユーザー |
-| 🧰 製品機能 | 完全なコラボレーション機能を利用可能 |
-| 💳 クレジットカード | 不要 |
-| 📦 インストールパッケージ | GitHub Releases からダウンロード |
-| 🔑 ライセンス | `support.global@shimo.im` へメールして無料申請 |
-| 🏠 導入先 | 自社サーバー、プライベートクラウド、データセンター |
-
-小規模チームはまず全員で1つの共有スペースを使い、チームの成長に合わせてアップグレードを検討できます。
 
 ## ShimoDocs と Google Docs の比較
 

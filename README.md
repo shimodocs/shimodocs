@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="middle" /> ShimoDocs</h1>
+<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
 
 <h3>Your Cloud. Your Docs. Your Control.</h3>
 
@@ -8,6 +8,7 @@
 
 <p><strong>English</strong> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
+[![Free forever for 5 users](https://img.shields.io/badge/Free_forever-Up_to_5_users-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release Downloads](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Contact Us](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 

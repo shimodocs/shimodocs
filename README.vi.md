@@ -1,21 +1,22 @@
 <div align="center">
 
-<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <strong>Tiếng Việt</strong> · <a href="./README.th.md">ไทย</a></p>
-
-<h1><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" align="middle" /> ShimoDocs</h1>
+<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
 
 <h3>Đám mây của bạn. Tài liệu của bạn. Quyền kiểm soát của bạn.</h3>
 
 <p>ShimoDocs là bộ công cụ cộng tác tài liệu tự lưu trữ cho tài liệu, trình soạn thảo, bảng tính, bản trình bày, biểu mẫu và bảng trong đám mây riêng, với AI Agent có thể cấu hình riêng được tích hợp trong mọi sản phẩm.</p>
 
+---
+
+<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <strong>Tiếng Việt</strong> · <a href="./README.th.md">ไทย</a></p>
+
+[![Miễn phí vĩnh viễn cho 5 người dùng](https://img.shields.io/badge/Miễn_phí_vĩnh_viễn-Tối_đa_5_người_dùng-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![Lượt tải GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Liên hệ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 [**Tải xuống**](https://github.com/shimodocs/shimodocs/releases) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [Trang web](https://shimodocs.com/)
 
 </div>
-
----
 
 > [!IMPORTANT]
 > ShimoDocs là nền tảng cộng tác tài liệu được **triển khai riêng**. Tải gói cài đặt từ [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), triển khai trên hạ tầng của bạn và gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí cho tối đa 5 người dùng. Chưa sẵn sàng triển khai? Hãy bắt đầu với [bản dùng thử trực tuyến](https://shimodocs.com/#online-trial).

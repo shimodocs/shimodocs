@@ -1,21 +1,22 @@
 <div align="center">
 
-<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
-
-<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" align="middle" /> ShimoDocs</h1>
+<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
 
 <h3>당신의 클라우드. 당신의 문서. 당신의 통제권.</h3>
 
 <p>ShimoDocs는 프라이빗 클라우드에서 문서, 워드 프로세싱, 스프레드시트, 프레젠테이션, 양식, 테이블을 제공하며 모든 제품에 비공개로 구성 가능한 AI Agent가 내장된 셀프 호스팅 문서 협업 제품군입니다.</p>
 
+---
+
+<p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
+
+[![최대 5명 평생 무료](https://img.shields.io/badge/평생_무료-최대_5명-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release 다운로드 수](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![문의하기](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
 [**다운로드**](https://github.com/shimodocs/shimodocs/releases) · [**온라인 체험**](https://shimodocs.com/#online-trial) · [웹사이트](https://shimodocs.com/)
 
 </div>
-
----
 
 > [!IMPORTANT]
 > ShimoDocs는 **프라이빗 환경에 배포하는** 문서 협업 플랫폼입니다. [GitHub Releases](https://github.com/shimodocs/shimodocs/releases)에서 설치 패키지를 다운로드하여 자체 인프라에 배포한 뒤, [support.global@shimo.im](mailto:support.global@shimo.im)로 이메일을 보내 최대 5인 무료 라이선스를 신청하세요. 아직 배포할 준비가 되지 않았다면 [온라인 체험](https://shimodocs.com/#online-trial)을 이용할 수 있습니다.
