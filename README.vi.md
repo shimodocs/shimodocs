@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
+<h1><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
 <h3>Đám mây của bạn. Tài liệu của bạn. Quyền kiểm soát của bạn.</h3>
 
@@ -10,7 +10,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <strong>Tiếng Việt</strong> · <a href="./README.th.md">ไทย</a></p>
 
-[![5 người dùng miễn phí vĩnh viễn](https://img.shields.io/badge/5_người_dùng-Miễn_phí_vĩnh_viễn-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5 người dùng miễn phí vĩnh viễn](https://img.shields.io/badge/5_ng%C6%B0%E1%BB%9Di_d%C3%B9ng-Mi%E1%BB%85n_ph%C3%AD_v%C4%A9nh_vi%E1%BB%85n-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![Lượt tải GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Liên hệ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -18,12 +18,11 @@
 
 </div>
 
-> [!IMPORTANT]
-> ShimoDocs là nền tảng cộng tác tài liệu được **triển khai riêng**. Tải gói cài đặt từ [GitHub Releases](https://github.com/shimodocs/shimodocs/releases), triển khai trên hạ tầng của bạn và gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí cho tối đa 5 người dùng. Chưa sẵn sàng triển khai? Hãy bắt đầu với [bản dùng thử trực tuyến](https://shimodocs.com/#online-trial).
+## ShimoDocs là gì?
 
-## Được xây dựng để cộng tác. Được thiết kế để kiểm soát.
+ShimoDocs là bộ công cụ cộng tác tài liệu tự lưu trữ, kết hợp tài liệu cộng tác, soạn thảo chuyên nghiệp, bảng tính, bản trình bày, biểu mẫu và bảng có cấu trúc trong đám mây riêng của bạn. Sản phẩm mang đến trải nghiệm cộng tác thời gian thực quen thuộc như Google Docs, đồng thời để tổ chức tự kiểm soát dữ liệu kinh doanh, quyền truy cập và việc triển khai.
 
-ShimoDocs kết hợp trải nghiệm cộng tác thời gian thực giống Google Docs với khả năng triển khai riêng, phân quyền doanh nghiệp và quyền kiểm soát dữ liệu tốt hơn. Các nhóm có thể tạo, chỉnh sửa, bình luận, duyệt và chia sẻ nội dung trong một không gian làm việc mà không phải gửi tệp đính kèm hoặc duy trì nhiều phiên bản.
+Tạo, chỉnh sửa, bình luận, duyệt và chia sẻ trong một không gian làm việc mà không phải gửi tệp đính kèm, duy trì nhiều phiên bản hoặc chuyển nội dung nhạy cảm cho dịch vụ đám mây công cộng.
 
 <table><tr><td width="50%" valign="top">
 
@@ -51,30 +50,130 @@ Kết nối SSO, LDAP, Active Directory và tích hợp công cụ, quy trình c
 
 </td></tr></table>
 
-## Cộng tác trong thực tế
+## Khám phá bộ sản phẩm ShimoDocs
 
-<p align="center">
-  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
-</p>
+Sáu sản phẩm kết nối bao quát cộng tác hằng ngày, tài liệu dài, phân tích dữ liệu, bản trình bày, thu thập thông tin và quy trình có cấu trúc.
 
-<p align="center"><img src="./assets/readme/document-collaboration.png" alt="Chỉnh sửa và bình luận thời gian thực trong ShimoDocs" width="92%" /></p>
-<p align="center"><sub>Chỉnh sửa thời gian thực, bình luận và ngữ cảnh chung giúp mọi người luôn làm việc trên phiên bản mới nhất.</sub></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><img src="./assets/readme/secure-sharing.png" alt="Quyền xem, bình luận và chỉnh sửa trong ShimoDocs" width="92%" /></p>
-<p align="center"><sub>Kiểm soát quyền truy cập từng tài liệu bằng vai trò người xem, người bình luận và người chỉnh sửa.</sub></p>
+### Document
 
-## Một nền tảng. Sáu công cụ thiết yếu.
+<img src="./assets/ShimodocsSuite/Doc.PNG" alt="ShimoDocs Document với cộng tác thời gian thực, nhắc tên và bình luận" width="100%" />
 
-| | Công cụ | Trường hợp sử dụng phổ biến |
-| :---: | --- | --- |
-| <img src="./assets/readme/doc.svg" width="40" alt="Document" /> | **Document** | Ghi chú cuộc họp, kế hoạch dự án, kiến thức nhóm và cộng tác hằng ngày |
-| <img src="./assets/readme/modoc.svg" width="40" alt="Writer" /> | **Writer** | Báo cáo, hợp đồng, chính sách và tài liệu định dạng phức tạp |
-| <img src="./assets/readme/sheet.svg" width="40" alt="Sheet" /> | **Sheet** | Tổ chức dữ liệu, tính toán, phân tích, lập kế hoạch và theo dõi |
-| <img src="./assets/readme/presentation.svg" width="40" alt="Presentation" /> | **Presentation** | Báo cáo dự án, đề xuất và thuyết trình nhóm |
-| <img src="./assets/readme/form.svg" width="40" alt="Form" /> | **Form** | Thu thập dữ liệu, khảo sát, đăng ký và phản hồi |
-| <img src="./assets/readme/table.svg" width="40" alt="Table" /> | **Table** | Quản lý thông tin có cấu trúc và quy trình nghiệp vụ linh hoạt |
+Ghi lại cuộc họp, kế hoạch dự án, kiến thức nhóm và nội dung phong phú trên một không gian cộng tác linh hoạt. Cùng chỉnh sửa thời gian thực, nhắc tên đồng đội, giao việc tiếp theo và giữ trao đổi bên cạnh nội dung.
 
-Bạn cũng có thể kết nối các dịch vụ AI được tổ chức phê duyệt để soạn thảo, tóm tắt, viết lại và dịch, đồng thời giữ quyền kiểm soát cách AI được sử dụng.
+</td>
+<td width="50%" valign="top">
+
+### Writer
+
+<img src="./assets/ShimodocsSuite/Writer.PNG" alt="ShimoDocs Writer với định dạng chuyên nghiệp, duyệt thay đổi và bình luận" width="100%" />
+
+Tạo báo cáo, hợp đồng, chính sách, đề xuất và các tài liệu kinh doanh dài. Sử dụng định dạng trang chuyên nghiệp, duyệt thay đổi và quản lý nội dung có cấu trúc mà vẫn giữ nguyên bố cục tài liệu.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sheet
+
+<img src="./assets/ShimodocsSuite/Sheet.PNG" alt="ShimoDocs Sheet với công thức, theo dõi dự án và cộng tác thời gian thực" width="100%" />
+
+Tổ chức dữ liệu, tính toán kết quả, theo dõi dự án và phân tích thông tin cùng nhau với công thức, định dạng, sắp xếp, bộ lọc, biểu đồ, bình luận và chỉnh sửa thời gian thực.
+
+</td>
+<td width="50%" valign="top">
+
+### Presentation
+
+<img src="./assets/ShimodocsSuite/Presentation.PNG" alt="ShimoDocs Presentation với chủ đề, bố cục và công cụ trình chiếu" width="100%" />
+
+Tạo bản trình bày hấp dẫn với chủ đề, bố cục, nội dung đa phương tiện, hiệu ứng, công cụ thuyết trình và chỉnh sửa cộng tác trong cùng không gian làm việc.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Form
+
+<img src="./assets/ShimodocsSuite/Form.JPG" alt="ShimoDocs Form với loại câu hỏi linh hoạt và quy tắc logic" width="100%" />
+
+Tạo khảo sát, đăng ký, đơn yêu cầu, biểu mẫu phản hồi và quy trình nội bộ với loại câu hỏi linh hoạt, quy tắc logic, cài đặt và trang kết quả tùy chỉnh.
+
+</td>
+<td width="50%" valign="top">
+
+### Table
+
+<img src="./assets/ShimodocsSuite/Table.PNG" alt="ShimoDocs Table với nhiều chế độ xem và trường quy trình có cấu trúc" width="100%" />
+
+Quản lý thông tin có cấu trúc và quy trình nghiệp vụ bằng chế độ xem bảng, Kanban, Gantt, thư viện, lịch và danh sách, cùng bộ lọc, nhóm, trường linh hoạt và bình luận.
+
+</td>
+</tr>
+</table>
+
+Sáu sản phẩm hoạt động cùng nhau trong một không gian làm việc và đều cung cấp trải nghiệm AI Agent được cấu hình riêng nhất quán.
+
+## AI Agent được tích hợp trong mọi sản phẩm
+
+Mọi sản phẩm ShimoDocs đều có thanh bên AI Agent tích hợp. AI làm việc ngay trong tài liệu, bảng tính, bản trình bày, biểu mẫu hoặc bảng hiện tại, thay vì ở một công cụ riêng làm mất ngữ cảnh.
+
+Tổ chức có thể cấu hình riêng bất kỳ AI Agent, mô hình, công cụ và nguồn tri thức nào được phê duyệt, đồng thời tự kiểm soát quyền truy cập và ranh giới dữ liệu. Nhóm có thể chọn dịch vụ AI phù hợp với yêu cầu bảo mật, tuân thủ và triển khai mà không bị khóa vào một nhà cung cấp AI công cộng.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 Có trong toàn bộ sản phẩm
+
+Cùng một thanh bên AI Agent có trong Document, Writer, Sheet, Presentation, Form và Table.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Cấu hình riêng
+
+Kết nối AI Agent, mô hình, công cụ và tri thức được tổ chức phê duyệt với chính sách truy cập và kiểm soát dữ liệu riêng.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Responses, không chỉ là chat
+
+ShimoDocs sử dụng **chế độ Responses** theo hướng tác nhân, không phải hộp chat kiểu Copilot thông thường. Agent hiểu nội dung hiện tại, xử lý yêu cầu nhiều bước, sử dụng công cụ và ngữ cảnh đã cấu hình, rồi trả về kết quả hoàn chỉnh, có cấu trúc ngay trong quy trình làm việc.
+
+</td>
+</tr>
+</table>
+
+## 5 người dùng miễn phí vĩnh viễn
+
+> [!IMPORTANT]
+> ShimoDocs **miễn phí vĩnh viễn cho 5 người dùng**. Giấy phép miễn phí bao gồm cả sáu sản phẩm và trải nghiệm cộng tác thời gian thực đầy đủ, không cần thẻ tín dụng. Triển khai trên máy chủ, đám mây riêng hoặc trung tâm dữ liệu để dữ liệu ở lại trong môi trường của bạn.
+
+| Gói miễn phí | Chi tiết |
+| --- | --- |
+| 👥 Quy mô nhóm | 5 người dùng, miễn phí vĩnh viễn |
+| 🧰 Sản phẩm bao gồm | Document, Writer, Sheet, Presentation, Form và Table |
+| 🤝 Cộng tác | Chỉnh sửa thời gian thực, bình luận, duyệt, chia sẻ và phân quyền |
+| 💳 Thẻ tín dụng | Không yêu cầu |
+| 📦 Gói cài đặt | Tải từ GitHub Releases |
+| 🔑 Giấy phép | Yêu cầu miễn phí qua `support.global@shimo.im` |
+| 🏠 Nơi triển khai | Máy chủ, đám mây riêng hoặc trung tâm dữ liệu của bạn |
+
+<div align="center">
+
+[![Tải xuống](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
+[![Nhận giấy phép](https://img.shields.io/badge/Giấy_phép_miễn_phí_5_người_dùng-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+
+</div>
+
+> Chi phí máy chủ, tài nguyên đám mây và lưu trữ do khách hàng chi trả và không nằm trong giấy phép ShimoDocs.
 
 ## Triển khai riêng trong bốn bước
 
@@ -82,30 +181,8 @@ Bạn cũng có thể kết nối các dịch vụ AI được tổ chức phê 
 
 1. Tải gói cài đặt mới nhất từ [GitHub Releases](https://github.com/shimodocs/shimodocs/releases).
 2. Làm theo hướng dẫn trong bản phát hành để triển khai trên máy chủ, đám mây riêng hoặc trung tâm dữ liệu của bạn.
-3. Gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí cho 5 người dùng.
+3. Gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí vĩnh viễn cho 5 người dùng.
 4. Kích hoạt giấy phép, tạo không gian làm việc và mời nhóm của bạn.
-
-> Chi phí máy chủ, tài nguyên đám mây và lưu trữ do khách hàng chi trả và không nằm trong giấy phép ShimoDocs.
-
-<div align="center">
-
-[![Tải xuống](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![Nhận giấy phép](https://img.shields.io/badge/Giấy_phép_miễn_phí-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
-
-</div>
-
-## Miễn phí cho nhóm tối đa 5 người dùng
-
-| Gói miễn phí | Chi tiết |
-| --- | --- |
-| 👥 Quy mô nhóm | Tối đa 5 người dùng |
-| 🧰 Tính năng | Bao gồm đầy đủ trải nghiệm cộng tác |
-| 💳 Thẻ tín dụng | Không yêu cầu |
-| 📦 Gói cài đặt | Tải từ GitHub Releases |
-| 🔑 Giấy phép | Yêu cầu miễn phí qua `support.global@shimo.im` |
-| 🏠 Nơi triển khai | Máy chủ, đám mây riêng hoặc trung tâm dữ liệu của bạn |
-
-Nhóm nhỏ có thể đưa mọi người vào một không gian chung trước, sau đó quyết định thời điểm nâng cấp khi nhóm phát triển.
 
 ## ShimoDocs so với Google Docs
 
@@ -145,7 +222,7 @@ ShimoDocs mang đến trải nghiệm cộng tác quen thuộc với nhiều quy
 
 <details><summary><strong>ShimoDocs có thực sự miễn phí không?</strong></summary>
 
-Có. Nhóm tối đa 5 người dùng có thể gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí mà không cần thẻ tín dụng. Nhóm trên 5 người dùng có thể chọn gói trả phí theo quy mô.
+Có. Nhóm 5 người dùng có thể gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí vĩnh viễn mà không cần thẻ tín dụng. Các nhóm lớn hơn có thể chọn gói trả phí theo quy mô.
 
 </details>
 
@@ -177,7 +254,7 @@ ShimoDocs có hơn 12 năm kinh nghiệm về cộng tác tài liệu và đã p
 
 ### Sẵn sàng đưa tài liệu trở lại đám mây của riêng bạn?
 
-**Miễn phí cho tối đa 5 người dùng · Không cần thẻ tín dụng · Dữ liệu ở lại trong môi trường của bạn**
+**5 người dùng miễn phí vĩnh viễn · Không cần thẻ tín dụng · Dữ liệu ở lại trong môi trường của bạn**
 
 [**Tải gói cài đặt**](https://github.com/shimodocs/shimodocs/releases) · [**Yêu cầu giấy phép miễn phí**](mailto:support.global@shimo.im) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [**Liên hệ kinh doanh**](https://shimodocs.com/contact)
 

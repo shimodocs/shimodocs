@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="Logotipo de ShimoDocs" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
+<h1><img src="./assets/readme/logo.svg" alt="Logotipo de ShimoDocs" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
 <h3>Tu nube. Tus documentos. Tu control.</h3>
 

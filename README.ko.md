@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
 <h3>당신의 클라우드. 당신의 문서. 당신의 통제권.</h3>
 
@@ -10,7 +10,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![5명 평생 무료](https://img.shields.io/badge/5명-평생_무료-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5명 평생 무료](https://img.shields.io/badge/5%EB%AA%85-%ED%8F%89%EC%83%9D_%EB%AC%B4%EB%A3%8C-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release 다운로드 수](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![문의하기](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -151,36 +151,38 @@ ShimoDocs는 단순한 Copilot 스타일 채팅창이 아니라 에이전트형 
 </tr>
 </table>
 
-## 4단계 프라이빗 배포
+## 5인 평생 무료
 
-<p align="center"><img src="./assets/readme/get-started.svg" alt="다운로드, 프라이빗 배포, 라이선스 신청 및 협업 시작" width="100%" /></p>
-
-1. [GitHub Releases](https://github.com/shimodocs/shimodocs/releases)에서 최신 설치 패키지를 다운로드합니다.
-2. Release에 포함된 안내에 따라 자체 서버, 프라이빗 클라우드 또는 데이터 센터에 배포합니다.
-3. [support.global@shimo.im](mailto:support.global@shimo.im)로 이메일을 보내 5인 무료 라이선스를 신청합니다.
-4. 라이선스를 활성화하고 워크스페이스를 만든 뒤 팀원을 초대합니다.
-
-> 서버, 클라우드 리소스 및 호스팅 비용은 사용자가 부담하며 ShimoDocs 라이선스에 포함되지 않습니다.
-
-<div align="center">
-
-[![다운로드](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![라이선스 신청](https://img.shields.io/badge/무료_라이선스-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
-
-</div>
-
-## 최대 5인 팀 무료
+> [!IMPORTANT]
+> ShimoDocs는 **5인 평생 무료**입니다. 무료 라이선스에는 여섯 제품과 전체 실시간 협업 경험이 포함되며 신용카드가 필요하지 않습니다. 자체 서버, 프라이빗 클라우드 또는 데이터 센터에 배포해 데이터를 자체 환경에 보관할 수 있습니다.
 
 | 무료 플랜 | 내용 |
 | --- | --- |
-| 👥 팀 규모 | 최대 5명 |
-| 🧰 제품 기능 | 전체 협업 기능 포함 |
+| 👥 팀 규모 | 5명, 평생 무료 |
+| 🧰 포함 제품 | Document, Writer, Sheet, Presentation, Form, Table |
+| 🤝 협업 | 실시간 편집, 댓글, 검토, 공유, 권한 관리 |
 | 💳 신용카드 | 불필요 |
 | 📦 설치 패키지 | GitHub Releases에서 다운로드 |
 | 🔑 라이선스 | `support.global@shimo.im`로 이메일을 보내 무료 신청 |
 | 🏠 배포 위치 | 자체 서버, 프라이빗 클라우드 또는 데이터 센터 |
 
-소규모 팀은 먼저 모든 구성원이 하나의 공유 공간에서 협업하고, 팀 성장에 따라 업그레이드 시점을 결정할 수 있습니다.
+<div align="center">
+
+[![다운로드](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
+[![라이선스 신청](https://img.shields.io/badge/5인_무료_라이선스-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+
+</div>
+
+> 서버, 클라우드 리소스 및 호스팅 비용은 사용자가 부담하며 ShimoDocs 라이선스에 포함되지 않습니다.
+
+## 4단계 프라이빗 배포
+
+<p align="center"><img src="./assets/readme/get-started.svg" alt="다운로드, 프라이빗 배포, 라이선스 신청 및 협업 시작" width="100%" /></p>
+
+1. [GitHub Releases](https://github.com/shimodocs/shimodocs/releases)에서 최신 설치 패키지를 다운로드합니다.
+2. Release 안내에 따라 자체 서버, 프라이빗 클라우드 또는 데이터 센터에 배포합니다.
+3. [support.global@shimo.im](mailto:support.global@shimo.im)로 이메일을 보내 5인 평생 무료 라이선스를 신청합니다.
+4. 라이선스를 활성화하고 워크스페이스를 만든 뒤 팀원을 초대합니다.
 
 ## ShimoDocs와 Google Docs 비교
 
@@ -220,7 +222,7 @@ ShimoDocs는 익숙한 협업 경험을 제공하면서 배포, 데이터, 권�
 
 <details><summary><strong>ShimoDocs는 정말 무료인가요?</strong></summary>
 
-네. 최대 5인 팀은 [support.global@shimo.im](mailto:support.global@shimo.im)로 이메일을 보내 신용카드 없이 무료 라이선스를 신청할 수 있습니다. 5명을 초과하는 팀은 규모에 맞는 유료 플랜을 선택할 수 있습니다.
+네. 5인 팀은 [support.global@shimo.im](mailto:support.global@shimo.im)로 이메일을 보내 신용카드 없이 평생 무료 라이선스를 신청할 수 있습니다. 더 큰 팀은 규모에 맞는 유료 플랜을 선택할 수 있습니다.
 
 </details>
 
@@ -252,7 +254,7 @@ ShimoDocs는 12년 이상의 문서 협업 경험을 보유하고 있으며 DiDi
 
 ### 문서를 자체 클라우드로 가져올 준비가 되셨나요?
 
-**최대 5명 무료 · 신용카드 불필요 · 데이터는 자체 환경에 보관**
+**5인 평생 무료 · 신용카드 불필요 · 데이터는 자체 환경에 보관**
 
 [**패키지 다운로드**](https://github.com/shimodocs/shimodocs/releases) · [**무료 라이선스 신청**](mailto:support.global@shimo.im) · [**온라인 체험**](https://shimodocs.com/#online-trial) · [**영업팀 문의**](https://shimodocs.com/contact)
 

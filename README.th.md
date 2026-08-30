@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="โลโก้ ShimoDocs" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
+<h1><img src="./assets/readme/logo.svg" alt="โลโก้ ShimoDocs" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
 <h3>คลาวด์ของคุณ เอกสารของคุณ การควบคุมของคุณ</h3>
 
@@ -9,7 +9,7 @@
 ---
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <strong>ไทย</strong></p>
 
-[![5 ผู้ใช้ฟรีตลอดไป](https://img.shields.io/badge/5_ผู้ใช้-ฟรีตลอดไป-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5 ผู้ใช้ฟรีตลอดไป](https://img.shields.io/badge/5_%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89-%E0%B8%9F%E0%B8%A3%E0%B8%B5%E0%B8%95%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%9B-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![ยอดดาวน์โหลด GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![ติดต่อเรา](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -18,12 +18,11 @@
 </div>
 
 
-> [!IMPORTANT]
-> ShimoDocs เป็นแพลตฟอร์มทำงานร่วมกันบนเอกสารที่ **ติดตั้งในสภาพแวดล้อมส่วนตัว** ดาวน์โหลดแพ็กเกจติดตั้งจาก [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) ติดตั้งบนโครงสร้างพื้นฐานของคุณ และส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีสำหรับผู้ใช้สูงสุด 5 คน หากยังไม่พร้อมติดตั้ง สามารถเริ่มด้วย [การทดลองใช้ออนไลน์](https://shimodocs.com/#online-trial)
+## ShimoDocs คืออะไร
 
-## สร้างมาเพื่อการทำงานร่วมกัน ออกแบบมาเพื่อการควบคุม
+ShimoDocs คือชุดเครื่องมือทำงานร่วมกันบนเอกสารแบบโฮสต์ด้วยตนเอง ซึ่งรวมเอกสารร่วมกัน การประมวลผลคำระดับมืออาชีพ สเปรดชีต งานนำเสนอ แบบฟอร์ม และตารางแบบมีโครงสร้างไว้ในไพรเวตคลาวด์ มอบประสบการณ์ทำงานร่วมกันแบบเรียลไทม์ที่คุ้นเคยคล้าย Google Docs พร้อมให้องค์กรควบคุมข้อมูลธุรกิจ การเข้าถึงของผู้ใช้ และการติดตั้งได้เอง
 
-ShimoDocs ผสานประสบการณ์ทำงานร่วมกันแบบเรียลไทม์ที่คล้าย Google Docs เข้ากับการติดตั้งแบบส่วนตัว สิทธิ์ระดับองค์กร และการควบคุมข้อมูลที่มากขึ้น ทีมสามารถสร้าง แก้ไข แสดงความคิดเห็น ตรวจทาน และแชร์เนื้อหาในพื้นที่ทำงานเดียว โดยไม่ต้องส่งไฟล์แนบหรือดูแลไฟล์หลายเวอร์ชัน
+สร้าง แก้ไข แสดงความคิดเห็น ตรวจทาน และแชร์ในพื้นที่ทำงานเดียว โดยไม่ต้องส่งไฟล์แนบ ดูแลหลายเวอร์ชัน หรือส่งเนื้อหาที่ละเอียดอ่อนไปยังบริการพับลิกคลาวด์
 
 <table><tr><td width="50%" valign="top">
 
@@ -51,30 +50,130 @@ ShimoDocs ผสานประสบการณ์ทำงานร่วม�
 
 </td></tr></table>
 
-## ดูการทำงานร่วมกันจริง
+## รู้จักชุดผลิตภัณฑ์ ShimoDocs
 
-<p align="center">
-  <img src="./assets/readme/workspace.png" alt="ShimoDocs workspace" width="92%" />
-</p>
+ผลิตภัณฑ์หกประเภทที่เชื่อมต่อกันครอบคลุมการทำงานร่วมกันประจำวัน เอกสารขนาดยาว การวิเคราะห์ข้อมูล งานนำเสนอ การเก็บข้อมูล และเวิร์กโฟลว์แบบมีโครงสร้าง
 
-<p align="center"><img src="./assets/readme/document-collaboration.png" alt="การแก้ไขและแสดงความคิดเห็นแบบเรียลไทม์ใน ShimoDocs" width="92%" /></p>
-<p align="center"><sub>การแก้ไขแบบเรียลไทม์ ความคิดเห็น และบริบทร่วม ช่วยให้ทุกคนทำงานบนเวอร์ชันล่าสุดเสมอ</sub></p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><img src="./assets/readme/secure-sharing.png" alt="สิทธิ์ผู้ดู ผู้แสดงความคิดเห็น และผู้แก้ไขใน ShimoDocs" width="92%" /></p>
-<p align="center"><sub>ควบคุมการเข้าถึงแต่ละเอกสารด้วยบทบาทผู้ดู ผู้แสดงความคิดเห็น และผู้แก้ไข</sub></p>
+### Document
 
-## แพลตฟอร์มเดียว เครื่องมือสำคัญหกประเภท
+<img src="./assets/ShimodocsSuite/Doc.PNG" alt="ShimoDocs Document พร้อมการทำงานร่วมกันแบบเรียลไทม์ การกล่าวถึง และความคิดเห็น" width="100%" />
 
-| | เครื่องมือ | ตัวอย่างการใช้งาน |
-| :---: | --- | --- |
-| <img src="./assets/readme/doc.svg" width="40" alt="Document" /> | **Document** | บันทึกการประชุม แผนโครงการ ความรู้ของทีม และการทำงานประจำวัน |
-| <img src="./assets/readme/modoc.svg" width="40" alt="Writer" /> | **Writer** | รายงาน สัญญา นโยบาย และเอกสารที่มีการจัดรูปแบบซับซ้อน |
-| <img src="./assets/readme/sheet.svg" width="40" alt="Sheet" /> | **Sheet** | จัดระเบียบข้อมูล คำนวณ วิเคราะห์ วางแผน และติดตาม |
-| <img src="./assets/readme/presentation.svg" width="40" alt="Presentation" /> | **Presentation** | รายงานโครงการ ข้อเสนอ และงานนำเสนอของทีม |
-| <img src="./assets/readme/form.svg" width="40" alt="Form" /> | **Form** | เก็บข้อมูล แบบสำรวจ ลงทะเบียน และรับข้อเสนอแนะ |
-| <img src="./assets/readme/table.svg" width="40" alt="Table" /> | **Table** | จัดการข้อมูลแบบมีโครงสร้างและเวิร์กโฟลว์ธุรกิจที่ยืดหยุ่น |
+บันทึกการประชุม แผนโครงการ ความรู้ของทีม และเนื้อหาหลากหลายบนพื้นที่ทำงานร่วมกันที่ยืดหยุ่น แก้ไขพร้อมกัน กล่าวถึงเพื่อนร่วมทีม มอบหมายงาน และเก็บการสนทนาไว้ข้างเนื้อหา
 
-คุณยังสามารถเชื่อมต่อบริการ AI ที่องค์กรอนุมัติสำหรับการร่าง สรุป เขียนใหม่ และแปล พร้อมควบคุมวิธีใช้งาน AI ตามนโยบายของคุณ
+</td>
+<td width="50%" valign="top">
+
+### Writer
+
+<img src="./assets/ShimodocsSuite/Writer.PNG" alt="ShimoDocs Writer พร้อมการจัดรูปแบบระดับมืออาชีพ การตรวจทาน และความคิดเห็น" width="100%" />
+
+สร้างรายงาน สัญญา นโยบาย ข้อเสนอ และเอกสารธุรกิจขนาดยาว ใช้การจัดรูปแบบหน้าระดับมืออาชีพ การตรวจทานการเปลี่ยนแปลง และการจัดการเนื้อหาแบบมีโครงสร้าง
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Sheet
+
+<img src="./assets/ShimodocsSuite/Sheet.PNG" alt="ShimoDocs Sheet พร้อมสูตร การติดตามโครงการ และการทำงานร่วมกันแบบเรียลไทม์" width="100%" />
+
+จัดระเบียบข้อมูล คำนวณผลลัพธ์ ติดตามโครงการ และวิเคราะห์ข้อมูลร่วมกันด้วยสูตร การจัดรูปแบบ การเรียงลำดับ ตัวกรอง แผนภูมิ ความคิดเห็น และการแก้ไขแบบเรียลไทม์
+
+</td>
+<td width="50%" valign="top">
+
+### Presentation
+
+<img src="./assets/ShimodocsSuite/Presentation.PNG" alt="ShimoDocs Presentation พร้อมธีม เลย์เอาต์ และเครื่องมือนำเสนอ" width="100%" />
+
+สร้างสไลด์ที่น่าสนใจด้วยธีม เลย์เอาต์ สื่อ แอนิเมชัน เครื่องมือผู้นำเสนอ และการแก้ไขร่วมกันในพื้นที่ทำงานเดียวกับเนื้อหาอื่นของทีม
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Form
+
+<img src="./assets/ShimodocsSuite/Form.JPG" alt="ShimoDocs Form พร้อมประเภทคำถามที่ยืดหยุ่นและกฎตรรกะ" width="100%" />
+
+สร้างแบบสำรวจ การลงทะเบียน ใบสมัคร แบบฟอร์มความคิดเห็น และกระบวนการภายในด้วยประเภทคำถามที่ยืดหยุ่น กฎตรรกะ การตั้งค่า และหน้าผลลัพธ์ที่กำหนดเอง
+
+</td>
+<td width="50%" valign="top">
+
+### Table
+
+<img src="./assets/ShimodocsSuite/Table.PNG" alt="ShimoDocs Table พร้อมหลายมุมมองและฟิลด์เวิร์กโฟลว์แบบมีโครงสร้าง" width="100%" />
+
+จัดการข้อมูลแบบมีโครงสร้างและกระบวนการธุรกิจด้วยมุมมองตาราง Kanban Gantt แกลเลอรี ปฏิทิน และรายการ พร้อมตัวกรอง กลุ่ม ฟิลด์ที่ยืดหยุ่น และความคิดเห็น
+
+</td>
+</tr>
+</table>
+
+ผลิตภัณฑ์ทั้งหกทำงานร่วมกันในพื้นที่เดียว และมอบประสบการณ์ AI Agent ที่กำหนดค่าแบบส่วนตัวเหมือนกันทุกผลิตภัณฑ์
+
+## AI Agent ในทุกผลิตภัณฑ์
+
+ผลิตภัณฑ์ ShimoDocs ทุกตัวมีแถบด้านข้าง AI Agent ในตัว AI ทำงานภายในเอกสาร สเปรดชีต งานนำเสนอ แบบฟอร์ม หรือตารางที่กำลังใช้งาน จึงไม่ต้องย้ายไปยังเครื่องมือแยกที่สูญเสียบริบทปัจจุบัน
+
+องค์กรสามารถกำหนดค่า AI Agent โมเดล เครื่องมือ และแหล่งความรู้ที่ได้รับอนุมัติได้แบบส่วนตัว พร้อมควบคุมสิทธิ์เข้าถึงและขอบเขตข้อมูล ทีมจึงเลือกบริการ AI ที่ตรงกับข้อกำหนดด้านความปลอดภัย การปฏิบัติตามกฎ และการติดตั้ง โดยไม่ผูกติดกับผู้ให้บริการ AI สาธารณะรายเดียว
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🤖 ครบทุกผลิตภัณฑ์
+
+Document, Writer, Sheet, Presentation, Form และ Table มีแถบด้านข้าง AI Agent แบบเดียวกัน
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 กำหนดค่าแบบส่วนตัว
+
+เชื่อมต่อ AI Agent โมเดล เครื่องมือ และความรู้ที่องค์กรอนุมัติด้วยนโยบายการเข้าถึงและการควบคุมข้อมูลของคุณเอง
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Responses ไม่ใช่แค่แชต
+
+ShimoDocs ใช้ **โหมด Responses** แบบ Agent ไม่ใช่กล่องแชตสไตล์ Copilot ทั่วไป Agent เข้าใจเนื้อหาปัจจุบัน จัดการคำขอหลายขั้นตอน ใช้เครื่องมือและบริบทที่กำหนดค่าไว้ และส่งผลลัพธ์ที่สมบูรณ์แบบมีโครงสร้างภายในเวิร์กโฟลว์
+
+</td>
+</tr>
+</table>
+
+## 5 ผู้ใช้ฟรีตลอดไป
+
+> [!IMPORTANT]
+> ShimoDocs **ฟรีตลอดไปสำหรับ 5 ผู้ใช้** ไลเซนส์ฟรีรวมผลิตภัณฑ์ทั้งหกและประสบการณ์ทำงานร่วมกันแบบเรียลไทม์อย่างครบถ้วน โดยไม่ต้องใช้บัตรเครดิต ติดตั้งบนเซิร์ฟเวอร์ ไพรเวตคลาวด์ หรือศูนย์ข้อมูลของคุณเพื่อให้ข้อมูลอยู่ในสภาพแวดล้อมของคุณเอง
+
+| แผนฟรี | รายละเอียด |
+| --- | --- |
+| 👥 ขนาดทีม | 5 ผู้ใช้ ฟรีตลอดไป |
+| 🧰 ผลิตภัณฑ์ที่รวม | Document, Writer, Sheet, Presentation, Form และ Table |
+| 🤝 การทำงานร่วมกัน | แก้ไขแบบเรียลไทม์ ความคิดเห็น การตรวจทาน การแชร์ และสิทธิ์ |
+| 💳 บัตรเครดิต | ไม่จำเป็น |
+| 📦 แพ็กเกจติดตั้ง | ดาวน์โหลดจาก GitHub Releases |
+| 🔑 ไลเซนส์ | ขอฟรีทางอีเมล `support.global@shimo.im` |
+| 🏠 สถานที่ติดตั้ง | เซิร์ฟเวอร์ ไพรเวตคลาวด์ หรือศูนย์ข้อมูลของคุณ |
+
+<div align="center">
+
+[![ดาวน์โหลด](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
+[![ขอไลเซนส์](https://img.shields.io/badge/ไลเซนส์ฟรี_5_ผู้ใช้-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
+
+</div>
+
+> ค่าใช้จ่ายของเซิร์ฟเวอร์ ทรัพยากรคลาวด์ และโฮสติ้งเป็นความรับผิดชอบของลูกค้า และไม่รวมอยู่ในไลเซนส์ ShimoDocs
 
 ## ติดตั้งแบบส่วนตัวในสี่ขั้นตอน
 
@@ -82,30 +181,8 @@ ShimoDocs ผสานประสบการณ์ทำงานร่วม�
 
 1. ดาวน์โหลดแพ็กเกจติดตั้งล่าสุดจาก [GitHub Releases](https://github.com/shimodocs/shimodocs/releases)
 2. ทำตามคำแนะนำใน Release เพื่อติดตั้งบนเซิร์ฟเวอร์ ไพรเวตคลาวด์ หรือศูนย์ข้อมูลของคุณ
-3. ส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีสำหรับ 5 ผู้ใช้
+3. ส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีตลอดไปสำหรับ 5 ผู้ใช้
 4. เปิดใช้งานไลเซนส์ สร้างพื้นที่ทำงาน และเชิญทีมของคุณ
-
-> ค่าใช้จ่ายของเซิร์ฟเวอร์ ทรัพยากรคลาวด์ และโฮสติ้งเป็นความรับผิดชอบของลูกค้า และไม่รวมอยู่ในไลเซนส์ ShimoDocs
-
-<div align="center">
-
-[![ดาวน์โหลด](https://img.shields.io/badge/Download-GitHub_Releases-165DFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shimodocs/shimodocs/releases)
-[![ขอไลเซนส์](https://img.shields.io/badge/ไลเซนส์ฟรี-support.global%40shimo.im-18A56A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
-
-</div>
-
-## ฟรีสำหรับทีมสูงสุด 5 ผู้ใช้
-
-| แผนฟรี | รายละเอียด |
-| --- | --- |
-| 👥 ขนาดทีม | สูงสุด 5 ผู้ใช้ |
-| 🧰 ความสามารถ | รวมประสบการณ์ทำงานร่วมกันอย่างครบถ้วน |
-| 💳 บัตรเครดิต | ไม่จำเป็น |
-| 📦 แพ็กเกจติดตั้ง | ดาวน์โหลดจาก GitHub Releases |
-| 🔑 ไลเซนส์ | ขอฟรีทางอีเมล `support.global@shimo.im` |
-| 🏠 สถานที่ติดตั้ง | เซิร์ฟเวอร์ ไพรเวตคลาวด์ หรือศูนย์ข้อมูลของคุณ |
-
-ทีมขนาดเล็กสามารถเริ่มทำงานร่วมกันในพื้นที่เดียวก่อน แล้วจึงตัดสินใจอัปเกรดเมื่อทีมเติบโต
 
 ## ShimoDocs เทียบกับ Google Docs
 
@@ -145,7 +222,7 @@ ShimoDocs มอบประสบการณ์ทำงานร่วมก�
 
 <details><summary><strong>ShimoDocs ฟรีจริงหรือไม่</strong></summary>
 
-ฟรี ทีมสูงสุด 5 ผู้ใช้สามารถส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีโดยไม่ต้องใช้บัตรเครดิต ทีมที่มีผู้ใช้มากกว่า 5 คนสามารถเลือกแผนแบบชำระเงินตามขนาดทีม
+ฟรี ทีม 5 ผู้ใช้สามารถส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีตลอดไปโดยไม่ต้องใช้บัตรเครดิต ทีมที่ใหญ่กว่าสามารถเลือกแผนแบบชำระเงินตามขนาดทีม
 
 </details>
 
@@ -177,7 +254,7 @@ ShimoDocs มีประสบการณ์ด้านการทำงา�
 
 ### พร้อมนำเอกสารกลับสู่คลาวด์ของคุณเองหรือยัง
 
-**ฟรีสูงสุด 5 ผู้ใช้ · ไม่ต้องใช้บัตรเครดิต · ข้อมูลอยู่ในสภาพแวดล้อมของคุณ**
+**5 ผู้ใช้ฟรีตลอดไป · ไม่ต้องใช้บัตรเครดิต · ข้อมูลอยู่ในสภาพแวดล้อมของคุณ**
 
 [**ดาวน์โหลดแพ็กเกจ**](https://github.com/shimodocs/shimodocs/releases) · [**ขอไลเซนส์ฟรี**](mailto:support.global@shimo.im) · [**ทดลองใช้ออนไลน์**](https://shimodocs.com/#online-trial) · [**ติดต่อฝ่ายขาย**](https://shimodocs.com/contact)
 

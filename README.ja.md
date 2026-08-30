@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><span style="display: inline-flex; align-items: center; gap: 12px;"><img src="./assets/readme/logo.svg" alt="ShimoDocs ロゴ" width="48" align="absmiddle" /><span>ShimoDocs</span></span></h1>
+<h1><img src="./assets/readme/logo.svg" alt="ShimoDocs ロゴ" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
 <h3>あなたのクラウド。あなたのドキュメント。あなたのコントロール。</h3>
 
@@ -10,7 +10,7 @@
 
 <p><a href="./README.md">English</a> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <strong>日本語</strong> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
-[![5ユーザー永久無料](https://img.shields.io/badge/5ユーザー-永久無料-18A56A?style=flat-square)](mailto:support.global@shimo.im)
+[![5ユーザー永久無料](https://img.shields.io/badge/5%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC-%E6%B0%B8%E4%B9%85%E7%84%A1%E6%96%99-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release ダウンロード数](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![お問い合わせ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
@@ -222,7 +222,7 @@ ShimoDocs は、使い慣れたコラボレーション体験に加え、導入�
 
 <details><summary><strong>ShimoDocs は本当に無料ですか？</strong></summary>
 
-はい。5ユーザーまでのチームは [support.global@shimo.im](mailto:support.global@shimo.im) へメールを送り、クレジットカードなしで無料ライセンスを申請できます。6ユーザー以上のチームは人数に応じた有料プランを選択できます。
+はい。5ユーザーのチームは [support.global@shimo.im](mailto:support.global@shimo.im) へメールを送り、クレジットカードなしで永久無料ライセンスを申請できます。より大きなチームは人数に応じた有料プランを選択できます。
 
 </details>
 
@@ -254,7 +254,7 @@ ShimoDocs は12年以上にわたる文書コラボレーションの経験を�
 
 ### 文書を自社クラウドに戻す準備はできましたか？
 
-**5ユーザーまで無料 · クレジットカード不要 · データは自社環境に保持**
+**5ユーザー永久無料 · クレジットカード不要 · データは自社環境に保持**
 
 [**パッケージをダウンロード**](https://github.com/shimodocs/shimodocs/releases) · [**無料ライセンスを申請**](mailto:support.global@shimo.im) · [**オンライン試用**](https://shimodocs.com/#online-trial) · [**営業へ問い合わせ**](https://shimodocs.com/contact)
 
