@@ -14,7 +14,7 @@
 [![Lượt tải GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Liên hệ](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-[**Tải xuống**](https://github.com/shimodocs/shimodocs/releases) · [**Dùng thử trực tuyến**](https://shimodocs.com/#online-trial) · [Trang web](https://shimodocs.com/)
+[![Dùng thử trực tuyến](https://img.shields.io/badge/D%C3%B9ng_th%E1%BB%AD_tr%E1%BB%B1c_tuy%E1%BA%BFn-Th%E1%BB%AD_ngay-FF8A00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shimodocs.com/#online-trial) [![Trang web](https://img.shields.io/badge/Trang_web-shimodocs.com-172033?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shimodocs.com/)
 
 </div>
 

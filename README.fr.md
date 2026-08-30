@@ -14,7 +14,7 @@
 [![Téléchargements GitHub Releases](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![Nous contacter](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-[**Télécharger**](https://github.com/shimodocs/shimodocs/releases) · [**Essai en ligne**](https://shimodocs.com/#online-trial) · [Site web](https://shimodocs.com/)
+[![Essai en ligne](https://img.shields.io/badge/Essai_en_ligne-Essayer-FF8A00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shimodocs.com/#online-trial) [![Site web](https://img.shields.io/badge/Site_web-shimodocs.com-172033?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shimodocs.com/)
 
 </div>
 

@@ -14,7 +14,7 @@
 [![GitHub Release 다운로드 수](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![문의하기](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-[**다운로드**](https://github.com/shimodocs/shimodocs/releases) · [**온라인 체험**](https://shimodocs.com/#online-trial) · [웹사이트](https://shimodocs.com/)
+[![온라인 체험](https://img.shields.io/badge/%EC%98%A8%EB%9D%BC%EC%9D%B8_%EC%B2%B4%ED%97%98-%EC%A7%80%EA%B8%88_%EC%8B%9C%EC%9E%91-FF8A00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shimodocs.com/#online-trial) [![웹사이트](https://img.shields.io/badge/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-shimodocs.com-172033?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shimodocs.com/)
 
 </div>
 

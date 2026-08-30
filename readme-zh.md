@@ -14,7 +14,7 @@
 [![GitHub Release 下载量](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
 [![联系我们](https://img.shields.io/badge/Contact-support.global%40shimo.im-18A56A?style=flat-square&logo=gmail&logoColor=white)](mailto:support.global@shimo.im)
 
-[**下载**](https://github.com/shimodocs/shimodocs/releases) · [**在线试用**](https://shimodocs.com/#online-trial) · [官网](https://shimodocs.com/)
+[![在线试用](https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF%E8%AF%95%E7%94%A8-%E7%AB%8B%E5%8D%B3%E4%BD%93%E9%AA%8C-FF8A00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shimodocs.com/#online-trial) [![官网](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-shimodocs.com-172033?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shimodocs.com/)
 
 </div>
 
