@@ -180,9 +180,107 @@ ShimoDocs는 단순한 Copilot 스타일 채팅창이 아니라 에이전트형 
 <p align="center"><img src="./assets/readme/get-started.svg" alt="다운로드, 프라이빗 배포, 라이선스 신청 및 협업 시작" width="100%" /></p>
 
 1. [GitHub Releases](https://github.com/shimodocs/shimodocs/releases)에서 최신 설치 패키지를 다운로드합니다.
-2. Release 안내에 따라 자체 서버, 프라이빗 클라우드 또는 데이터 센터에 배포합니다.
+2. [ShimoDocs Suite 배포 및 운영 문서](./docs/ko/deployment/README.md)에 따라 자체 서버, 프라이빗 클라우드 또는 데이터 센터에 배포합니다.
 3. [support.global@shimo.im](mailto:support.global@shimo.im)로 이메일을 보내 5인 평생 무료 라이선스를 신청합니다.
 4. 라이선스를 활성화하고 워크스페이스를 만든 뒤 팀원을 초대합니다.
+
+<!-- deployment-docs:start -->
+## 배포 및 운영 문서
+
+ShimoDocs Suite의 설치, 구성, 운영 및 문제 해결에 관한 전체 가이드를 확인하세요.
+
+- [배포 및 운영 개요](./docs/ko/deployment/README.md)
+
+### 배포 계획
+
+- [시스템 요구 사항](./docs/ko/deployment/system-requirements.md)
+- [리소스 계획](./docs/ko/deployment/getting-started/resource-planning.md)
+
+### 설치 ShimoDocs Suite
+
+- [빠른 시작](./docs/ko/deployment/getting-started/quick-start.md)
+- [단일 노드 Kubernetes 배포](./docs/ko/deployment/getting-started/single-node-kubernetes.md)
+- [고가용성 Kubernetes 배포](./docs/ko/deployment/getting-started/high-availability-kubernetes.md)
+
+### 외부 미들웨어 연결
+
+- [MySQL 8 요구 사항](./docs/ko/deployment/middleware/mysql/requirements.md)
+- [와 함께 배포 MySQL 8](./docs/ko/deployment/middleware/mysql/deployment.md)
+- [Dameng V8 요구 사항](./docs/ko/deployment/middleware/dameng/requirements.md)
+- [와 함께 배포 Dameng V8](./docs/ko/deployment/middleware/dameng/deployment.md)
+- [객체 스토리지 구성](./docs/ko/deployment/middleware/object-storage/configuration.md)
+- [객체 스토리지로 배포](./docs/ko/deployment/middleware/object-storage/deployment.md)
+- [Kafka 구성](./docs/ko/deployment/middleware/kafka/configuration.md)
+- [와 함께 배포 Kafka](./docs/ko/deployment/middleware/kafka/deployment.md)
+- [Redis 구성](./docs/ko/deployment/middleware/redis/configuration.md)
+- [와 함께 배포 Redis](./docs/ko/deployment/middleware/redis/deployment.md)
+- [MongoDB 구성](./docs/ko/deployment/middleware/mongodb/configuration.md)
+- [와 함께 배포 MongoDB](./docs/ko/deployment/middleware/mongodb/deployment.md)
+
+### 운영 플랫폼
+
+- [운영 플랫폼 개요](./docs/ko/deployment/operations-platform/README.md)
+
+### 관리 ShimoDocs Suite
+
+- [라이선스 관리](./docs/ko/deployment/operations-platform/suite/license-management.md)
+- [테넌트 관리](./docs/ko/deployment/operations-platform/suite/tenant-management.md)
+- [AI 구성](./docs/ko/deployment/operations-platform/suite/ai-configuration.md)
+- [스위트 사용자 관리](./docs/ko/deployment/operations-platform/suite/user-management.md)
+- [브랜드 맞춤화](./docs/ko/deployment/operations-platform/suite/brand-customization.md)
+- [시스템 구성](./docs/ko/deployment/operations-platform/suite/configuration/system-configuration.md)
+- [편집기 구성](./docs/ko/deployment/operations-platform/suite/configuration/editor-configuration.md)
+
+### 시스템 서비스 운영
+
+- [클러스터 관리](./docs/ko/deployment/operations-platform/system-services/service-operations/cluster-management.md)
+- [미들웨어 구성](./docs/ko/deployment/operations-platform/system-services/service-operations/middleware-configuration.md)
+- [서비스 로그](./docs/ko/deployment/operations-platform/system-services/service-operations/service-logs.md)
+- [실시간 로그](./docs/ko/deployment/operations-platform/system-services/service-operations/real-time-logs.md)
+- [시스템 업그레이드](./docs/ko/deployment/operations-platform/system-services/service-operations/system-upgrade.md)
+- [구성 센터](./docs/ko/deployment/operations-platform/system-services/service-operations/configuration-center.md)
+
+### 운영 도구 사용
+
+- [정적 리소스 모니터링](./docs/ko/deployment/operations-platform/system-services/toolset/static-resource-monitoring.md)
+- [미들웨어 점검](./docs/ko/deployment/operations-platform/system-services/toolset/middleware-inspection.md)
+- [컨테이너 패킷 캡처](./docs/ko/deployment/operations-platform/system-services/toolset/container-packet-capture.md)
+- [호환성 테스트](./docs/ko/deployment/operations-platform/system-services/toolset/compatibility-testing.md)
+- [일반 도구](./docs/ko/deployment/operations-platform/system-services/toolset/general-tools.md)
+
+### 미들웨어 도구 사용
+
+- [RDB 도구](./docs/ko/deployment/operations-platform/system-services/middleware-tools/rdb.md)
+- [Kafka 도구](./docs/ko/deployment/operations-platform/system-services/middleware-tools/kafka.md)
+- [gRPC 도구](./docs/ko/deployment/operations-platform/system-services/middleware-tools/grpc.md)
+- [Redis 도구](./docs/ko/deployment/operations-platform/system-services/middleware-tools/redis.md)
+- [MongoDB 도구](./docs/ko/deployment/operations-platform/system-services/middleware-tools/mongodb.md)
+
+### 제어판 구성
+
+- [알림 채널](./docs/ko/deployment/operations-platform/system-services/control-panel/notification-channels.md)
+- [고급 설정](./docs/ko/deployment/operations-platform/system-services/control-panel/advanced-settings.md)
+
+### 비즈니스 운영 제어
+
+- [트랜스코딩 이벤트 검색](./docs/ko/deployment/operations-platform/system-services/business-control/transcoding-events.md)
+- [파일 정보 검색](./docs/ko/deployment/operations-platform/system-services/business-control/file-information.md)
+- [협업 차단](./docs/ko/deployment/operations-platform/system-services/business-control/collaboration-blocking.md)
+- [문서 복구](./docs/ko/deployment/operations-platform/system-services/business-control/document-repair.md)
+
+### 플랫폼 관리
+
+- [플랫폼 사용자 관리](./docs/ko/deployment/operations-platform/system-services/system-management/user-management.md)
+- [감사 로그](./docs/ko/deployment/operations-platform/system-services/system-management/audit-logs.md)
+
+### 문제 해결 및 유지보수
+
+- [설치 문제 해결](./docs/ko/deployment/troubleshooting/installation.md)
+- [데이터 백업](./docs/ko/deployment/troubleshooting/data-backup.md)
+- [모니터링 지표 참조](./docs/ko/deployment/troubleshooting/monitoring-metrics.md)
+- [협업 편집 사건](./docs/ko/deployment/troubleshooting/collaboration-editing-incident.md)
+- [사고 대응 SOP](./docs/ko/deployment/troubleshooting/incident-response-sop.md)
+<!-- deployment-docs:end -->
 
 ## ShimoDocs와 Google Docs 비교
 

@@ -192,9 +192,107 @@ ShimoDocs 使用面向任务和结果的 **Responses 模式**，不是普通的 
 </p>
 
 1. 前往 [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) 下载最新安装包。
-2. 按照 Release 中的说明，将 ShimoDocs 部署到自己的服务器、私有云或数据中心。
+2. 按照 [ShimoDocs Suite 部署与运维文档](./docs/zh-CN/deployment/README.md)，将 ShimoDocs 部署到自己的服务器、私有云或数据中心。
 3. 发送邮件至 [support.global@shimo.im](mailto:support.global@shimo.im)，申请 5 人永久免费 License。
 4. 激活 License，创建工作空间并邀请团队成员。
+
+<!-- deployment-docs:start -->
+## 部署与运维文档
+
+查看 ShimoDocs Suite 完整的安装、配置、运维和故障排查指南。
+
+- [部署与运维总览](./docs/zh-CN/deployment/README.md)
+
+### 规划您的部署
+
+- [系统要求](./docs/zh-CN/deployment/system-requirements.md)
+- [资源规划](./docs/zh-CN/deployment/getting-started/resource-planning.md)
+
+### 安装 ShimoDocs Suite
+
+- [快速开始](./docs/zh-CN/deployment/getting-started/quick-start.md)
+- [单节点 Kubernetes 部署](./docs/zh-CN/deployment/getting-started/single-node-kubernetes.md)
+- [高可用性 Kubernetes 部署](./docs/zh-CN/deployment/getting-started/high-availability-kubernetes.md)
+
+### 连接外部中间件
+
+- [MySQL 8 要求](./docs/zh-CN/deployment/middleware/mysql/requirements.md)
+- [部署与 MySQL 8](./docs/zh-CN/deployment/middleware/mysql/deployment.md)
+- [Dameng V8 要求](./docs/zh-CN/deployment/middleware/dameng/requirements.md)
+- [部署与 Dameng V8](./docs/zh-CN/deployment/middleware/dameng/deployment.md)
+- [对象存储配置](./docs/zh-CN/deployment/middleware/object-storage/configuration.md)
+- [使用对象存储部署](./docs/zh-CN/deployment/middleware/object-storage/deployment.md)
+- [Kafka 配置](./docs/zh-CN/deployment/middleware/kafka/configuration.md)
+- [部署与 Kafka](./docs/zh-CN/deployment/middleware/kafka/deployment.md)
+- [Redis 配置](./docs/zh-CN/deployment/middleware/redis/configuration.md)
+- [部署与 Redis](./docs/zh-CN/deployment/middleware/redis/deployment.md)
+- [MongoDB 配置](./docs/zh-CN/deployment/middleware/mongodb/configuration.md)
+- [部署与 MongoDB](./docs/zh-CN/deployment/middleware/mongodb/deployment.md)
+
+### 运维平台
+
+- [运维平台概览](./docs/zh-CN/deployment/operations-platform/README.md)
+
+### 管理 ShimoDocs Suite
+
+- [许可证管理](./docs/zh-CN/deployment/operations-platform/suite/license-management.md)
+- [租户管理](./docs/zh-CN/deployment/operations-platform/suite/tenant-management.md)
+- [AI 配置](./docs/zh-CN/deployment/operations-platform/suite/ai-configuration.md)
+- [套件用户管理](./docs/zh-CN/deployment/operations-platform/suite/user-management.md)
+- [品牌定制](./docs/zh-CN/deployment/operations-platform/suite/brand-customization.md)
+- [系统配置](./docs/zh-CN/deployment/operations-platform/suite/configuration/system-configuration.md)
+- [编辑器配置](./docs/zh-CN/deployment/operations-platform/suite/configuration/editor-configuration.md)
+
+### 操作系统服务
+
+- [集群管理](./docs/zh-CN/deployment/operations-platform/system-services/service-operations/cluster-management.md)
+- [中间件配置](./docs/zh-CN/deployment/operations-platform/system-services/service-operations/middleware-configuration.md)
+- [服务日志](./docs/zh-CN/deployment/operations-platform/system-services/service-operations/service-logs.md)
+- [实时日志](./docs/zh-CN/deployment/operations-platform/system-services/service-operations/real-time-logs.md)
+- [系统升级](./docs/zh-CN/deployment/operations-platform/system-services/service-operations/system-upgrade.md)
+- [配置中心](./docs/zh-CN/deployment/operations-platform/system-services/service-operations/configuration-center.md)
+
+### 使用运维工具
+
+- [静态资源监控](./docs/zh-CN/deployment/operations-platform/system-services/toolset/static-resource-monitoring.md)
+- [中间件检测](./docs/zh-CN/deployment/operations-platform/system-services/toolset/middleware-inspection.md)
+- [容器抓包](./docs/zh-CN/deployment/operations-platform/system-services/toolset/container-packet-capture.md)
+- [兼容性测试](./docs/zh-CN/deployment/operations-platform/system-services/toolset/compatibility-testing.md)
+- [通用工具](./docs/zh-CN/deployment/operations-platform/system-services/toolset/general-tools.md)
+
+### 使用中间件工具
+
+- [RDB 工具](./docs/zh-CN/deployment/operations-platform/system-services/middleware-tools/rdb.md)
+- [Kafka 工具](./docs/zh-CN/deployment/operations-platform/system-services/middleware-tools/kafka.md)
+- [gRPC 工具](./docs/zh-CN/deployment/operations-platform/system-services/middleware-tools/grpc.md)
+- [Redis 工具](./docs/zh-CN/deployment/operations-platform/system-services/middleware-tools/redis.md)
+- [MongoDB 工具](./docs/zh-CN/deployment/operations-platform/system-services/middleware-tools/mongodb.md)
+
+### 配置控制面板
+
+- [通知渠道](./docs/zh-CN/deployment/operations-platform/system-services/control-panel/notification-channels.md)
+- [高级设置](./docs/zh-CN/deployment/operations-platform/system-services/control-panel/advanced-settings.md)
+
+### 控制业务操作
+
+- [转码事件搜索](./docs/zh-CN/deployment/operations-platform/system-services/business-control/transcoding-events.md)
+- [文件信息搜索](./docs/zh-CN/deployment/operations-platform/system-services/business-control/file-information.md)
+- [协作阻止](./docs/zh-CN/deployment/operations-platform/system-services/business-control/collaboration-blocking.md)
+- [文档修复](./docs/zh-CN/deployment/operations-platform/system-services/business-control/document-repair.md)
+
+### 管理平台
+
+- [平台用户管理](./docs/zh-CN/deployment/operations-platform/system-services/system-management/user-management.md)
+- [审计日志](./docs/zh-CN/deployment/operations-platform/system-services/system-management/audit-logs.md)
+
+### 故障排查与维护
+
+- [安装故障排查](./docs/zh-CN/deployment/troubleshooting/installation.md)
+- [数据备份](./docs/zh-CN/deployment/troubleshooting/data-backup.md)
+- [监控指标参考](./docs/zh-CN/deployment/troubleshooting/monitoring-metrics.md)
+- [协作编辑事件](./docs/zh-CN/deployment/troubleshooting/collaboration-editing-incident.md)
+- [事件响应 SOP](./docs/zh-CN/deployment/troubleshooting/incident-response-sop.md)
+<!-- deployment-docs:end -->
 
 ## ShimoDocs vs Google Docs
 

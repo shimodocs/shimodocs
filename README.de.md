@@ -182,9 +182,107 @@ ShimoDocs verwendet einen agentischen **Responses-Modus** und keine einfache Cop
 <p align="center"><img src="./assets/readme/get-started.svg" alt="Herunterladen, privat bereitstellen, Lizenz anfordern und zusammenarbeiten" width="100%" /></p>
 
 1. Laden Sie das aktuelle Installationspaket von [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) herunter.
-2. Folgen Sie den Hinweisen des Releases, um ShimoDocs auf eigenen Servern, in Ihrer Private Cloud oder im Rechenzentrum bereitzustellen.
+2. Folgen Sie der [Dokumentation zur Bereitstellung und zum Betrieb von ShimoDocs Suite](./docs/de/deployment/README.md), um ShimoDocs auf eigenen Servern, in Ihrer Private Cloud oder im Rechenzentrum bereitzustellen.
 3. Schreiben Sie an [support.global@shimo.im](mailto:support.global@shimo.im), um Ihre dauerhaft kostenlose 5-Nutzer-Lizenz anzufordern.
 4. Aktivieren Sie die Lizenz, erstellen Sie einen Arbeitsbereich und laden Sie Ihr Team ein.
+
+<!-- deployment-docs:start -->
+## Dokumentation zu Bereitstellung und Betrieb
+
+Alle Anleitungen zu Installation, Konfiguration, Betrieb und Fehlerbehebung von ShimoDocs Suite.
+
+- [Übersicht zu Bereitstellung und Betrieb](./docs/de/deployment/README.md)
+
+### Planen Sie Ihre Bereitstellung
+
+- [Systemanforderungen](./docs/de/deployment/system-requirements.md)
+- [Ressourcenplanung](./docs/de/deployment/getting-started/resource-planning.md)
+
+### Installation ShimoDocs Suite
+
+- [Schnellstart](./docs/de/deployment/getting-started/quick-start.md)
+- [Einzelknoten Kubernetes Bereitstellung](./docs/de/deployment/getting-started/single-node-kubernetes.md)
+- [Hohe Verfügbarkeit Kubernetes Bereitstellung](./docs/de/deployment/getting-started/high-availability-kubernetes.md)
+
+### Externe Middleware verbinden
+
+- [MySQL 8 Anforderungen](./docs/de/deployment/middleware/mysql/requirements.md)
+- [Bereitstellen mit MySQL 8](./docs/de/deployment/middleware/mysql/deployment.md)
+- [Dameng V8 Anforderungen](./docs/de/deployment/middleware/dameng/requirements.md)
+- [Bereitstellen mit Dameng V8](./docs/de/deployment/middleware/dameng/deployment.md)
+- [Objektspeicher-Konfiguration](./docs/de/deployment/middleware/object-storage/configuration.md)
+- [Bereitstellen mit Objektspeicher](./docs/de/deployment/middleware/object-storage/deployment.md)
+- [Kafka Konfiguration](./docs/de/deployment/middleware/kafka/configuration.md)
+- [Bereitstellen mit Kafka](./docs/de/deployment/middleware/kafka/deployment.md)
+- [Redis Konfiguration](./docs/de/deployment/middleware/redis/configuration.md)
+- [Bereitstellen mit Redis](./docs/de/deployment/middleware/redis/deployment.md)
+- [MongoDB Konfiguration](./docs/de/deployment/middleware/mongodb/configuration.md)
+- [Bereitstellen mit MongoDB](./docs/de/deployment/middleware/mongodb/deployment.md)
+
+### Betriebsplattform
+
+- [Übersicht der Betriebsplattform](./docs/de/deployment/operations-platform/README.md)
+
+### Verwalten ShimoDocs Suite
+
+- [Lizenzverwaltung](./docs/de/deployment/operations-platform/suite/license-management.md)
+- [Mandantenverwaltung](./docs/de/deployment/operations-platform/suite/tenant-management.md)
+- [KI-Konfiguration](./docs/de/deployment/operations-platform/suite/ai-configuration.md)
+- [Benutzerverwaltung der Suite](./docs/de/deployment/operations-platform/suite/user-management.md)
+- [Markenanpassung](./docs/de/deployment/operations-platform/suite/brand-customization.md)
+- [Systemkonfiguration](./docs/de/deployment/operations-platform/suite/configuration/system-configuration.md)
+- [Editor-Konfiguration](./docs/de/deployment/operations-platform/suite/configuration/editor-configuration.md)
+
+### Systemdienste betreiben
+
+- [Clusterverwaltung](./docs/de/deployment/operations-platform/system-services/service-operations/cluster-management.md)
+- [Middleware-Konfiguration](./docs/de/deployment/operations-platform/system-services/service-operations/middleware-configuration.md)
+- [Service-Logs](./docs/de/deployment/operations-platform/system-services/service-operations/service-logs.md)
+- [Echtzeit-Logs](./docs/de/deployment/operations-platform/system-services/service-operations/real-time-logs.md)
+- [System-Upgrade](./docs/de/deployment/operations-platform/system-services/service-operations/system-upgrade.md)
+- [Konfigurationszentrum](./docs/de/deployment/operations-platform/system-services/service-operations/configuration-center.md)
+
+### Betriebstools verwenden
+
+- [Überwachung statischer Ressourcen](./docs/de/deployment/operations-platform/system-services/toolset/static-resource-monitoring.md)
+- [Middleware-Inspektion](./docs/de/deployment/operations-platform/system-services/toolset/middleware-inspection.md)
+- [Container-Paket-Erfassung](./docs/de/deployment/operations-platform/system-services/toolset/container-packet-capture.md)
+- [Kompatibilitätstest](./docs/de/deployment/operations-platform/system-services/toolset/compatibility-testing.md)
+- [Allgemeine Werkzeuge](./docs/de/deployment/operations-platform/system-services/toolset/general-tools.md)
+
+### Verwenden von Middleware-Tools
+
+- [RDB Werkzeuge](./docs/de/deployment/operations-platform/system-services/middleware-tools/rdb.md)
+- [Kafka Werkzeuge](./docs/de/deployment/operations-platform/system-services/middleware-tools/kafka.md)
+- [gRPC Werkzeuge](./docs/de/deployment/operations-platform/system-services/middleware-tools/grpc.md)
+- [Redis Werkzeuge](./docs/de/deployment/operations-platform/system-services/middleware-tools/redis.md)
+- [MongoDB Werkzeuge](./docs/de/deployment/operations-platform/system-services/middleware-tools/mongodb.md)
+
+### Konfigurieren der Systemsteuerung
+
+- [Benachrichtigungskanäle](./docs/de/deployment/operations-platform/system-services/control-panel/notification-channels.md)
+- [Erweiterte Einstellungen](./docs/de/deployment/operations-platform/system-services/control-panel/advanced-settings.md)
+
+### Geschäftsvorgänge steuern
+
+- [Transcodierung Ereignissuche](./docs/de/deployment/operations-platform/system-services/business-control/transcoding-events.md)
+- [Dateiinformationssuche](./docs/de/deployment/operations-platform/system-services/business-control/file-information.md)
+- [Zusammenarbeitsblockierung](./docs/de/deployment/operations-platform/system-services/business-control/collaboration-blocking.md)
+- [Dokumentenreparatur](./docs/de/deployment/operations-platform/system-services/business-control/document-repair.md)
+
+### Verwaltung der Plattform
+
+- [Plattformbenutzerverwaltung](./docs/de/deployment/operations-platform/system-services/system-management/user-management.md)
+- [Prüfprotokolle](./docs/de/deployment/operations-platform/system-services/system-management/audit-logs.md)
+
+### Fehlerbehebung und Wartung
+
+- [Installation Fehlerbehebung](./docs/de/deployment/troubleshooting/installation.md)
+- [Datensicherung](./docs/de/deployment/troubleshooting/data-backup.md)
+- [Überwachungsmetriken Referenz](./docs/de/deployment/troubleshooting/monitoring-metrics.md)
+- [Zusammenarbeitsbearbeitung Vorfall](./docs/de/deployment/troubleshooting/collaboration-editing-incident.md)
+- [Vorfallreaktion SOP](./docs/de/deployment/troubleshooting/incident-response-sop.md)
+<!-- deployment-docs:end -->
 
 ## ShimoDocs im Vergleich zu Google Docs
 

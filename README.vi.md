@@ -180,9 +180,107 @@ ShimoDocs sử dụng **chế độ Responses** theo hướng tác nhân, không
 <p align="center"><img src="./assets/readme/get-started.svg" alt="Tải xuống, triển khai riêng, yêu cầu giấy phép và bắt đầu cộng tác" width="100%" /></p>
 
 1. Tải gói cài đặt mới nhất từ [GitHub Releases](https://github.com/shimodocs/shimodocs/releases).
-2. Làm theo hướng dẫn trong bản phát hành để triển khai trên máy chủ, đám mây riêng hoặc trung tâm dữ liệu của bạn.
+2. Làm theo [tài liệu triển khai và vận hành ShimoDocs Suite](./docs/vi/deployment/README.md) để triển khai trên máy chủ, đám mây riêng hoặc trung tâm dữ liệu của bạn.
 3. Gửi email đến [support.global@shimo.im](mailto:support.global@shimo.im) để yêu cầu giấy phép miễn phí vĩnh viễn cho 5 người dùng.
 4. Kích hoạt giấy phép, tạo không gian làm việc và mời nhóm của bạn.
+
+<!-- deployment-docs:start -->
+## Tài liệu triển khai và vận hành
+
+Xem toàn bộ hướng dẫn cài đặt, cấu hình, vận hành và khắc phục sự cố cho ShimoDocs Suite.
+
+- [Tổng quan về triển khai và vận hành](./docs/vi/deployment/README.md)
+
+### Lập kế hoạch triển khai của bạn
+
+- [Yêu cầu hệ thống](./docs/vi/deployment/system-requirements.md)
+- [Lập kế hoạch tài nguyên](./docs/vi/deployment/getting-started/resource-planning.md)
+
+### Cài đặt ShimoDocs Suite
+
+- [Bắt đầu nhanh](./docs/vi/deployment/getting-started/quick-start.md)
+- [Triển khai đơn nút Kubernetes Triển khai](./docs/vi/deployment/getting-started/single-node-kubernetes.md)
+- [Khả năng cao Kubernetes Triển khai](./docs/vi/deployment/getting-started/high-availability-kubernetes.md)
+
+### Kết nối phần mềm trung gian bên ngoài
+
+- [MySQL 8 Yêu cầu](./docs/vi/deployment/middleware/mysql/requirements.md)
+- [Triển khai với MySQL 8](./docs/vi/deployment/middleware/mysql/deployment.md)
+- [Dameng V8 Yêu cầu](./docs/vi/deployment/middleware/dameng/requirements.md)
+- [Triển khai với Dameng V8](./docs/vi/deployment/middleware/dameng/deployment.md)
+- [Cấu hình lưu trữ đối tượng](./docs/vi/deployment/middleware/object-storage/configuration.md)
+- [Triển khai với lưu trữ đối tượng](./docs/vi/deployment/middleware/object-storage/deployment.md)
+- [Kafka Cấu hình](./docs/vi/deployment/middleware/kafka/configuration.md)
+- [Triển khai với Kafka](./docs/vi/deployment/middleware/kafka/deployment.md)
+- [Redis Cấu hình](./docs/vi/deployment/middleware/redis/configuration.md)
+- [Triển khai với Redis](./docs/vi/deployment/middleware/redis/deployment.md)
+- [MongoDB Cấu hình](./docs/vi/deployment/middleware/mongodb/configuration.md)
+- [Triển khai với MongoDB](./docs/vi/deployment/middleware/mongodb/deployment.md)
+
+### Nền tảng vận hành
+
+- [Tổng quan nền tảng vận hành](./docs/vi/deployment/operations-platform/README.md)
+
+### Quản lý ShimoDocs Suite
+
+- [Quản lý giấy phép](./docs/vi/deployment/operations-platform/suite/license-management.md)
+- [Quản lý người thuê](./docs/vi/deployment/operations-platform/suite/tenant-management.md)
+- [Cấu hình AI](./docs/vi/deployment/operations-platform/suite/ai-configuration.md)
+- [Quản lý người dùng bộ công cụ](./docs/vi/deployment/operations-platform/suite/user-management.md)
+- [Tùy chỉnh thương hiệu](./docs/vi/deployment/operations-platform/suite/brand-customization.md)
+- [Cấu hình hệ thống](./docs/vi/deployment/operations-platform/suite/configuration/system-configuration.md)
+- [Cấu hình trình soạn thảo](./docs/vi/deployment/operations-platform/suite/configuration/editor-configuration.md)
+
+### Vận hành các dịch vụ hệ thống
+
+- [Quản lý cụm](./docs/vi/deployment/operations-platform/system-services/service-operations/cluster-management.md)
+- [Cấu hình phần mềm trung gian](./docs/vi/deployment/operations-platform/system-services/service-operations/middleware-configuration.md)
+- [Nhật ký dịch vụ](./docs/vi/deployment/operations-platform/system-services/service-operations/service-logs.md)
+- [Nhật ký thời gian thực](./docs/vi/deployment/operations-platform/system-services/service-operations/real-time-logs.md)
+- [Nâng cấp hệ thống](./docs/vi/deployment/operations-platform/system-services/service-operations/system-upgrade.md)
+- [Trung tâm cấu hình](./docs/vi/deployment/operations-platform/system-services/service-operations/configuration-center.md)
+
+### Sử dụng công cụ vận hành
+
+- [Giám sát tài nguyên tĩnh](./docs/vi/deployment/operations-platform/system-services/toolset/static-resource-monitoring.md)
+- [Kiểm tra phần mềm trung gian](./docs/vi/deployment/operations-platform/system-services/toolset/middleware-inspection.md)
+- [Chụp gói trong container](./docs/vi/deployment/operations-platform/system-services/toolset/container-packet-capture.md)
+- [Kiểm tra Tương thích](./docs/vi/deployment/operations-platform/system-services/toolset/compatibility-testing.md)
+- [Công cụ Chung](./docs/vi/deployment/operations-platform/system-services/toolset/general-tools.md)
+
+### Sử dụng công cụ middleware
+
+- [RDB Công cụ](./docs/vi/deployment/operations-platform/system-services/middleware-tools/rdb.md)
+- [Kafka Công cụ](./docs/vi/deployment/operations-platform/system-services/middleware-tools/kafka.md)
+- [gRPC Công cụ](./docs/vi/deployment/operations-platform/system-services/middleware-tools/grpc.md)
+- [Redis Công cụ](./docs/vi/deployment/operations-platform/system-services/middleware-tools/redis.md)
+- [MongoDB Công cụ](./docs/vi/deployment/operations-platform/system-services/middleware-tools/mongodb.md)
+
+### Cấu hình bảng điều khiển
+
+- [Kênh Thông báo](./docs/vi/deployment/operations-platform/system-services/control-panel/notification-channels.md)
+- [Cài đặt Nâng cao](./docs/vi/deployment/operations-platform/system-services/control-panel/advanced-settings.md)
+
+### Kiểm soát hoạt động kinh doanh
+
+- [Tìm kiếm Sự kiện Transcoding](./docs/vi/deployment/operations-platform/system-services/business-control/transcoding-events.md)
+- [Tìm kiếm Thông tin Tệp](./docs/vi/deployment/operations-platform/system-services/business-control/file-information.md)
+- [Chặn Hợp tác](./docs/vi/deployment/operations-platform/system-services/business-control/collaboration-blocking.md)
+- [Sửa tài liệu](./docs/vi/deployment/operations-platform/system-services/business-control/document-repair.md)
+
+### Quản trị nền tảng
+
+- [Quản lý Người dùng Nền tảng](./docs/vi/deployment/operations-platform/system-services/system-management/user-management.md)
+- [Nhật ký Kiểm toán](./docs/vi/deployment/operations-platform/system-services/system-management/audit-logs.md)
+
+### Xử lý sự cố và bảo trì
+
+- [Xử lý sự cố Cài đặt](./docs/vi/deployment/troubleshooting/installation.md)
+- [Sao lưu Dữ liệu](./docs/vi/deployment/troubleshooting/data-backup.md)
+- [Tham khảo Chỉ số Giám sát](./docs/vi/deployment/troubleshooting/monitoring-metrics.md)
+- [Sự cố Chỉnh sửa Hợp tác](./docs/vi/deployment/troubleshooting/collaboration-editing-incident.md)
+- [Phản hồi Sự cố SOP](./docs/vi/deployment/troubleshooting/incident-response-sop.md)
+<!-- deployment-docs:end -->
 
 ## ShimoDocs so với Google Docs
 

@@ -6,7 +6,7 @@
 
 <p>ShimoDocs is a self-hosted document collaboration suite for real-time docs, writers, sheets, presentations, forms, and tables in your private cloud, with privately configurable AI Agents built into every product.</p>
 
-<p><strong>English</strong> · <a href="./readme-zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
+<p><strong>English</strong> · <a href="./README.zh.md">简体中文</a> · <a href="./README.es.md">Español</a> · <a href="./README.de.md">Deutsch</a> · <a href="./README.fr.md">Français</a> · <a href="./README.ja.md">日本語</a> · <a href="./README.ko.md">한국어</a> · <a href="./README.vi.md">Tiếng Việt</a> · <a href="./README.th.md">ไทย</a></p>
 
 [![5 users free forever](https://img.shields.io/badge/5_users-Free_forever-18A56A?style=flat-square)](mailto:support.global@shimo.im)
 [![GitHub Release Downloads](https://img.shields.io/github/downloads/shimodocs/shimodocs/total?style=flat-square&logo=github&color=165DFF)](https://github.com/shimodocs/shimodocs/releases)
@@ -190,9 +190,107 @@ ShimoDocs uses an agentic **Responses mode**, not a basic Copilot-style chat box
 </p>
 
 1. Download the latest installer from [GitHub Releases](https://github.com/shimodocs/shimodocs/releases).
-2. Deploy ShimoDocs on your own servers, private cloud, or data center by following the instructions included with the release.
+2. Follow the [ShimoDocs Suite deployment and operations documentation](./docs/deployment/README.md) to deploy on your own servers, private cloud, or data center.
 3. Email [support.global@shimo.im](mailto:support.global@shimo.im) to request your free-forever 5-user license.
 4. Activate the license, create a workspace, and invite your team.
+
+<!-- deployment-docs:start -->
+## Deployment and operations documentation
+
+Browse the complete installation, configuration, operations, and troubleshooting guides for ShimoDocs Suite.
+
+- [Deployment and operations overview](./docs/deployment/README.md)
+
+### Plan Your Deployment
+
+- [System Requirements](./docs/deployment/system-requirements.md)
+- [Resource Planning](./docs/deployment/getting-started/resource-planning.md)
+
+### Install ShimoDocs Suite
+
+- [Quick Start](./docs/deployment/getting-started/quick-start.md)
+- [Single-node Kubernetes Deployment](./docs/deployment/getting-started/single-node-kubernetes.md)
+- [High Availability Kubernetes Deployment](./docs/deployment/getting-started/high-availability-kubernetes.md)
+
+### Connecting to External Middleware
+
+- [MySQL 8 Requirements](./docs/deployment/middleware/mysql/requirements.md)
+- [Deployment with MySQL 8](./docs/deployment/middleware/mysql/deployment.md)
+- [Dameng V8 Requirements](./docs/deployment/middleware/dameng/requirements.md)
+- [Deployment with Dameng V8](./docs/deployment/middleware/dameng/deployment.md)
+- [Object Storage Configuration](./docs/deployment/middleware/object-storage/configuration.md)
+- [Deploying with Object Storage](./docs/deployment/middleware/object-storage/deployment.md)
+- [Kafka Configuration](./docs/deployment/middleware/kafka/configuration.md)
+- [Deploying with Kafka](./docs/deployment/middleware/kafka/deployment.md)
+- [Redis Configuration](./docs/deployment/middleware/redis/configuration.md)
+- [Deploying with Redis](./docs/deployment/middleware/redis/deployment.md)
+- [MongoDB Configuration](./docs/deployment/middleware/mongodb/configuration.md)
+- [Deploying with MongoDB](./docs/deployment/middleware/mongodb/deployment.md)
+
+### Operations Platform
+
+- [Overview of Operations Platform](./docs/deployment/operations-platform/README.md)
+
+### Manage ShimoDocs Suite
+
+- [License Management](./docs/deployment/operations-platform/suite/license-management.md)
+- [Tenant Management](./docs/deployment/operations-platform/suite/tenant-management.md)
+- [AI Configuration](./docs/deployment/operations-platform/suite/ai-configuration.md)
+- [Suite User Management](./docs/deployment/operations-platform/suite/user-management.md)
+- [Brand Customization](./docs/deployment/operations-platform/suite/brand-customization.md)
+- [System Configuration](./docs/deployment/operations-platform/suite/configuration/system-configuration.md)
+- [Editor Configuration](./docs/deployment/operations-platform/suite/configuration/editor-configuration.md)
+
+### Operating System Services
+
+- [Cluster Management](./docs/deployment/operations-platform/system-services/service-operations/cluster-management.md)
+- [Middleware Configuration](./docs/deployment/operations-platform/system-services/service-operations/middleware-configuration.md)
+- [Service Logs](./docs/deployment/operations-platform/system-services/service-operations/service-logs.md)
+- [Real-time Logs](./docs/deployment/operations-platform/system-services/service-operations/real-time-logs.md)
+- [System Upgrade](./docs/deployment/operations-platform/system-services/service-operations/system-upgrade.md)
+- [Configuration Center](./docs/deployment/operations-platform/system-services/service-operations/configuration-center.md)
+
+### Using Operations and Maintenance Tools
+
+- [Static Resource Monitoring](./docs/deployment/operations-platform/system-services/toolset/static-resource-monitoring.md)
+- [Middleware Detection](./docs/deployment/operations-platform/system-services/toolset/middleware-inspection.md)
+- [Container Packet Capture](./docs/deployment/operations-platform/system-services/toolset/container-packet-capture.md)
+- [Compatibility Testing](./docs/deployment/operations-platform/system-services/toolset/compatibility-testing.md)
+- [General Tools](./docs/deployment/operations-platform/system-services/toolset/general-tools.md)
+
+### Using Middleware Tools
+
+- [RDB Tools](./docs/deployment/operations-platform/system-services/middleware-tools/rdb.md)
+- [Kafka Tools](./docs/deployment/operations-platform/system-services/middleware-tools/kafka.md)
+- [gRPC Tools](./docs/deployment/operations-platform/system-services/middleware-tools/grpc.md)
+- [Redis Tools](./docs/deployment/operations-platform/system-services/middleware-tools/redis.md)
+- [MongoDB Tools](./docs/deployment/operations-platform/system-services/middleware-tools/mongodb.md)
+
+### Configuration Control Panel
+
+- [Notification Channels](./docs/deployment/operations-platform/system-services/control-panel/notification-channels.md)
+- [Advanced Settings](./docs/deployment/operations-platform/system-services/control-panel/advanced-settings.md)
+
+### Control Business Operations
+
+- [Transcoding Event Search](./docs/deployment/operations-platform/system-services/business-control/transcoding-events.md)
+- [File Information Search](./docs/deployment/operations-platform/system-services/business-control/file-information.md)
+- [Collaboration Blocking](./docs/deployment/operations-platform/system-services/business-control/collaboration-blocking.md)
+- [Document Repair](./docs/deployment/operations-platform/system-services/business-control/document-repair.md)
+
+### Management Platform
+
+- [Platform User Management](./docs/deployment/operations-platform/system-services/system-management/user-management.md)
+- [Audit Log](./docs/deployment/operations-platform/system-services/system-management/audit-logs.md)
+
+### Troubleshooting and Maintenance
+
+- [Installation Troubleshooting](./docs/deployment/troubleshooting/installation.md)
+- [Data Backup](./docs/deployment/troubleshooting/data-backup.md)
+- [Monitoring Metrics Reference](./docs/deployment/troubleshooting/monitoring-metrics.md)
+- [Collaborative Editing Events](./docs/deployment/troubleshooting/collaboration-editing-incident.md)
+- [Incident Response SOP](./docs/deployment/troubleshooting/incident-response-sop.md)
+<!-- deployment-docs:end -->
 
 ## ShimoDocs vs Google Docs
 

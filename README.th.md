@@ -180,9 +180,107 @@ ShimoDocs ใช้ **โหมด Responses** แบบ Agent ไม่ใช�
 <p align="center"><img src="./assets/readme/get-started.svg" alt="ดาวน์โหลด ติดตั้งแบบส่วนตัว ขอไลเซนส์ และเริ่มทำงานร่วมกัน" width="100%" /></p>
 
 1. ดาวน์โหลดแพ็กเกจติดตั้งล่าสุดจาก [GitHub Releases](https://github.com/shimodocs/shimodocs/releases)
-2. ทำตามคำแนะนำใน Release เพื่อติดตั้งบนเซิร์ฟเวอร์ ไพรเวตคลาวด์ หรือศูนย์ข้อมูลของคุณ
+2. ทำตาม [เอกสารการติดตั้งและการดำเนินงาน ShimoDocs Suite](./docs/th/deployment/README.md) เพื่อติดตั้งบนเซิร์ฟเวอร์ ไพรเวตคลาวด์ หรือศูนย์ข้อมูลของคุณ
 3. ส่งอีเมลไปที่ [support.global@shimo.im](mailto:support.global@shimo.im) เพื่อขอไลเซนส์ฟรีตลอดไปสำหรับ 5 ผู้ใช้
 4. เปิดใช้งานไลเซนส์ สร้างพื้นที่ทำงาน และเชิญทีมของคุณ
+
+<!-- deployment-docs:start -->
+## เอกสารการติดตั้งและการดำเนินงาน
+
+ดูคู่มือทั้งหมดสำหรับการติดตั้ง การกำหนดค่า การดำเนินงาน และการแก้ไขปัญหา ShimoDocs Suite
+
+- [ภาพรวมการติดตั้งและการดำเนินงาน](./docs/th/deployment/README.md)
+
+### วางแผนการปรับใช้ของคุณ
+
+- [ข้อกำหนดของระบบ](./docs/th/deployment/system-requirements.md)
+- [การวางแผนทรัพยากร](./docs/th/deployment/getting-started/resource-planning.md)
+
+### การติดตั้ง ShimoDocs Suite
+
+- [เริ่มต้นอย่างรวดเร็ว](./docs/th/deployment/getting-started/quick-start.md)
+- [โหนดเดียว Kubernetes การปรับใช้](./docs/th/deployment/getting-started/single-node-kubernetes.md)
+- [ความพร้อมใช้งานสูง Kubernetes การปรับใช้](./docs/th/deployment/getting-started/high-availability-kubernetes.md)
+
+### เชื่อมต่อซอฟต์แวร์กลางภายนอก
+
+- [MySQL 8 ข้อกำหนด](./docs/th/deployment/middleware/mysql/requirements.md)
+- [ปรับใช้ด้วย MySQL 8](./docs/th/deployment/middleware/mysql/deployment.md)
+- [Dameng V8 ข้อกำหนด](./docs/th/deployment/middleware/dameng/requirements.md)
+- [ปรับใช้ด้วย Dameng V8](./docs/th/deployment/middleware/dameng/deployment.md)
+- [การกำหนดค่า Object Storage](./docs/th/deployment/middleware/object-storage/configuration.md)
+- [การปรับใช้ด้วย Object Storage](./docs/th/deployment/middleware/object-storage/deployment.md)
+- [Kafka การกำหนดค่า](./docs/th/deployment/middleware/kafka/configuration.md)
+- [ปรับใช้ด้วย Kafka](./docs/th/deployment/middleware/kafka/deployment.md)
+- [Redis การกำหนดค่า](./docs/th/deployment/middleware/redis/configuration.md)
+- [ปรับใช้ด้วย Redis](./docs/th/deployment/middleware/redis/deployment.md)
+- [MongoDB การกำหนดค่า](./docs/th/deployment/middleware/mongodb/configuration.md)
+- [ปรับใช้ด้วย MongoDB](./docs/th/deployment/middleware/mongodb/deployment.md)
+
+### แพลตฟอร์มปฏิบัติการ
+
+- [ภาพรวมแพลตฟอร์มปฏิบัติการ](./docs/th/deployment/operations-platform/README.md)
+
+### จัดการ ShimoDocs Suite
+
+- [การจัดการใบอนุญาต](./docs/th/deployment/operations-platform/suite/license-management.md)
+- [การจัดการผู้เช่า](./docs/th/deployment/operations-platform/suite/tenant-management.md)
+- [การกำหนดค่า AI](./docs/th/deployment/operations-platform/suite/ai-configuration.md)
+- [การจัดการผู้ใช้ชุดโปรแกรม](./docs/th/deployment/operations-platform/suite/user-management.md)
+- [การปรับแต่งแบรนด์](./docs/th/deployment/operations-platform/suite/brand-customization.md)
+- [การกำหนดค่าระบบ](./docs/th/deployment/operations-platform/suite/configuration/system-configuration.md)
+- [การกำหนดค่าโปรแกรมแก้ไข](./docs/th/deployment/operations-platform/suite/configuration/editor-configuration.md)
+
+### การดำเนินการบริการระบบ
+
+- [การจัดการคลัสเตอร์](./docs/th/deployment/operations-platform/system-services/service-operations/cluster-management.md)
+- [การกำหนดค่า Middleware](./docs/th/deployment/operations-platform/system-services/service-operations/middleware-configuration.md)
+- [บันทึกบริการ](./docs/th/deployment/operations-platform/system-services/service-operations/service-logs.md)
+- [บันทึกเรียลไทม์](./docs/th/deployment/operations-platform/system-services/service-operations/real-time-logs.md)
+- [การอัปเกรดระบบ](./docs/th/deployment/operations-platform/system-services/service-operations/system-upgrade.md)
+- [ศูนย์การกำหนดค่า](./docs/th/deployment/operations-platform/system-services/service-operations/configuration-center.md)
+
+### การใช้เครื่องมือปฏิบัติการ
+
+- [การตรวจสอบทรัพยากรสถิต](./docs/th/deployment/operations-platform/system-services/toolset/static-resource-monitoring.md)
+- [การตรวจสอบ Middleware](./docs/th/deployment/operations-platform/system-services/toolset/middleware-inspection.md)
+- [การจับแพ็กเก็ตคอนเทนเนอร์](./docs/th/deployment/operations-platform/system-services/toolset/container-packet-capture.md)
+- [การทดสอบความเข้ากันได้](./docs/th/deployment/operations-platform/system-services/toolset/compatibility-testing.md)
+- [เครื่องมือทั่วไป](./docs/th/deployment/operations-platform/system-services/toolset/general-tools.md)
+
+### ใช้เครื่องมือกลาง
+
+- [RDB เครื่องมือ](./docs/th/deployment/operations-platform/system-services/middleware-tools/rdb.md)
+- [Kafka เครื่องมือ](./docs/th/deployment/operations-platform/system-services/middleware-tools/kafka.md)
+- [gRPC เครื่องมือ](./docs/th/deployment/operations-platform/system-services/middleware-tools/grpc.md)
+- [Redis เครื่องมือ](./docs/th/deployment/operations-platform/system-services/middleware-tools/redis.md)
+- [MongoDB เครื่องมือ](./docs/th/deployment/operations-platform/system-services/middleware-tools/mongodb.md)
+
+### กำหนดค่าควบคุมแผงควบคุม
+
+- [ช่องทางการแจ้งเตือน](./docs/th/deployment/operations-platform/system-services/control-panel/notification-channels.md)
+- [การตั้งค่าขั้นสูง](./docs/th/deployment/operations-platform/system-services/control-panel/advanced-settings.md)
+
+### ควบคุมการดำเนินธุรกิจ
+
+- [การค้นหาเหตุการณ์แปลงสื่อ](./docs/th/deployment/operations-platform/system-services/business-control/transcoding-events.md)
+- [การค้นหาข้อมูลไฟล์](./docs/th/deployment/operations-platform/system-services/business-control/file-information.md)
+- [การบล็อกการทำงานร่วมกัน](./docs/th/deployment/operations-platform/system-services/business-control/collaboration-blocking.md)
+- [การซ่อมแซมเอกสาร](./docs/th/deployment/operations-platform/system-services/business-control/document-repair.md)
+
+### บริหารจัดการแพลตฟอร์ม
+
+- [การจัดการผู้ใช้แพลตฟอร์ม](./docs/th/deployment/operations-platform/system-services/system-management/user-management.md)
+- [บันทึกการตรวจสอบ](./docs/th/deployment/operations-platform/system-services/system-management/audit-logs.md)
+
+### การแก้ไขปัญหาและบำรุงรักษา
+
+- [การแก้ไขปัญหาการติดตั้ง](./docs/th/deployment/troubleshooting/installation.md)
+- [การสำรองข้อมูล](./docs/th/deployment/troubleshooting/data-backup.md)
+- [การอ้างอิงตัวชี้วัดการตรวจสอบ](./docs/th/deployment/troubleshooting/monitoring-metrics.md)
+- [เหตุการณ์การแก้ไขร่วมกัน](./docs/th/deployment/troubleshooting/collaboration-editing-incident.md)
+- [การตอบสนองต่อเหตุการณ์ SOP](./docs/th/deployment/troubleshooting/incident-response-sop.md)
+<!-- deployment-docs:end -->
 
 ## ShimoDocs เทียบกับ Google Docs
 
