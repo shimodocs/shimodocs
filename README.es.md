@@ -2,7 +2,7 @@
 
 <h1><img src="./assets/readme/logo.svg" alt="Logotipo de ShimoDocs" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
-<h3>Tu nube. Tus documentos. Tu control.</h3>
+<h3>Gratis para siempre para 5 usuarios. Despliega en privado. Controla tus datos.</h3>
 
 <p>ShimoDocs es una suite autoalojada de colaboración documental para documentos, escritura, hojas de cálculo, presentaciones, formularios y tablas en tiempo real en tu nube privada, con AI Agents configurables de forma privada e integrados en cada producto.</p>
 

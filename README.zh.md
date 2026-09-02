@@ -2,7 +2,7 @@
 
 <h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
-<h3>Your Cloud. Your Docs. Your Control.</h3>
+<h3>5人永久免费私有化部署，控制你的数据</h3>
 
 <p>ShimoDocs 是面向私有云的自托管文档协作套件，覆盖实时文档、文字处理、电子表格、演示文稿、表单和多维表格，每个产品都内置可私有化配置的 AI Agent。</p>
 

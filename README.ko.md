@@ -2,7 +2,7 @@
 
 <h1><img src="./assets/readme/logo.svg" alt="ShimoDocs 로고" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
-<h3>당신의 클라우드. 당신의 문서. 당신의 통제권.</h3>
+<h3>5명까지 평생 무료. 프라이빗 환경에 배포하고 데이터를 직접 관리하세요.</h3>
 
 <p>ShimoDocs는 프라이빗 클라우드에서 문서, 워드 프로세싱, 스프레드시트, 프레젠테이션, 양식, 테이블을 제공하며 모든 제품에 비공개로 구성 가능한 AI Agent가 내장된 셀프 호스팅 문서 협업 제품군입니다.</p>
 

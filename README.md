@@ -2,7 +2,7 @@
 
 <h1><img src="./assets/readme/logo.svg" alt="ShimoDocs logo" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
-<h3>Your Cloud. Your Docs. Your Control.</h3>
+<h3>Free forever for 5 users. Deploy privately. Control your data.</h3>
 
 <p>ShimoDocs is a self-hosted document collaboration suite for real-time docs, writers, sheets, presentations, forms, and tables in your private cloud, with privately configurable AI Agents built into every product.</p>
 

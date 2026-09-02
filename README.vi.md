@@ -2,7 +2,7 @@
 
 <h1><img src="./assets/readme/logo.svg" alt="Logo ShimoDocs" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
-<h3>Đám mây của bạn. Tài liệu của bạn. Quyền kiểm soát của bạn.</h3>
+<h3>Miễn phí vĩnh viễn cho 5 người dùng. Triển khai riêng tư. Kiểm soát dữ liệu của bạn.</h3>
 
 <p>ShimoDocs là bộ công cụ cộng tác tài liệu tự lưu trữ cho tài liệu, trình soạn thảo, bảng tính, bản trình bày, biểu mẫu và bảng trong đám mây riêng, với AI Agent có thể cấu hình riêng được tích hợp trong mọi sản phẩm.</p>
 

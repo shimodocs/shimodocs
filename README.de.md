@@ -2,7 +2,7 @@
 
 <h1><img src="./assets/readme/logo.svg" alt="ShimoDocs-Logo" width="48" align="absmiddle" /> <span>ShimoDocs</span></h1>
 
-<h3>Ihre Cloud. Ihre Dokumente. Ihre Kontrolle.</h3>
+<h3>Für 5 Nutzer dauerhaft kostenlos. Privat bereitstellen. Behalten Sie die Kontrolle über Ihre Daten.</h3>
 
 <p>ShimoDocs ist eine selbst gehostete Suite für Dokumentenzusammenarbeit mit Dokumenten, Textverarbeitung, Tabellen, Präsentationen, Formularen und strukturierten Tabellen in Ihrer Private Cloud sowie privat konfigurierbaren AI Agents in jedem Produkt.</p>
 
