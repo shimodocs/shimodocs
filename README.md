@@ -190,7 +190,7 @@ ShimoDocs uses an agentic **Responses mode**, not a basic Copilot-style chat box
 </p>
 
 1. Download the latest installer from [GitHub Releases](https://github.com/shimodocs/shimodocs/releases).
-2. Follow the [ShimoDocs Suite deployment and operations documentation](./docs/deployment/README.md) to deploy on your own servers, private cloud, or data center.
+2. Follow the [ShimoDocs Suite deployment and operations documentation](https://shimodocs.com/docs/deployment) to deploy on your own servers, private cloud, or data center.
 3. Email [support.global@shimo.im](mailto:support.global@shimo.im) to request your free-forever 5-user license.
 4. Activate the license, create a workspace, and invite your team.
 
@@ -199,97 +199,97 @@ ShimoDocs uses an agentic **Responses mode**, not a basic Copilot-style chat box
 
 Browse the complete installation, configuration, operations, and troubleshooting guides for ShimoDocs Suite.
 
-- [Deployment and operations overview](./docs/deployment/README.md)
+- [Deployment and operations overview](https://shimodocs.com/docs/deployment)
 
 ### Plan Your Deployment
 
-- [System Requirements](./docs/deployment/system-requirements.md)
-- [Resource Planning](./docs/deployment/getting-started/resource-planning.md)
+- [System Requirements](https://shimodocs.com/docs/deployment/system-requirements)
+- [Resource Planning](https://shimodocs.com/docs/deployment/getting-started/resource-planning)
 
 ### Install ShimoDocs Suite
 
-- [Quick Start](./docs/deployment/getting-started/quick-start.md)
-- [Single-node Kubernetes Deployment](./docs/deployment/getting-started/single-node-kubernetes.md)
-- [High Availability Kubernetes Deployment](./docs/deployment/getting-started/high-availability-kubernetes.md)
+- [Quick Start](https://shimodocs.com/docs/deployment/getting-started/quick-start)
+- [Single-node Kubernetes Deployment](https://shimodocs.com/docs/deployment/getting-started/single-node-kubernetes)
+- [High Availability Kubernetes Deployment](https://shimodocs.com/docs/deployment/getting-started/high-availability-kubernetes)
 
 ### Connecting to External Middleware
 
-- [MySQL 8 Requirements](./docs/deployment/middleware/mysql/requirements.md)
-- [Deployment with MySQL 8](./docs/deployment/middleware/mysql/deployment.md)
-- [Dameng V8 Requirements](./docs/deployment/middleware/dameng/requirements.md)
-- [Deployment with Dameng V8](./docs/deployment/middleware/dameng/deployment.md)
-- [Object Storage Configuration](./docs/deployment/middleware/object-storage/configuration.md)
-- [Deploying with Object Storage](./docs/deployment/middleware/object-storage/deployment.md)
-- [Kafka Configuration](./docs/deployment/middleware/kafka/configuration.md)
-- [Deploying with Kafka](./docs/deployment/middleware/kafka/deployment.md)
-- [Redis Configuration](./docs/deployment/middleware/redis/configuration.md)
-- [Deploying with Redis](./docs/deployment/middleware/redis/deployment.md)
-- [MongoDB Configuration](./docs/deployment/middleware/mongodb/configuration.md)
-- [Deploying with MongoDB](./docs/deployment/middleware/mongodb/deployment.md)
+- [MySQL 8 Requirements](https://shimodocs.com/docs/deployment/middleware/mysql/requirements)
+- [Deployment with MySQL 8](https://shimodocs.com/docs/deployment/middleware/mysql/deployment)
+- [Dameng V8 Requirements](https://shimodocs.com/docs/deployment/middleware/dameng/requirements)
+- [Deployment with Dameng V8](https://shimodocs.com/docs/deployment/middleware/dameng/deployment)
+- [Object Storage Configuration](https://shimodocs.com/docs/deployment/middleware/object-storage/configuration)
+- [Deploying with Object Storage](https://shimodocs.com/docs/deployment/middleware/object-storage/deployment)
+- [Kafka Configuration](https://shimodocs.com/docs/deployment/middleware/kafka/configuration)
+- [Deploying with Kafka](https://shimodocs.com/docs/deployment/middleware/kafka/deployment)
+- [Redis Configuration](https://shimodocs.com/docs/deployment/middleware/redis/configuration)
+- [Deploying with Redis](https://shimodocs.com/docs/deployment/middleware/redis/deployment)
+- [MongoDB Configuration](https://shimodocs.com/docs/deployment/middleware/mongodb/configuration)
+- [Deploying with MongoDB](https://shimodocs.com/docs/deployment/middleware/mongodb/deployment)
 
 ### Operations Platform
 
-- [Overview of Operations Platform](./docs/deployment/operations-platform/README.md)
+- [Overview of Operations Platform](https://shimodocs.com/docs/deployment/operations-platform)
 
 ### Manage ShimoDocs Suite
 
-- [License Management](./docs/deployment/operations-platform/suite/license-management.md)
-- [Tenant Management](./docs/deployment/operations-platform/suite/tenant-management.md)
-- [AI Configuration](./docs/deployment/operations-platform/suite/ai-configuration.md)
-- [Suite User Management](./docs/deployment/operations-platform/suite/user-management.md)
-- [Brand Customization](./docs/deployment/operations-platform/suite/brand-customization.md)
-- [System Configuration](./docs/deployment/operations-platform/suite/configuration/system-configuration.md)
-- [Editor Configuration](./docs/deployment/operations-platform/suite/configuration/editor-configuration.md)
+- [License Management](https://shimodocs.com/docs/deployment/operations-platform/suite/license-management)
+- [Tenant Management](https://shimodocs.com/docs/deployment/operations-platform/suite/tenant-management)
+- [AI Configuration](https://shimodocs.com/docs/deployment/operations-platform/suite/ai-configuration)
+- [Suite User Management](https://shimodocs.com/docs/deployment/operations-platform/suite/user-management)
+- [Brand Customization](https://shimodocs.com/docs/deployment/operations-platform/suite/brand-customization)
+- [System Configuration](https://shimodocs.com/docs/deployment/operations-platform/suite/configuration/system-configuration)
+- [Editor Configuration](https://shimodocs.com/docs/deployment/operations-platform/suite/configuration/editor-configuration)
 
 ### Operating System Services
 
-- [Cluster Management](./docs/deployment/operations-platform/system-services/service-operations/cluster-management.md)
-- [Middleware Configuration](./docs/deployment/operations-platform/system-services/service-operations/middleware-configuration.md)
-- [Service Logs](./docs/deployment/operations-platform/system-services/service-operations/service-logs.md)
-- [Real-time Logs](./docs/deployment/operations-platform/system-services/service-operations/real-time-logs.md)
-- [System Upgrade](./docs/deployment/operations-platform/system-services/service-operations/system-upgrade.md)
-- [Configuration Center](./docs/deployment/operations-platform/system-services/service-operations/configuration-center.md)
+- [Cluster Management](https://shimodocs.com/docs/deployment/operations-platform/system-services/service-operations/cluster-management)
+- [Middleware Configuration](https://shimodocs.com/docs/deployment/operations-platform/system-services/service-operations/middleware-configuration)
+- [Service Logs](https://shimodocs.com/docs/deployment/operations-platform/system-services/service-operations/service-logs)
+- [Real-time Logs](https://shimodocs.com/docs/deployment/operations-platform/system-services/service-operations/real-time-logs)
+- [System Upgrade](https://shimodocs.com/docs/deployment/operations-platform/system-services/service-operations/system-upgrade)
+- [Configuration Center](https://shimodocs.com/docs/deployment/operations-platform/system-services/service-operations/configuration-center)
 
 ### Using Operations and Maintenance Tools
 
-- [Static Resource Monitoring](./docs/deployment/operations-platform/system-services/toolset/static-resource-monitoring.md)
-- [Middleware Detection](./docs/deployment/operations-platform/system-services/toolset/middleware-inspection.md)
-- [Container Packet Capture](./docs/deployment/operations-platform/system-services/toolset/container-packet-capture.md)
-- [Compatibility Testing](./docs/deployment/operations-platform/system-services/toolset/compatibility-testing.md)
-- [General Tools](./docs/deployment/operations-platform/system-services/toolset/general-tools.md)
+- [Static Resource Monitoring](https://shimodocs.com/docs/deployment/operations-platform/system-services/toolset/static-resource-monitoring)
+- [Middleware Detection](https://shimodocs.com/docs/deployment/operations-platform/system-services/toolset/middleware-inspection)
+- [Container Packet Capture](https://shimodocs.com/docs/deployment/operations-platform/system-services/toolset/container-packet-capture)
+- [Compatibility Testing](https://shimodocs.com/docs/deployment/operations-platform/system-services/toolset/compatibility-testing)
+- [General Tools](https://shimodocs.com/docs/deployment/operations-platform/system-services/toolset/general-tools)
 
 ### Using Middleware Tools
 
-- [RDB Tools](./docs/deployment/operations-platform/system-services/middleware-tools/rdb.md)
-- [Kafka Tools](./docs/deployment/operations-platform/system-services/middleware-tools/kafka.md)
-- [gRPC Tools](./docs/deployment/operations-platform/system-services/middleware-tools/grpc.md)
-- [Redis Tools](./docs/deployment/operations-platform/system-services/middleware-tools/redis.md)
-- [MongoDB Tools](./docs/deployment/operations-platform/system-services/middleware-tools/mongodb.md)
+- [RDB Tools](https://shimodocs.com/docs/deployment/operations-platform/system-services/middleware-tools/rdb)
+- [Kafka Tools](https://shimodocs.com/docs/deployment/operations-platform/system-services/middleware-tools/kafka)
+- [gRPC Tools](https://shimodocs.com/docs/deployment/operations-platform/system-services/middleware-tools/grpc)
+- [Redis Tools](https://shimodocs.com/docs/deployment/operations-platform/system-services/middleware-tools/redis)
+- [MongoDB Tools](https://shimodocs.com/docs/deployment/operations-platform/system-services/middleware-tools/mongodb)
 
 ### Configuration Control Panel
 
-- [Notification Channels](./docs/deployment/operations-platform/system-services/control-panel/notification-channels.md)
-- [Advanced Settings](./docs/deployment/operations-platform/system-services/control-panel/advanced-settings.md)
+- [Notification Channels](https://shimodocs.com/docs/deployment/operations-platform/system-services/control-panel/notification-channels)
+- [Advanced Settings](https://shimodocs.com/docs/deployment/operations-platform/system-services/control-panel/advanced-settings)
 
 ### Control Business Operations
 
-- [Transcoding Event Search](./docs/deployment/operations-platform/system-services/business-control/transcoding-events.md)
-- [File Information Search](./docs/deployment/operations-platform/system-services/business-control/file-information.md)
-- [Collaboration Blocking](./docs/deployment/operations-platform/system-services/business-control/collaboration-blocking.md)
-- [Document Repair](./docs/deployment/operations-platform/system-services/business-control/document-repair.md)
+- [Transcoding Event Search](https://shimodocs.com/docs/deployment/operations-platform/system-services/business-control/transcoding-events)
+- [File Information Search](https://shimodocs.com/docs/deployment/operations-platform/system-services/business-control/file-information)
+- [Collaboration Blocking](https://shimodocs.com/docs/deployment/operations-platform/system-services/business-control/collaboration-blocking)
+- [Document Repair](https://shimodocs.com/docs/deployment/operations-platform/system-services/business-control/document-repair)
 
 ### Management Platform
 
-- [Platform User Management](./docs/deployment/operations-platform/system-services/system-management/user-management.md)
-- [Audit Log](./docs/deployment/operations-platform/system-services/system-management/audit-logs.md)
+- [Platform User Management](https://shimodocs.com/docs/deployment/operations-platform/system-services/system-management/user-management)
+- [Audit Log](https://shimodocs.com/docs/deployment/operations-platform/system-services/system-management/audit-logs)
 
 ### Troubleshooting and Maintenance
 
-- [Installation Troubleshooting](./docs/deployment/troubleshooting/installation.md)
-- [Data Backup](./docs/deployment/troubleshooting/data-backup.md)
-- [Monitoring Metrics Reference](./docs/deployment/troubleshooting/monitoring-metrics.md)
-- [Collaborative Editing Events](./docs/deployment/troubleshooting/collaboration-editing-incident.md)
-- [Incident Response SOP](./docs/deployment/troubleshooting/incident-response-sop.md)
+- [Installation Troubleshooting](https://shimodocs.com/docs/deployment/troubleshooting/installation)
+- [Data Backup](https://shimodocs.com/docs/deployment/troubleshooting/data-backup)
+- [Monitoring Metrics Reference](https://shimodocs.com/docs/deployment/troubleshooting/monitoring-metrics)
+- [Collaborative Editing Events](https://shimodocs.com/docs/deployment/troubleshooting/collaboration-editing-incident)
+- [Incident Response SOP](https://shimodocs.com/docs/deployment/troubleshooting/incident-response-sop)
 <!-- deployment-docs:end -->
 
 ## ShimoDocs vs Google Docs
