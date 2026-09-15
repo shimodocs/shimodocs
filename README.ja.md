@@ -180,7 +180,7 @@ ShimoDocs は単純な Copilot 型チャットではなく、エージェント�
 <p align="center"><img src="./assets/readme/get-started.svg" alt="ダウンロード、プライベート導入、ライセンス申請、共同作業開始" width="100%" /></p>
 
 1. [GitHub Releases](https://github.com/shimodocs/shimodocs/releases) から最新のインストールパッケージをダウンロードします。
-2. [ShimoDocs Suite の導入・運用ドキュメント](./docs/ja/deployment/README.md)に従い、自社サーバー、プライベートクラウド、またはデータセンターに導入します。
+2. [ShimoDocs Suite の導入・運用ドキュメント](https://shimodocs.com/ja/docs/deployment)に従い、自社サーバー、プライベートクラウド、またはデータセンターに導入します。
 3. [support.global@shimo.im](mailto:support.global@shimo.im) へメールを送り、5ユーザー永久無料ライセンスを申請します。
 4. ライセンスを有効化し、ワークスペースを作成してチームを招待します。
 
@@ -189,97 +189,97 @@ ShimoDocs は単純な Copilot 型チャットではなく、エージェント�
 
 ShimoDocs Suite のインストール、設定、運用、トラブルシューティングに関する全ガイドを確認できます。
 
-- [導入・運用の概要](./docs/ja/deployment/README.md)
+- [導入・運用の概要](https://shimodocs.com/ja/docs/deployment)
 
 ### 展開を計画する
 
-- [システム要件](./docs/ja/deployment/system-requirements.md)
-- [リソース計画](./docs/ja/deployment/getting-started/resource-planning.md)
+- [システム要件](https://shimodocs.com/ja/docs/deployment/system-requirements)
+- [リソース計画](https://shimodocs.com/ja/docs/deployment/getting-started/resource-planning)
 
 ### インストール ShimoDocs Suite
 
-- [クイックスタート](./docs/ja/deployment/getting-started/quick-start.md)
-- [シングルノード Kubernetes 展開](./docs/ja/deployment/getting-started/single-node-kubernetes.md)
-- [高可用性 Kubernetes 展開](./docs/ja/deployment/getting-started/high-availability-kubernetes.md)
+- [クイックスタート](https://shimodocs.com/ja/docs/deployment/getting-started/quick-start)
+- [シングルノード Kubernetes 展開](https://shimodocs.com/ja/docs/deployment/getting-started/single-node-kubernetes)
+- [高可用性 Kubernetes 展開](https://shimodocs.com/ja/docs/deployment/getting-started/high-availability-kubernetes)
 
 ### 外部ミドルウェアに接続
 
-- [MySQL 8 要件](./docs/ja/deployment/middleware/mysql/requirements.md)
-- [で展開 MySQL 8](./docs/ja/deployment/middleware/mysql/deployment.md)
-- [Dameng V8 要件](./docs/ja/deployment/middleware/dameng/requirements.md)
-- [で展開 Dameng V8](./docs/ja/deployment/middleware/dameng/deployment.md)
-- [オブジェクトストレージ構成](./docs/ja/deployment/middleware/object-storage/configuration.md)
-- [オブジェクトストレージで展開](./docs/ja/deployment/middleware/object-storage/deployment.md)
-- [Kafka 構成](./docs/ja/deployment/middleware/kafka/configuration.md)
-- [で展開 Kafka](./docs/ja/deployment/middleware/kafka/deployment.md)
-- [Redis 構成](./docs/ja/deployment/middleware/redis/configuration.md)
-- [で展開 Redis](./docs/ja/deployment/middleware/redis/deployment.md)
-- [MongoDB 構成](./docs/ja/deployment/middleware/mongodb/configuration.md)
-- [で展開 MongoDB](./docs/ja/deployment/middleware/mongodb/deployment.md)
+- [MySQL 8 要件](https://shimodocs.com/ja/docs/deployment/middleware/mysql/requirements)
+- [で展開 MySQL 8](https://shimodocs.com/ja/docs/deployment/middleware/mysql/deployment)
+- [Dameng V8 要件](https://shimodocs.com/ja/docs/deployment/middleware/dameng/requirements)
+- [で展開 Dameng V8](https://shimodocs.com/ja/docs/deployment/middleware/dameng/deployment)
+- [オブジェクトストレージ構成](https://shimodocs.com/ja/docs/deployment/middleware/object-storage/configuration)
+- [オブジェクトストレージで展開](https://shimodocs.com/ja/docs/deployment/middleware/object-storage/deployment)
+- [Kafka 構成](https://shimodocs.com/ja/docs/deployment/middleware/kafka/configuration)
+- [で展開 Kafka](https://shimodocs.com/ja/docs/deployment/middleware/kafka/deployment)
+- [Redis 構成](https://shimodocs.com/ja/docs/deployment/middleware/redis/configuration)
+- [で展開 Redis](https://shimodocs.com/ja/docs/deployment/middleware/redis/deployment)
+- [MongoDB 構成](https://shimodocs.com/ja/docs/deployment/middleware/mongodb/configuration)
+- [で展開 MongoDB](https://shimodocs.com/ja/docs/deployment/middleware/mongodb/deployment)
 
 ### 運用プラットフォーム
 
-- [運用プラットフォーム概要](./docs/ja/deployment/operations-platform/README.md)
+- [運用プラットフォーム概要](https://shimodocs.com/ja/docs/deployment/operations-platform)
 
 ### 管理 ShimoDocs Suite
 
-- [ライセンス管理](./docs/ja/deployment/operations-platform/suite/license-management.md)
-- [テナント管理](./docs/ja/deployment/operations-platform/suite/tenant-management.md)
-- [AI構成](./docs/ja/deployment/operations-platform/suite/ai-configuration.md)
-- [スイートユーザー管理](./docs/ja/deployment/operations-platform/suite/user-management.md)
-- [ブランドカスタマイズ](./docs/ja/deployment/operations-platform/suite/brand-customization.md)
-- [システム構成](./docs/ja/deployment/operations-platform/suite/configuration/system-configuration.md)
-- [エディター構成](./docs/ja/deployment/operations-platform/suite/configuration/editor-configuration.md)
+- [ライセンス管理](https://shimodocs.com/ja/docs/deployment/operations-platform/suite/license-management)
+- [テナント管理](https://shimodocs.com/ja/docs/deployment/operations-platform/suite/tenant-management)
+- [AI構成](https://shimodocs.com/ja/docs/deployment/operations-platform/suite/ai-configuration)
+- [スイートユーザー管理](https://shimodocs.com/ja/docs/deployment/operations-platform/suite/user-management)
+- [ブランドカスタマイズ](https://shimodocs.com/ja/docs/deployment/operations-platform/suite/brand-customization)
+- [システム構成](https://shimodocs.com/ja/docs/deployment/operations-platform/suite/configuration/system-configuration)
+- [エディター構成](https://shimodocs.com/ja/docs/deployment/operations-platform/suite/configuration/editor-configuration)
 
 ### システムサービスを運用
 
-- [クラスタ管理](./docs/ja/deployment/operations-platform/system-services/service-operations/cluster-management.md)
-- [ミドルウェア構成](./docs/ja/deployment/operations-platform/system-services/service-operations/middleware-configuration.md)
-- [サービスログ](./docs/ja/deployment/operations-platform/system-services/service-operations/service-logs.md)
-- [リアルタイムログ](./docs/ja/deployment/operations-platform/system-services/service-operations/real-time-logs.md)
-- [システムアップグレード](./docs/ja/deployment/operations-platform/system-services/service-operations/system-upgrade.md)
-- [構成センター](./docs/ja/deployment/operations-platform/system-services/service-operations/configuration-center.md)
+- [クラスタ管理](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/service-operations/cluster-management)
+- [ミドルウェア構成](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/service-operations/middleware-configuration)
+- [サービスログ](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/service-operations/service-logs)
+- [リアルタイムログ](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/service-operations/real-time-logs)
+- [システムアップグレード](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/service-operations/system-upgrade)
+- [構成センター](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/service-operations/configuration-center)
 
 ### 運用ツールを使用
 
-- [静的リソース監視](./docs/ja/deployment/operations-platform/system-services/toolset/static-resource-monitoring.md)
-- [ミドルウェア検査](./docs/ja/deployment/operations-platform/system-services/toolset/middleware-inspection.md)
-- [コンテナパケットキャプチャ](./docs/ja/deployment/operations-platform/system-services/toolset/container-packet-capture.md)
-- [互換性テスト](./docs/ja/deployment/operations-platform/system-services/toolset/compatibility-testing.md)
-- [一般ツール](./docs/ja/deployment/operations-platform/system-services/toolset/general-tools.md)
+- [静的リソース監視](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/toolset/static-resource-monitoring)
+- [ミドルウェア検査](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/toolset/middleware-inspection)
+- [コンテナパケットキャプチャ](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/toolset/container-packet-capture)
+- [互換性テスト](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/toolset/compatibility-testing)
+- [一般ツール](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/toolset/general-tools)
 
 ### ミドルウェアツールを使用
 
-- [RDB ツール](./docs/ja/deployment/operations-platform/system-services/middleware-tools/rdb.md)
-- [Kafka ツール](./docs/ja/deployment/operations-platform/system-services/middleware-tools/kafka.md)
-- [gRPC ツール](./docs/ja/deployment/operations-platform/system-services/middleware-tools/grpc.md)
-- [Redis ツール](./docs/ja/deployment/operations-platform/system-services/middleware-tools/redis.md)
-- [MongoDB ツール](./docs/ja/deployment/operations-platform/system-services/middleware-tools/mongodb.md)
+- [RDB ツール](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/middleware-tools/rdb)
+- [Kafka ツール](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/middleware-tools/kafka)
+- [gRPC ツール](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/middleware-tools/grpc)
+- [Redis ツール](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/middleware-tools/redis)
+- [MongoDB ツール](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/middleware-tools/mongodb)
 
 ### コントロールパネルの設定
 
-- [通知チャネル](./docs/ja/deployment/operations-platform/system-services/control-panel/notification-channels.md)
-- [高度な設定](./docs/ja/deployment/operations-platform/system-services/control-panel/advanced-settings.md)
+- [通知チャネル](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/control-panel/notification-channels)
+- [高度な設定](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/control-panel/advanced-settings)
 
 ### 業務運営を管理
 
-- [トランスコーディングイベント検索](./docs/ja/deployment/operations-platform/system-services/business-control/transcoding-events.md)
-- [ファイル情報検索](./docs/ja/deployment/operations-platform/system-services/business-control/file-information.md)
-- [共同作業のブロック](./docs/ja/deployment/operations-platform/system-services/business-control/collaboration-blocking.md)
-- [文書修復](./docs/ja/deployment/operations-platform/system-services/business-control/document-repair.md)
+- [トランスコーディングイベント検索](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/business-control/transcoding-events)
+- [ファイル情報検索](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/business-control/file-information)
+- [共同作業のブロック](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/business-control/collaboration-blocking)
+- [文書修復](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/business-control/document-repair)
 
 ### プラットフォームを管理
 
-- [プラットフォームユーザー管理](./docs/ja/deployment/operations-platform/system-services/system-management/user-management.md)
-- [監査ログ](./docs/ja/deployment/operations-platform/system-services/system-management/audit-logs.md)
+- [プラットフォームユーザー管理](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/system-management/user-management)
+- [監査ログ](https://shimodocs.com/ja/docs/deployment/operations-platform/system-services/system-management/audit-logs)
 
 ### トラブルシューティングと保守
 
-- [インストール時のトラブルシューティング](./docs/ja/deployment/troubleshooting/installation.md)
-- [データバックアップ](./docs/ja/deployment/troubleshooting/data-backup.md)
-- [監視指標リファレンス](./docs/ja/deployment/troubleshooting/monitoring-metrics.md)
-- [共同編集インシデント](./docs/ja/deployment/troubleshooting/collaboration-editing-incident.md)
-- [インシデント対応 SOP](./docs/ja/deployment/troubleshooting/incident-response-sop.md)
+- [インストール時のトラブルシューティング](https://shimodocs.com/ja/docs/deployment/troubleshooting/installation)
+- [データバックアップ](https://shimodocs.com/ja/docs/deployment/troubleshooting/data-backup)
+- [監視指標リファレンス](https://shimodocs.com/ja/docs/deployment/troubleshooting/monitoring-metrics)
+- [共同編集インシデント](https://shimodocs.com/ja/docs/deployment/troubleshooting/collaboration-editing-incident)
+- [インシデント対応 SOP](https://shimodocs.com/ja/docs/deployment/troubleshooting/incident-response-sop)
 <!-- deployment-docs:end -->
 
 ## ShimoDocs と Google Docs の比較
